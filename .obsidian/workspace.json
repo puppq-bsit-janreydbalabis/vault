@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "4bf04756af0d42b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7c117edf182922a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e2ca521799a6c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Raw Notes/Books/Becoming Steve Jobs/Work super harder towards your goals. Have the humility to learn from your failures.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Work super harder towards your goals. Have the humility to learn from your failures"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0411aed86d4a7b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff7b9aa1dcfb8233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41145c76fe9d817b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e7813eb599d916d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4a8729084c62aedf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "061688a764034036",
+    "type": "split",
+    "children": [
+      {
+        "id": "a622bc9b1b5ffc35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d6cbd88f40b3a9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Raw Notes/Books/1 - Becoming Steve Jobs/Make your goal as compelling as possible.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Make your goal as compelling as possible"
+            }
+          },
+          {
+            "id": "9422ae1054a3f7bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Raw Notes/Books/1 - Becoming Steve Jobs/Make your goal as compelling as possible.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Make your goal as compelling as possible"
+            }
+          },
+          {
+            "id": "f182be579b930a02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cad5847f4dd457b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Raw Notes/Books/Becoming Steve Jobs/Work super harder towards your goals. Have the humility to learn from your failures.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Work super harder towards your goals. Have the humility to learn from your failures"
+            }
+          },
+          {
+            "id": "d1c6df57d90bb881",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d1c6df57d90bb881",
+  "lastOpenFiles": [
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Great work means loving what you do and being passionate about it.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/We will lose sometimes, what matters is how we stand up and try again.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Work super harder towards your goals. Have the humility to learn from your failures.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Just pick the right person and no one else.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Don't be afraid to challenge authority and question everything.md",
+    "2 - Zettelkasten/B - Tags/BE FEARLESS.md",
+    "2 - Zettelkasten/B - Tags/LIFE.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Make sure that every interaction with the customer is done with excellence.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/The journey is the reward.md",
+    "2 - Zettelkasten/B - Tags/JOURNEY.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/The goal of making a company is to work with smart and creative people to create great products and useful services.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Surround yourself with capable people.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Call me crazy, i don't care.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Keep doing things.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Always ask how to keep moving forward.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Hire those people that are better than you and not afraid to tell you're wrong.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Fire immediately those people that aren't reliable.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Embrace new technology that will make your work efficient. Don't be a luddite.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Attention to detail is important.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/It's okay to fail as long as your tried your best.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/There is no place in the company for those who weren't good at their job.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Separate your self from idea.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Try you're very best to hire the best people in the world.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Real engineers don't give up when faced with difficult problems.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Try to aim perfection in everything you'll do even if you're always wrong at some point.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Real artist ships.md",
+    "TagsRoutes/logs",
+    "TagsRoutes",
+    "Untitled.canvas",
+    "2 - Zettelkasten/C - Book Lists",
+    "2 - Zettelkasten/B - Tags",
+    "2 - Zettelkasten/Book List/Becoming Steve Jobs",
+    "C - Book Lists",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/1.canvas",
+    "1 - Raw Notes/Books/Becoming Steve Jobs",
+    "1 - Raw Notes/Books/Book Titles",
+    "3 - Zettelkasten/Untitled",
+    "3 - Zettelkasten/C - Book Titles"
+  ]
+}
