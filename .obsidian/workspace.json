@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Raw Notes/Books/Becoming Steve Jobs/Hire those people that are better than you and not afraid to tell you're wrong.md",
+                "file": "1 - Raw Notes/Books/Zero to One/Think from first principles not formula.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hire those people that are better than you and not afraid to tell you're wrong"
+              "title": "Think from first principles not formula"
             }
           }
         ]
@@ -189,8 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1c6df57d90bb881",
+  "active": "f17dfc2c1a698a8e",
   "lastOpenFiles": [
+    "2 - Zettelkasten/C - Book Lists/2 - ZERO TO ONE.md",
+    "1 - Raw Notes/Books/Zero to One/Think from first principles not formula.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Hire those people that are better than you and not afraid to tell you're wrong.md",
+    "1 - Raw Notes/Books/Zero to One",
     "README.md",
     "2 - Zettelkasten/A - Templates/Book Notes.md",
     "2 - Zettelkasten/A - Templates/General Note.md",
@@ -210,14 +214,11 @@
     "1 - Raw Notes/Books/Becoming Steve Jobs/Call me crazy, i don't care.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs/Keep doing things.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs/Always ask how to keep moving forward.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Hire those people that are better than you and not afraid to tell you're wrong.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs/Fire immediately those people that aren't reliable.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs/Embrace new technology that will make your work efficient. Don't be a luddite.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs/Attention to detail is important.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs/It's okay to fail as long as your tried your best.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs/There is no place in the company for those who weren't good at their job.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Separate your self from idea.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Try you're very best to hire the best people in the world.md",
     "TagsRoutes/logs",
     "TagsRoutes",
     "Untitled.canvas",
@@ -227,7 +228,6 @@
     "C - Book Lists",
     "1 - Raw Notes/Books/Becoming Steve Jobs/1.canvas",
     "1 - Raw Notes/Books/Becoming Steve Jobs",
-    "1 - Raw Notes/Books/Book Titles",
-    "3 - Zettelkasten/Untitled"
+    "1 - Raw Notes/Books/Book Titles"
   ]
 }
