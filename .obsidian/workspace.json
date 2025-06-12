@@ -11,10 +11,24 @@
             "id": "f17dfc2c1a698a8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Raw Notes/Books/Becoming Steve Jobs/Hire those people that are better than you and not afraid to tell you're wrong.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hire those people that are better than you and not afraid to tell you're wrong"
             }
           }
         ]
@@ -177,6 +191,8 @@
   },
   "active": "41145c76fe9d817b",
   "lastOpenFiles": [
+    "2 - Zettelkasten/A - Templates/Book Notes.md",
+    "2 - Zettelkasten/A - Templates/General Note.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs/Work super harder towards your goals. Have the humility to learn from your failures.md",
     "obsidian-vault",
     "1 - Raw Notes/Books/Becoming Steve Jobs/Great work means loving what you do and being passionate about it.md",
@@ -202,7 +218,6 @@
     "1 - Raw Notes/Books/Becoming Steve Jobs/Separate your self from idea.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs/Try you're very best to hire the best people in the world.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs/Real engineers don't give up when faced with difficult problems.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Try to aim perfection in everything you'll do even if you're always wrong at some point.md",
     "TagsRoutes/logs",
     "TagsRoutes",
     "Untitled.canvas",
