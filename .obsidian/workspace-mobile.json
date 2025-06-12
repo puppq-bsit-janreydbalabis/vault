@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "faecadf6efd5f1e5",
+    "id": "899dc29379aa4476",
     "type": "split",
     "children": [
       {
-        "id": "efb3c686b17de27c",
+        "id": "0481ccdb16644362",
         "type": "tabs",
         "children": [
           {
-            "id": "fd7770c77e18240b",
+            "id": "04968184fce45c5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Zettelkasten/B - Tags/management principles.md",
+                "file": "2 - Zettelkasten/B - Tags/STRATEGY.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "management principles"
+              "title": "STRATEGY"
             }
           }
         ]
@@ -37,16 +37,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "90b15900c52ea040",
+    "id": "03ff18ba188361d2",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "7201b5643ade0a74",
+        "id": "db52dc2137659f99",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byCreatedTime",
+            "sortOrder": "alphabetical",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "00591218ab215671",
+        "id": "8e4a678d2597889e",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -71,7 +71,7 @@
         }
       },
       {
-        "id": "4578d57b52aed58e",
+        "id": "77a87b8053102fce",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -86,7 +86,7 @@
         }
       },
       {
-        "id": "0dca3174dc3b94d8",
+        "id": "a0edad127536a946",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -99,16 +99,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "5dd540f10c875ec7",
+    "id": "9403bbd0a92acbf1",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5662b915adeea4f5",
+        "id": "353a3705fd075d85",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2 - Zettelkasten/B - Tags/strategy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,12 +121,11 @@
         }
       },
       {
-        "id": "14fe46c6115b799f",
+        "id": "5d502cb38dd82ec2",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Syncthing.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -136,12 +134,11 @@
         }
       },
       {
-        "id": "69199014c2d051a2",
+        "id": "365d7d7bd8babe1f",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Syncthing.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -149,9 +146,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "9e6b6a012b597fc0",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,37 +167,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7201b5643ade0a74",
+  "active": "04968184fce45c5f",
   "lastOpenFiles": [
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Work super harder towards your goals. Have the humility to learn from your failures.md",
-    "2 - Zettelkasten/B - Tags/strategy.md",
-    "2 - Zettelkasten/B - Tags/MINDSET.md",
-    "2 - Zettelkasten/B - Tags/LIFE.md",
-    "2 - Zettelkasten/B - Tags/FUTURE.md",
-    "2 - Zettelkasten/B - Tags/CREATING THINGS.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/We will lose sometimes, what matters is how we stand up and try again.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Try you're very best to hire the best people in the world.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Try to aim perfection in everything you'll do even if you're always wrong at some point.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/There is no place in the company for those who weren't good at their job.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/The journey is the reward.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/The goal of making a company is to work with smart and creative people to create great products and useful services.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Surround yourself with capable people.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Simplicity is the ultimate sophistication.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Separate your self from idea.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Real engineers don't give up when faced with difficult problems.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Real artist ships.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Make your goal as compelling as possible.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Make sure that every interaction with the customer is done with excellence.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Keep doing things.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Just pick the right person and no one else.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/It's okay to fail as long as your tried your best.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Hiring for technological genius will create many possibilities.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Hire those people that are better than you and not afraid to tell you're wrong.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Great work means loving what you do and being passionate about it.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Fire immediately those people that aren't reliable.md",
-    "Untitled"
+    "2 - Zettelkasten/B - Tags/QUESTION.md",
+    "/2 - Zettelkasten/C - Book Lists/2 - ZERO TO ONE.md",
+    "2 - Zettelkasten/C - Book Lists/2 - ZERO TO ONE.md",
+    "/2 - Zettelkasten/C - Book Lists",
+    "/2 - Zettelkasten/B - Tags/QUESTION.md",
+    "/2 - Zettelkasten/B - Tags/BUSINESS.md",
+    "2 - Zettelkasten/B - Tags/BUSINESS.md",
+    "/2 - Zettelkasten/B - Tags",
+    "/2 - Zettelkasten",
+    "1 - Raw Notes/Books/Zero to One/Think long term.md",
+    "1 - Raw Notes/Books/Zero to One/Be good in what you do that no other company can compete.md",
+    "1 - Raw Notes/Books/Zero to One/A good business has the ability to be scaled.md",
+    "1 - Raw Notes/Books/Zero to One/Think from first principles not formula.md",
+    "1 - Raw Notes/Books/Zero to One/Strong men believe in cause and effect.md",
+    "1 - Raw Notes/Books/Zero to One/Startup should start small.md",
+    "1 - Raw Notes/Books/Zero to One/Question received answers.md",
+    "1 - Raw Notes/Books/Zero to One/Make sure the business is built with the right foundations.md",
+    "1 - Raw Notes/Books/Zero to One/It's important to improve our technology and build new one.md",
+    "1 - Raw Notes/Books/Zero to One/For a company to be a valuable it must grow and endure.md",
+    "1 - Raw Notes/Books/Zero to One/Focus on how to make your products or services as great as possible.md",
+    "1 - Raw Notes/Books/Zero to One/Dominate a small market first before scaling.md",
+    "1 - Raw Notes/Books/Zero to One/Creating value means giving unique offers and people would feel stupid if they refuse.md",
+    "1 - Raw Notes/Books/Zero to One/By monopoly, we mean a company that's so good in what it does that no other company can compete.md",
+    "/1 - Raw Notes/Books/Zero to One/Think long term.md",
+    "/1 - Raw Notes/Books/Zero to One/Be good in what you do that no other company can compete.md",
+    "/1 - Raw Notes/Books/Zero to One/A good business has the ability to be scaled.md",
+    "/1 - Raw Notes/Books/Zero to One/Think from first principles not formula.md",
+    "/1 - Raw Notes/Books/Zero to One/Strong men believe in cause and effect.md",
+    "/1 - Raw Notes/Books/Zero to One/Startup should start small.md",
+    "/1 - Raw Notes/Books/Becoming Steve Jobs",
+    "/1 - Raw Notes/Books/Zero to One",
+    "1 - Raw Notes/Books/Zero to One",
+    "/1 - Raw Notes/Books",
+    "/1 - Raw Notes",
+    "2 - Zettelkasten/C - Book Lists",
+    "2 - Zettelkasten/B - Tags"
   ]
 }
