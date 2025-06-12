@@ -1,1 +1,1 @@
-Author : Peter Thiel 
+Author : Peter Thiel

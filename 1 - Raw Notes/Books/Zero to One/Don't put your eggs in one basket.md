@@ -1,5 +1,5 @@
 Date: 2025-06-12
-Tags:[[2 - ZERO TO ONE]] [[STRATEGY]]
+Tags: [[2 - ZERO TO ONE]] [[STRATEGY]]
 
 # Don't put your eggs in one basket
 

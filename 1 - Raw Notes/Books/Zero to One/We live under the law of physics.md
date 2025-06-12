@@ -1,5 +1,5 @@
 Date: 2025-06-12
-Tags:[[2 - ZERO TO ONE]] [[LIFE]] 
+Tags: [[2 - ZERO TO ONE]] [[LIFE]] 
 
 # We live under the law of physics
 
