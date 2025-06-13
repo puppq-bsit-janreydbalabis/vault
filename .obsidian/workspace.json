@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Raw Notes/Books/Lying/To communicate honestly is to be truthful.md",
+                "file": "1 - Raw Notes/Books/Lying/Be honest and tell the truth. Be authentic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "To communicate honestly is to be truthful"
+              "title": "Be honest and tell the truth. Be authentic"
             }
           }
         ]
@@ -191,8 +191,11 @@
   },
   "active": "f17dfc2c1a698a8e",
   "lastOpenFiles": [
-    "2 - Zettelkasten/C - Book Lists/3 - LYING.md",
     "1 - Raw Notes/Books/Lying/To communicate honestly is to be truthful.md",
+    "1 - Raw Notes/Books/Lying/Be honest and tell the truth. Be authentic.md",
+    "2 - Zettelkasten/B - Tags/TRUTH.md",
+    "2 - Zettelkasten/B - Tags/COMMUNICATION.md",
+    "2 - Zettelkasten/C - Book Lists/3 - LYING.md",
     "1 - Raw Notes/Books/Zero to One/Computer is invented to help humans not as replacement.md",
     "2 - Zettelkasten/B - Tags/DISTRIBUTION.md",
     "1 - Raw Notes/Books/Zero to One/Distribution is important as the product itself.md",
@@ -215,9 +218,6 @@
     "2 - Zettelkasten/B - Tags/TIME.md",
     "1 - Raw Notes/Books/Zero to One/Don't leave this world without making a dent.md",
     "1 - Raw Notes/Books/Zero to One/One way for a person to fully commit is by compensating them well.md",
-    "1 - Raw Notes/Books/Zero to One/Think long term.md",
-    "1 - Raw Notes/Books/Zero to One/Startup should start small.md",
-    "1 - Raw Notes/Books/Zero to One/Make sure the business is built with the right foundations.md",
     "1 - Raw Notes/Books/Zero to One",
     "obsidian-vault",
     "TagsRoutes/logs",
