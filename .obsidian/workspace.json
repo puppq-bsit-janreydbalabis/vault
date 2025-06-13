@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Raw Notes/Books/Lying/Lies are harmful.md",
+                "file": "1 - Raw Notes/Books/Consider Phlebas/Trust your instinct.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lies are harmful"
+              "title": "Trust your instinct"
             }
           }
         ]
@@ -191,8 +191,14 @@
   },
   "active": "f17dfc2c1a698a8e",
   "lastOpenFiles": [
-    "2 - Zettelkasten/B - Tags/TECHNOLOGY.md",
+    "2 - Zettelkasten/C - Book Lists/4 - CONSIDER PHLEBAS.md",
+    "1 - Raw Notes/Books/Consider Phlebas/Trust your instinct.md",
+    "2 - Zettelkasten/B - Tags/JOURNEY.md",
     "1 - Raw Notes/Books/Lying/Lies are harmful.md",
+    "2 - Zettelkasten/C - Book Lists/4 - CONSIDER PHLEBAS",
+    "1 - Raw Notes/Books/Consider Phlebas",
+    "1 - Raw Notes/Books/Untitled.md",
+    "2 - Zettelkasten/B - Tags/TECHNOLOGY.md",
     "1 - Raw Notes/Books/Lying/Being truthful doesn't mean we should over share some info about ourselves that we prefer to keep private.md",
     "2 - Zettelkasten/C - Book Lists/3 - LYING.md",
     "1 - Raw Notes/Books/Lying/Be honest and tell the truth. Be authentic.md",
@@ -213,10 +219,6 @@
     "1 - Raw Notes/Books/Zero to One/Dominate a small market first before scaling.md",
     "1 - Raw Notes/Books/Zero to One/Don't leave this world without making a dent.md",
     "1 - Raw Notes/Books/Zero to One/Don't sit and hope that the future will be great. You must work hard to make it better.md",
-    "1 - Raw Notes/Books/Zero to One/Every member of your organization should be unique yet united working passionately on the company's vision.md",
-    "1 - Raw Notes/Books/Zero to One/Every single member of the company matters so it's important to choose wisely  — as they can cause you pain.md",
-    "1 - Raw Notes/Books/Zero to One/First you need talented individuals that can work with other talented individuals. Second a compelling vision to make them aligned.md",
-    "1 - Raw Notes/Books/Zero to One/Focus on how to make your products or services as great as possible.md",
     "1 - Raw Notes/Books/Lying",
     "1 - Raw Notes/Books/Zero to One",
     "obsidian-vault",
@@ -226,8 +228,6 @@
     "2 - Zettelkasten/C - Book Lists",
     "2 - Zettelkasten/B - Tags",
     "2 - Zettelkasten/Book List/Becoming Steve Jobs",
-    "C - Book Lists",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/1.canvas",
-    "1 - Raw Notes/Books/Becoming Steve Jobs"
+    "1 - Raw Notes/Books/Becoming Steve Jobs/1.canvas"
   ]
 }
