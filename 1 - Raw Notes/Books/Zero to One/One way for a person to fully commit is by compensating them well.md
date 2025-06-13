@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[BUSINESS]] [[STRATEGY]]
 
 >*For people to be fully committed, they should be properly compensated 
 # References 
-Foundations 
+- Foundations 

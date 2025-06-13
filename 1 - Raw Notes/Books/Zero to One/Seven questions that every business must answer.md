@@ -24,4 +24,4 @@ The durability question
 The secret question
 >*Have you identified a unique opportunity that others don't see?
 # References 
-Seeing green 
+- Seeing green 

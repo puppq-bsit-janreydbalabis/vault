@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[FUTURE]] [[QUESTION]]
 
 >*How can the future get better if no one plans for it
 # References 
- You are not a lottery ticket 
+ - You are not a lottery ticket 

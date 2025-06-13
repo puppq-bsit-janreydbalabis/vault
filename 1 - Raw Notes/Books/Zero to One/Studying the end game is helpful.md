@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[STRATEGY]]
 
 >*You must study the endgame before everything else
 # References 
-Last mover advantage 
+- Last mover advantage 

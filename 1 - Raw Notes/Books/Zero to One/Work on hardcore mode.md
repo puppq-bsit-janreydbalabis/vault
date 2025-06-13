@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[MINDSET]] [[BUSINESS]]
 
 >*Entrepreneurs should take cultures of extreme dedication seriously 
 # References 
-The mechanics of mafia 
+- The mechanics of mafia 

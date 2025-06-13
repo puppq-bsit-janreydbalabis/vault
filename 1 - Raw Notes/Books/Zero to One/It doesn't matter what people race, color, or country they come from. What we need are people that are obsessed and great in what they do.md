@@ -6,4 +6,4 @@ Tags: [[2 - ZERO TO ONE]] [[HIRING]] [[BUSINESS]]
 >*For the company to work, it didn't matter what people looked like or which country they came from, but we needed
 >every new hire to be equally obsessed 
 # References 
-The mechanics of mafia 
+- The mechanics of mafia 

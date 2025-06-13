@@ -5,4 +5,4 @@ Tags: [[MANUFACTURING]] [[1 - BECOMING STEVE JOBS]]
 
 > *It would be better to miss rather than turn out the wrong thing 
 # References 
-Chapter 3
+- Chapter 3

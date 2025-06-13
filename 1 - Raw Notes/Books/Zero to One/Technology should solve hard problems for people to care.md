@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[TECHNOLOGY]]
 
 >*Customers won't care about any particular technology unless it solves a particular problem in a superior way 
 # References 
-Seeing green 
+- Seeing green 

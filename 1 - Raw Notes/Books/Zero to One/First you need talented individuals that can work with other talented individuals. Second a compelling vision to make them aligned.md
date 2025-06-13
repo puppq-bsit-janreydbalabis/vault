@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[BUSINESS]] [[HIRING]]
 
 >*You need good people who get along, but you also need a structure to help keep everyone aligned for the long term 
 # References 
-Foundations 
+- Foundations 

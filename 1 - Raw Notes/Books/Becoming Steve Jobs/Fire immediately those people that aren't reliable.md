@@ -5,4 +5,4 @@ Tags: [[1 - BECOMING STEVE JOBS]] [[MANAGEMENT PRINCIPLES]]
 
 >*Anyone caught leaking company information or plans would be fired immediately 
 # References 
-Chapter 10
+- Chapter 10

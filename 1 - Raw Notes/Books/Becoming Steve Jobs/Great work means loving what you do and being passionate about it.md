@@ -58,4 +58,4 @@ Stewart and his team put out several issues of The Whole Earth Catalog, and then
 >
 <mark style="background: #ADCCFFA6;">Stay Hungry. Stay Foolish. </mark>
 # References 
-Chapter 13
+- Chapter 13

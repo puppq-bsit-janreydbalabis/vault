@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[TECHNOLOGY]] [[QUESTION]]
 
 >*The most valuable companies in the future won't ask what problems can be solved with computers alone. Instead, they'll as: How computers help humans solve hard problems?
 # References 
- Man and machine 
+ - Man and machine 

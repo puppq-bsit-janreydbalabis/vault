@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[BUSINESS]]
 
 >*Every startup should start small 
 # References 
-Last mover advantage
+- Last mover advantage

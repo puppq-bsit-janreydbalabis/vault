@@ -5,4 +5,4 @@ Tags:[[2 - ZERO TO ONE]]  [[QUESTION]]
 
 >*Question received ideas 
 # References 
-The challenge of the future 
+- The challenge of the future 

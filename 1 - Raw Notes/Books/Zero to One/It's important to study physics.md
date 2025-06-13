@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[PHYSICS]]
 
 >*If you do start your own company, you must remember the power law to operate it well 
 # References 
- Follow the money 
+ - Follow the money 

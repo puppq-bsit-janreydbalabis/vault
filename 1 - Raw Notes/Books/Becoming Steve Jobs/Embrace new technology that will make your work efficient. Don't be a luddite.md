@@ -5,4 +5,4 @@ Tags: [[1 - BECOMING STEVE JOBS]] [[TECHNOLOGY]] [[ FUTURE]]
 
 >*To think about the future in a new way, with willingness to follow technology wherever it  might lead 
 # References
-Chapter 10
+- Chapter 10

@@ -5,4 +5,4 @@ Tags:[[2 - ZERO TO ONE]] [[MANAGEMENT PRINCIPLES]]
 
 >*Focus on product, not sales 
 # References 
-Party like its 1999
+- Party like its 1999

@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[BUSINESS]]
 
 >*Now when i consider investing in a startup, I study the founding teams. Technical abilities and complementary skill sets matter, but how well the founders know each other and how well they work together matter just as much. Founders  should share a prehistory before they start a company together — otherwise they're just rolling dice.
 # References 
-Foundations 
+- Foundations 

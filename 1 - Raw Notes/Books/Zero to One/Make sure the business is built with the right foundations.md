@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[BUSINESS]]
 
 >*Beginning with brand rather than substance is dangerous 
 # References 
-Last mover advantage
+- Last mover advantage

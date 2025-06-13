@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]]  [[LIFE]] [[TIME]]
 
 >*Since time is your most valuable asset, it's odd to spend it working with people who don't envision any long-term future together 
 # References 
-The mechanics of mafia 
+- The mechanics of mafia 

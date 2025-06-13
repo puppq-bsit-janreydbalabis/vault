@@ -5,4 +5,4 @@ Tags:[[2 - ZERO TO ONE]] [[TECHNOLOGY]]
 
 >*In a world of scarce resources, globalization without technology is unsustainable
 # References 
-The challenge of the future 
+- The challenge of the future 

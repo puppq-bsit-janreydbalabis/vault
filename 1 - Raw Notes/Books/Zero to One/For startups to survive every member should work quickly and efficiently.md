@@ -5,4 +5,4 @@ Tags:[[2 - ZERO TO ONE]] [[BUSINESS]]
 
 >*Startups should make their early staff as personally similar as possible. Startups have limited resources and small teams. They must work quickly and efficiently in order to survive, and that's easier to do when everyone shares an understanding of the world 
 # References 
-The mechanics of mafia 
+- The mechanics of mafia 

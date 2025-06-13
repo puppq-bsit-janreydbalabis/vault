@@ -6,4 +6,4 @@ Tags: [[2 - ZERO TO ONE]] [[BUSINESS]] [[HIRING]]
 >*This is why it's crucial to choose wisely: every single member of your board matters. Even one problem director will cause you pain,
 >and may even jeopardize your company's future 
 # References 
-Foundations
+- Foundations

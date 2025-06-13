@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[LIFE]]
 
 >*We don't live in a normal world; we live under a power law
 # References 
-Follow the money
+- Follow the money
