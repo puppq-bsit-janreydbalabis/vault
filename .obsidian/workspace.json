@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Raw Notes/Books/Zero to One/Computer is invented to help humans not as replacement.md",
+                "file": "2 - Zettelkasten/B - Tags/TECHNOLOGY.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Computer is invented to help humans not as replacement"
+              "title": "TECHNOLOGY"
             }
           }
         ]
@@ -191,8 +191,11 @@
   },
   "active": "f17dfc2c1a698a8e",
   "lastOpenFiles": [
-    "1 - Raw Notes/Books/Zero to One/Distribution is important as the product itself.md",
+    "2 - Zettelkasten/B - Tags/BUSINESS.md",
+    "2 - Zettelkasten/C - Book Lists/3 - LYING.md",
     "1 - Raw Notes/Books/Zero to One/Computer is invented to help humans not as replacement.md",
+    "1 - Raw Notes/Books/Lying",
+    "1 - Raw Notes/Books/Zero to One/Distribution is important as the product itself.md",
     "1 - Raw Notes/Books/Zero to One/Technology should solve hard problems for people to care.md",
     "1 - Raw Notes/Books/Zero to One/Creating a smarter-than-human computer has the chance to reduce randomness in our lives but it's important to make them in alignment with us humans.md",
     "2 - Zettelkasten/B - Tags/AI.md",
@@ -203,7 +206,6 @@
     "2 - Zettelkasten/B - Tags/DISTRIBUTION.md",
     "1 - Raw Notes/Books/Zero to One/Work on hardcore mode.md",
     "1 - Raw Notes/Books/Zero to One/It doesn't matter what people race, color, or country they come from. What we need are people that are obsessed and great in what they do.md",
-    "2 - Zettelkasten/B - Tags/BUSINESS.md",
     "1 - Raw Notes/Books/Zero to One/A good business has the ability to be scaled.md",
     "1 - Raw Notes/Books/Zero to One/For startups to survive every member should work quickly and efficiently.md",
     "1 - Raw Notes/Books/Zero to One/Every member of your organization should be unique yet united working passionately on the company's vision.md",
@@ -216,7 +218,6 @@
     "1 - Raw Notes/Books/Zero to One/Make sure the business is built with the right foundations.md",
     "2 - Zettelkasten/C - Book Lists/2 - ZERO TO ONE.md",
     "1 - Raw Notes/Books/Zero to One/Dominate a small market first before scaling.md",
-    "1 - Raw Notes/Books/Zero to One/Strong men believe in cause and effect.md",
     "1 - Raw Notes/Books/Zero to One",
     "obsidian-vault",
     "TagsRoutes/logs",
@@ -227,7 +228,6 @@
     "2 - Zettelkasten/Book List/Becoming Steve Jobs",
     "C - Book Lists",
     "1 - Raw Notes/Books/Becoming Steve Jobs/1.canvas",
-    "1 - Raw Notes/Books/Becoming Steve Jobs",
-    "1 - Raw Notes/Books/Book Titles"
+    "1 - Raw Notes/Books/Becoming Steve Jobs"
   ]
 }
