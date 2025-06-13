@@ -7,4 +7,4 @@ Tags: [[1 - BECOMING STEVE JOBS]] [[HIRING]]
 >when you're wrong 
 
 # References 
-*Chapter 9
+- *Chapter 9

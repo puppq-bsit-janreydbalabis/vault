@@ -6,4 +6,4 @@ Tags: [[1 - BECOMING STEVE JOBS]] [[MINDSET]] [[PERSISTENT]]
 
 >*If you kept your head down, kept working, kept trying to do the right things, it would work out.
 # References 
-Chapter 9
+- Chapter 9

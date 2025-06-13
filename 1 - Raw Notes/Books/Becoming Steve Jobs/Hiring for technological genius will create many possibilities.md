@@ -6,4 +6,4 @@ Tags: [[HIRING]] [[1 - BECOMING STEVE JOBS]]
 >*Anything was possible when you had technological genius on your side.
 
 # References 
-*Chapter 1 
+- *Chapter 1 

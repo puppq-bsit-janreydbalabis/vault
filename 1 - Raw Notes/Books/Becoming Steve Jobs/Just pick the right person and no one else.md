@@ -5,4 +5,4 @@ Tags:[[1 - BECOMING STEVE JOBS]] [[HIRING]]
 
 >*Picking the right person was a hundred times better than picking somebody who was a little short of being right
 # References 
-Chapter 17
+- Chapter 17
