@@ -1,1 +1,1 @@
-#Author: Sam Harris
+Author: Sam Harris 
