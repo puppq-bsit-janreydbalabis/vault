@@ -15,4 +15,4 @@ Tags: [[1 - BECOMING STEVE JOBS]] [[MINDSET]]
 > <mark style="background: #ADCCFFA6;">While some see them as the crazy one, we see genius. Because the people who are crazy enough to think they can 
 > change the world, are the ones who do</mark>
 # References 
-Chapter 9
+- Chapter 9

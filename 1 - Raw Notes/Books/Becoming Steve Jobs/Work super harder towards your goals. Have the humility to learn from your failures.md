@@ -7,4 +7,4 @@ Tags:[[1 - BECOMING STEVE JOBS]] [[QUESTION]] [[MANAGEMENT PRINCIPLES]]
 >Can you channel your intensity and intelligence and energy and talents and gifts and ideas outward into something that is bigger and more impactful
 >than you are? That's what great leadership is about 
 # References 
-Chapter 13
+- Chapter 13

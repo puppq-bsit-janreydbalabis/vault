@@ -6,4 +6,4 @@ Tags:  [[1 - BECOMING STEVE JOBS]] [[STRATEGY]] [[MINDSET]]
 > *You should have the best. Don't settle for the second best  
 
 # References
-*Chapter 1 
+- *Chapter 1 

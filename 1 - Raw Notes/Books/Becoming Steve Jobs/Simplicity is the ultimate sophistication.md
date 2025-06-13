@@ -4,4 +4,4 @@ Tags: [[DESIGN]] [[1 - BECOMING STEVE JOBS]]
 # Simplicity is the ultimate sophistication
 
 # References 
-*Chapter 2
+- *Chapter 2

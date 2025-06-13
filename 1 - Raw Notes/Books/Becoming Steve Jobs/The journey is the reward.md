@@ -4,4 +4,4 @@ Tags: [[JOURNEY]] [[1 - BECOMING STEVE JOBS]] [[LIFE]]
 # The journey is the reward
 
 # References 
-*Chapter 3 
+- *Chapter 3 

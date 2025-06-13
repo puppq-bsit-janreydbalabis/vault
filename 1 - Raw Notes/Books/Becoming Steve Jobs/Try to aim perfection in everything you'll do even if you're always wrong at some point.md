@@ -5,4 +5,4 @@ Tags: [[1 - BECOMING STEVE JOBS]] [[STRATEGY]] [[MANAGEMENT PRINCIPLES]] [[MINDS
 
 > *If you aim for perfection in everything you do, you'll achieve greater results than you could ever imagine
 # References 
-Chapter 4
+- Chapter 4

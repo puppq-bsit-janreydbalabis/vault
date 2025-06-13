@@ -9,4 +9,4 @@ Tags:  [[1 - BECOMING STEVE JOBS]] [[STRATEGY]]
 
 
 # References 
-*Chapter 1 
+- *Chapter 1 

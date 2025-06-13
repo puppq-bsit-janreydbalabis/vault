@@ -5,4 +5,4 @@ Tags: [[1 - BECOMING STEVE JOBS]] [[HIRING]] [[MINDSET]]
 
 >*Steve had surrounded himself with a mature, experienced, and disciplined team, made up of people who could argue back fiercely
 # References 
-Chapter 9
+- Chapter 9

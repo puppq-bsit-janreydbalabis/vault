@@ -6,4 +6,4 @@ Tags: [[1 - BECOMING STEVE JOBS]] [[CREATING THINGS]] [[MANAGEMENT PRINCIPLES]]
 >*To attack every conceivable problem — from design and engineering to seemingly mundane tasks such as packaging 
 >billing — with creativity 
 # References 
-Chapter 11 
+- Chapter 11 

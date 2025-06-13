@@ -13,4 +13,4 @@ Tags: [[1 - BECOMING STEVE JOBS]] [[MANAGEMENT PRINCIPLES]] [[CREATING THINGS]]
 > the next big thing. It's a talent, it's a capability, it's a culture, it's a point of view , and it's a way of working together to make 
 > the next thing, and the next one, and the next one.</mark>  
 # References 
-Chapter 9
+- Chapter 9

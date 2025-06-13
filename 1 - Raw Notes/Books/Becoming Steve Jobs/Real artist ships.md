@@ -5,4 +5,4 @@ Tags: [[1 - BECOMING STEVE JOBS]]
 
 > *Real artist delivers 
 # References 
-Chapter 3
+- Chapter 3

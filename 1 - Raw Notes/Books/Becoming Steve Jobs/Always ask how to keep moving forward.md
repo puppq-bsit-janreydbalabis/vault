@@ -5,4 +5,4 @@ Tags:[[1 - BECOMING STEVE JOBS]] [[MINDSET]] [[MANAGEMENT PRINCIPLES]]
 
 >*What are we going to do moving forward?
 # References 
-Chapter 9
+- Chapter 9

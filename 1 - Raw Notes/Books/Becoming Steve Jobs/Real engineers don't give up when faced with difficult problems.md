@@ -6,4 +6,4 @@ Tags: [[1 - BECOMING STEVE JOBS]] [[PERSISTENT]]  [[MINDSET]]
 > *Engineers, at heart, are problem solvers. they thrive on digging their way out of sinkholes, especially the gnarly kind with no clear
 > path forward.
 # References 
-Chapter  4 
+- Chapter  4 

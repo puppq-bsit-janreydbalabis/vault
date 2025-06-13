@@ -5,4 +5,4 @@ Tags: [[1 - BECOMING STEVE JOBS]] [[HIRING]]
 
 >*Steve was always hell-bent on hiring the very best people in the world, especially engineers
 # References
-Chapter 4
+- Chapter 4

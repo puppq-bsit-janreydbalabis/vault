@@ -5,4 +5,4 @@ Tags: [[1 - BECOMING STEVE JOBS]] [[MINDSET]] [[LIFE]]
 
  >*We all get crushed or decked or knocked down. Sometimes you may not even see that it's happened, but it happens to everyone 
 # References 
-Chapter 13 
+- Chapter 13 
