@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[TECHNOLOGY]]
 
 >*Computers are complements for humans, not substitutes 
 # References 
- Man and machine
+ - Man and machine

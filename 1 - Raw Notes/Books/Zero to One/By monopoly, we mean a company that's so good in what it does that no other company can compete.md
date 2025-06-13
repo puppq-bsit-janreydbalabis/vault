@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[BUSINESS]]
 
 >*Monopoly is the condition of every successful business
 # References 
-All happy companies are different 
+- All happy companies are different 

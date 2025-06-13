@@ -5,4 +5,4 @@ Tags: [[3 - LYING]] [[LIFE]]
 
 >*There are many circumstances in life in which false encouragement can be very costly to another person 
 # References 
-White lies
+- White lies

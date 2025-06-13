@@ -5,4 +5,4 @@ Tags: [[3 - LYING]] [[TRUTH]]
 
 >*Your purpose in telling the truth is not to offend people
 # References 
-The mirror of honesty 
+- The mirror of honesty 

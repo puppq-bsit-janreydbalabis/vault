@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[FUTURE]]
 
 >*The future will be better than the present if he plans and works to make it better 
 # References 
-You are not a lottery ticket 
+- You are not a lottery ticket 

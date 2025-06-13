@@ -5,4 +5,4 @@ Tags:[[2 - ZERO TO ONE]] [[MANAGEMENT PRINCIPLES]] [[BUSINESS]]
 
 >*By "monopoly", we mean the kind of company that's so good at what it does that no other firm can offer a close substitute.
 # References 
-All happy companies are different 
+- All happy companies are different 

@@ -5,4 +5,4 @@ Tags:[[2 - ZERO TO ONE]] [[STRATEGY]]
 
 >*If you want to create and capture lasting value, don't build an undifferentiated commodity business 
 # References 
- All happy companies are different 
+ - All happy companies are different 

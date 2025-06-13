@@ -5,4 +5,4 @@ Tags:[[2 - ZERO TO ONE]] [[LIFE]]
 
 >*He who is not busy being born is busy dying
 # References 
-Foundations
+- Foundations

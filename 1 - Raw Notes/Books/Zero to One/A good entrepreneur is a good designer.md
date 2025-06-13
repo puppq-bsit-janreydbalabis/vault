@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[BUSINESS]]
 
 >*It's true that every entrepreneur is first and foremost designer 
 # References 
-You are not a lottery ticket 
+- You are not a lottery ticket 

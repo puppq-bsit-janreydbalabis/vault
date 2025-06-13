@@ -5,4 +5,4 @@ Tags: [[2 - ZERO TO ONE]] [[BUSINESS]]
 
 >*If you want an effective board, keep it small
 # References 
-Foundations
+- Foundations

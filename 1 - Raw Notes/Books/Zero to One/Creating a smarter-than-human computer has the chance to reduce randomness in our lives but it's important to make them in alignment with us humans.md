@@ -5,4 +5,4 @@ Tags:[[2 - ZERO TO ONE]] [[TECHNOLOGY]] [[AI]]
 
 >*Technology is supposed to increase our mastery over nature and reduce the role of chance in our lives; building smarter-than-humans computers could actually bring chance back with vengeance. Strong AI is like a cosmic lottery ticket : if we win, we get utopia; if we lose, Skynet substitutes us out of existence 
 # References 
- Man and machine
+ - Man and machine

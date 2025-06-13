@@ -5,4 +5,4 @@ Tags:[[3 - LYING]] [[COMMUNICATION]] [[TRUTH]]
 
 >*The intent to communicate honestly is the measure of truthfulness
 # References 
-What is a lie?
+- What is a lie?
