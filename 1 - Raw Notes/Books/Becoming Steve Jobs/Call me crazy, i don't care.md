@@ -13,6 +13,6 @@ Tags: [[1 - BECOMING STEVE JOBS]] [[MINDSET]]
 > How else can you stare at an empty canvas and see a work of art? Or sit in silence and hear a song that's never been written?
 > Or gaze at a red planet and see a laboratory on wheels?
 > <mark style="background: #ADCCFFA6;">While some see them as the crazy one, we see genius. Because the people who are crazy enough to think they can 
-> change the world, are the ones who do</mark>
+ change the world, are the ones who do</mark>
 # References 
 - Chapter 9

@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "644ed7bc9c24dac3",
+        "id": "bea13be4aea7a3b7",
         "type": "tabs",
         "children": [
           {
-            "id": "f17dfc2c1a698a8e",
+            "id": "c51c31070a1bfeea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Raw Notes/Books/Screw Business As Usual/Be passionate in what you do.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Be passionate in what you do"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -63,10 +49,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "min",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -104,8 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Raw Notes/Books/1 - Becoming Steve Jobs/Make your goal as compelling as possible.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -114,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Make your goal as compelling as possible"
+              "title": "Backlinks"
             }
           },
           {
@@ -152,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Raw Notes/Books/Becoming Steve Jobs/Work super harder towards your goals. Have the humility to learn from your failures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Work super harder towards your goals. Have the humility to learn from your failures"
+              "title": "Outline"
             }
           },
           {
@@ -176,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,35 +173,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f17dfc2c1a698a8e",
+  "active": "d1c6df57d90bb881",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Separate your self from idea.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Great work means loving what you do and being passionate about it.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/We will lose sometimes, what matters is how we stand up and try again.md",
     "2 - Zettelkasten/B - Tags/MINDSET.md",
-    "2 - Zettelkasten/B - Tags/LIFE.md",
-    "1 - Raw Notes/Books/Screw Business As Usual/Just do good and have fun.md",
-    "1 - Raw Notes/Books/Screw Business As Usual/It's not about the money, it's about working with talented people to do good things in this world.md",
-    "1 - Raw Notes/Books/Screw Business As Usual/Use humor as a tool.md",
-    "1 - Raw Notes/Books/Screw Business As Usual/Do skip level and go directly to the people who experience the problem.md",
-    "1 - Raw Notes/Books/Screw Business As Usual/Be passionate in what you do.md",
-    "1 - Raw Notes/Books/Screw Business As Usual/Doing good is good for the business.md",
-    "1 - Raw Notes/Books/Zero to One/It's important to study physics.md",
-    "2 - Zettelkasten/B - Tags/BUSINESS.md",
-    "2 - Zettelkasten/B - Tags/PHYSICS.md",
+    "1 - Raw Notes/Books/Zero to One/Think from first principles not formula.md",
+    "1 - Raw Notes/Books/Zero to One/Every member of your organization should be unique yet united working passionately on the company's vision.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Real engineers don't give up when faced with difficult problems.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/It's okay to fail as long as your tried your best.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Call me crazy, i don't care.md",
     "2 - Zettelkasten/B - Tags/STRATEGY.md",
-    "1 - Raw Notes/Books/Zero to One/Startup should start small.md",
-    "2 - Zettelkasten/C - Book Lists/5 - SCREW BUSINESS AS USUAL.md",
-    "2 - Zettelkasten/C - Book Lists/4 - CONSIDER PHLEBAS.md",
+    "2 - Zettelkasten/B - Tags/HIRING.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Try you're very best to hire the best people in the world.md",
+    "1 - Raw Notes/Books/Screw Business As Usual/Doing good is good for the business.md",
+    "1 - Raw Notes/Books/Screw Business As Usual/Never accept the acceptable.md",
+    "1 - Raw Notes/Books/Screw Business As Usual/It's not about the money, it's about working with talented people to do good things in this world.md",
+    "2 - Zettelkasten/C - Book Lists/2 - ZERO TO ONE.md",
+    "1 - Raw Notes/Books/Zero to One/A good business has the ability to be scaled.md",
+    "1 - Raw Notes/Books/Zero to One/Dominate a small market first before scaling.md",
+    "Untitled.md",
+    "1 - Raw Notes/Books/Zero to One/Work on hardcore mode.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Always ask how to keep moving forward.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Surround yourself with capable people.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Always strive for excellence.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Don't be afraid to challenge authority and question everything.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Keep doing things.md",
     "1 - Raw Notes/Books/Screw Business As Usual",
-    "1 - Raw Notes/Books/Untitled.md",
-    "1 - Raw Notes/Books/Lying/To communicate honestly is to be truthful.md",
-    "1 - Raw Notes/Books/Lying/Be honest and tell the truth. Be authentic.md",
-    "1 - Raw Notes/Books/Lying/It's important to say what is true despite people feelings.md",
-    "1 - Raw Notes/Books/Lying/Don't lie.md",
-    "1 - Raw Notes/Books/Lying/Don't encourage people by lies.md",
-    "1 - Raw Notes/Books/Lying/Being truthful doesn't mean we should over share some info about ourselves that we prefer to keep private.md",
-    "1 - Raw Notes/Books/Lying/Lies are harmful.md",
-    "1 - Raw Notes/Books/Consider Phlebas/Always move forward.md",
-    "1 - Raw Notes/Books/Consider Phlebas/Stay optimistic through the darkest times.md",
-    "1 - Raw Notes/Books/Consider Phlebas/We must stay strong.md",
     "2 - Zettelkasten/C - Book Lists/4 - CONSIDER PHLEBAS",
     "1 - Raw Notes/Books/Consider Phlebas",
     "1 - Raw Notes/Books/Lying",
@@ -225,7 +209,6 @@
     "obsidian-vault",
     "TagsRoutes/logs",
     "TagsRoutes",
-    "Untitled.canvas",
     "2 - Zettelkasten/C - Book Lists",
     "2 - Zettelkasten/B - Tags",
     "1 - Raw Notes/Books/Becoming Steve Jobs/1.canvas"
