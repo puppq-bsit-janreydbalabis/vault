@@ -4,20 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "bea13be4aea7a3b7",
+        "id": "7bac48f4731c7b90",
         "type": "tabs",
         "children": [
           {
-            "id": "c51c31070a1bfeea",
+            "id": "70759858fc52f41d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2 - Zettelkasten/B - Tags/FUTURE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "FUTURE"
+            }
+          },
+          {
+            "id": "96305b9da1be0a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Raw Notes/Books/Becoming Steve Jobs/Just pick the right person and no one else.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Just pick the right person and no one else"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -69,12 +108,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "a51f48f4fb028637",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "061688a764034036",
@@ -160,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,37 +219,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "homepage:Open homepage": false,
+      "auto-moc:AutoMOC": false
     }
   },
-  "active": "d1c6df57d90bb881",
+  "active": "70759858fc52f41d",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Separate your self from idea.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Great work means loving what you do and being passionate about it.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/We will lose sometimes, what matters is how we stand up and try again.md",
-    "2 - Zettelkasten/B - Tags/MINDSET.md",
-    "1 - Raw Notes/Books/Zero to One/Think from first principles not formula.md",
-    "1 - Raw Notes/Books/Zero to One/Every member of your organization should be unique yet united working passionately on the company's vision.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Real engineers don't give up when faced with difficult problems.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/It's okay to fail as long as your tried your best.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Call me crazy, i don't care.md",
-    "2 - Zettelkasten/B - Tags/STRATEGY.md",
     "2 - Zettelkasten/B - Tags/HIRING.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Try you're very best to hire the best people in the world.md",
-    "1 - Raw Notes/Books/Screw Business As Usual/Doing good is good for the business.md",
-    "1 - Raw Notes/Books/Screw Business As Usual/Never accept the acceptable.md",
-    "1 - Raw Notes/Books/Screw Business As Usual/It's not about the money, it's about working with talented people to do good things in this world.md",
-    "2 - Zettelkasten/C - Book Lists/2 - ZERO TO ONE.md",
-    "1 - Raw Notes/Books/Zero to One/A good business has the ability to be scaled.md",
-    "1 - Raw Notes/Books/Zero to One/Dominate a small market first before scaling.md",
-    "Untitled.md",
-    "1 - Raw Notes/Books/Zero to One/Work on hardcore mode.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Always ask how to keep moving forward.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Surround yourself with capable people.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Just pick the right person and no one else.md",
+    "2 - Zettelkasten/B - Tags/MANAGEMENT PRINCIPLES.md",
+    "2 - Zettelkasten/B - Tags/LIFE.md",
+    "2 - Zettelkasten/B - Tags/MANUFACTURING.md",
+    "2 - Zettelkasten/B - Tags/MINDSET.md",
+    "2 - Zettelkasten/B - Tags/PERSISTENT.md",
+    "2 - Zettelkasten/B - Tags/STRATEGY.md",
+    "2 - Zettelkasten/B - Tags/TECHNOLOGY.md",
+    "2 - Zettelkasten/B - Tags/QUESTION.md",
+    "2 - Zettelkasten/B - Tags/BUSINESS.md",
+    "2 - Zettelkasten/B - Tags/PHYSICS.md",
+    "2 - Zettelkasten/B - Tags/DISTRIBUTION.md",
+    "2 - Zettelkasten/B - Tags/TIME.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Great work means loving what you do and being passionate about it.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/It's okay to fail as long as your tried your best.md",
+    "1 - Raw Notes/Books/Consider Phlebas/Stand firm on your belief.md",
+    "1 - Raw Notes/Books/Screw Business As Usual/Be passionate in what you do.md",
+    "1 - Raw Notes/Books/Consider Phlebas/Always move forward.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Separate your self from idea.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Don't ship bad products.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/We will lose sometimes, what matters is how we stand up and try again.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs/Always strive for excellence.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Don't be afraid to challenge authority and question everything.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Keep doing things.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Always ask how to keep moving forward.md",
+    "1 - Raw Notes/Books/Zero to One/Think from first principles not formula.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs/Real engineers don't give up when faced with difficult problems.md",
+    "Untitled.canvas",
     "1 - Raw Notes/Books/Screw Business As Usual",
     "2 - Zettelkasten/C - Book Lists/4 - CONSIDER PHLEBAS",
     "1 - Raw Notes/Books/Consider Phlebas",

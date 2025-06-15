@@ -1,5 +1,12 @@
 [
   "auto-note-mover",
   "highlightr-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "recent-files-obsidian",
+  "obsidian-completr",
+  "url-into-selection",
+  "obsidian-text-format",
+  "tag-wrangler",
+  "waypoint",
+  "auto-moc"
 ]

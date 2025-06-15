@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "mindset",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0534979423868314,
-  "close": true
+  "scale": 0.5359795996225935,
+  "close": false
 }
