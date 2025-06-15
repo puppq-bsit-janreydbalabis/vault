@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "FUTURE"
             }
-          },
-          {
-            "id": "96305b9da1be0a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Raw Notes/Books/Becoming Steve Jobs/Just pick the right person and no one else.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Just pick the right person and no one else"
-            }
           }
         ],
         "stacked": true
@@ -225,7 +201,7 @@
       "auto-moc:AutoMOC": false
     }
   },
-  "active": "70759858fc52f41d",
+  "active": "d1c6df57d90bb881",
   "lastOpenFiles": [
     "2 - Zettelkasten/B - Tags/HIRING.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs/Just pick the right person and no one else.md",
