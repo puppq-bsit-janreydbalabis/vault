@@ -137,6 +137,8 @@ starting
 small
 secret
 solved
+sales
+substitute
 harder
 humility
 have
@@ -178,6 +180,7 @@ hundred
 holes
 heal
 hear
+happy
 towards
 the
 to
@@ -300,6 +303,7 @@ How
 Having
 Hungry
 Here
+Harris
 learn
 leadership
 lose
@@ -473,6 +477,8 @@ capability
 compelling
 complements
 companies
+compete
+close
 and
 are
 about
@@ -607,6 +613,7 @@ Apple
 As
 About
 Attention
+All
 relentless
 right
 re
@@ -769,6 +776,7 @@ own
 overflowing
 off
 opportunity
+offer
 more
 member
 matters
@@ -817,6 +825,7 @@ must
 monopoly
 market
 mover
+mean
 what
 wisely
 why
@@ -994,12 +1003,14 @@ durability
 defensible
 deeply
 decade
+does
 jeopardize
 job
 just
 Foundations
 For
 Foolish
+Focus
 Keep
 Krishna
 If
@@ -1048,6 +1059,7 @@ Bob
 Brand
 Beneath
 Brent
+By
 Sometimes
 Steve
 Strong
@@ -1070,6 +1082,7 @@ Schlender
 Selling
 Seeing
 Seven
+Sam
 very
 vengeance
 vault
@@ -1098,6 +1111,7 @@ Park
 Polaroid
 Picking
 Peter
+Party
 Great
 Google
 Jobs
