@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d21a45796fb66aac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Zettelkasten/B - Tags/MINDSET.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MINDSET"
-            }
-          },
-          {
-            "id": "40e87d17ca5c667a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Great work means loving what you do and being passionate about it.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Great work means loving what you do and being passionate about it"
-            }
-          },
-          {
-            "id": "92ff2657b2c6d029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Don't do it for money.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Don't do it for money"
-            }
-          },
-          {
             "id": "def38cd4e4e73913",
             "type": "leaf",
             "state": {
@@ -104,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -265,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -286,11 +213,12 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "40e87d17ca5c667a",
+  "active": "def38cd4e4e73913",
   "lastOpenFiles": [
-    "2 - Zettelkasten/B - Tags/MINDSET.md",
+    "Great work means loving what you do and being passionate about it.md",
     "Don't do it for money.md",
     "Don't be afraid to challenge authority and question everything.md",
+    "2 - Zettelkasten/B - Tags/MINDSET.md",
     "Call me crazy, i don't care.md",
     "Be passionate in what you do.md",
     "Always strive for excellence.md",
@@ -313,7 +241,6 @@
     "Stand firm on your belief.md",
     "Be honest and tell the truth. Be authentic.md",
     "1 - Raw Notes/Books/3 - LYING.md",
-    "Separate your self from idea.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs",
     "2 - Zettelkasten/C - Book Lists",
     "1 - Raw Notes/Books/Zero to One",
