@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "da33a9435fb8fd76",
+        "id": "f1f62b1a80e0adef",
         "type": "tabs",
         "children": [
           {
-            "id": "6179370bfd13f966",
+            "id": "d21a45796fb66aac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Zettelkasten/B - Tags/HIRING.md",
+                "file": "2 - Zettelkasten/B - Tags/MINDSET.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HIRING"
+              "title": "MINDSET"
             }
           },
           {
-            "id": "b907beedb4689765",
+            "id": "40e87d17ca5c667a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Raw Notes/Books/Zero to One/Every single member of the company matters so it's important to choose wisely  — as they can cause you pain.md",
+                "file": "Great work means loving what you do and being passionate about it.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Every single member of the company matters so it's important to choose wisely  — as they can cause you pain"
+              "title": "Great work means loving what you do and being passionate about it"
+            }
+          },
+          {
+            "id": "92ff2657b2c6d029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Don't do it for money.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Don't do it for money"
+            }
+          },
+          {
+            "id": "def38cd4e4e73913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Don't be afraid to challenge authority and question everything.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Don't be afraid to challenge authority and question everything"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -75,7 +124,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -123,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200.5
   },
   "right": {
     "id": "061688a764034036",
@@ -140,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Zettelkasten/B - Tags/HIRING.md",
+                "file": "2 - Zettelkasten/C - Book Lists/2 - ZERO TO ONE.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,7 +198,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HIRING"
+              "title": "Backlinks for 2 - ZERO TO ONE"
             }
           },
           {
@@ -159,12 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Zettelkasten/B - Tags/HIRING.md",
+                "file": "2 - Zettelkasten/C - Book Lists/2 - ZERO TO ONE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HIRING"
+              "title": "Outgoing links from 2 - ZERO TO ONE"
             }
           },
           {
@@ -216,12 +264,12 @@
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,51 +283,48 @@
       "auto-moc:AutoMOC": false,
       "callout-manager:Insert Callout": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "quiz-generator:Open generator": false,
-      "aosr:Aosr": false,
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "6179370bfd13f966",
+  "active": "40e87d17ca5c667a",
   "lastOpenFiles": [
-    "1 - Raw Notes/Books/Zero to One/Every single member of the company matters so it's important to choose wisely  — as they can cause you pain.md",
-    "2 - Zettelkasten/B - Tags/HIRING.md",
-    "2 - Zettelkasten/C - Book Lists/2 - ZERO TO ONE.md",
-    "1 - Raw Notes/Books/Zero to One/Think from first principles not formula.md",
-    "1 - Raw Notes/Books/Zero to One/First you need talented individuals that can work with other talented individuals. Second a compelling vision to make them aligned.md",
-    "1 - Raw Notes/Books/Zero to One/A good business has the ability to be scaled.md",
-    "1 - Raw Notes/Books/Zero to One/Focus on how to make your products or services as great as possible.md",
-    "1 - Raw Notes/Books/Zero to One/Be good in what you do that no other company can compete.md",
-    "1 - Raw Notes/Books/Zero to One/A good entrepreneur is a good designer.md",
-    "1 - Raw Notes/Books/Zero to One/Every member of your organization should be unique yet united working passionately on the company's vision.md",
-    "2 - Zettelkasten/B - Tags/QUESTION.md",
-    "1 - Raw Notes/Books/Zero to One/It's essential to deeply think how computers will help humans to solve hard problems.md",
-    "1 - Raw Notes/Books/Zero to One/It doesn't matter what people race, color, or country they come from. What we need are people that are obsessed and great in what they do.md",
-    "1 - Raw Notes/Books/Zero to One/If you want to invest in one company you should study first it's founding team.md",
-    "1 - Raw Notes/Books/Zero to One/It's doesn't matter how good your product is if you don't have any way to distribute it — its flawed.md",
-    "1 - Raw Notes/Books/Zero to One/For a company to be a valuable it must grow and endure.md",
-    "1 - Raw Notes/Books/Zero to One/For startups to survive every member should work quickly and efficiently.md",
-    "1 - Raw Notes/Books/Zero to One/Don't sit and hope that the future will be great. You must work hard to make it better.md",
-    "1 - Raw Notes/Books/Zero to One/Don't put your eggs in one basket.md",
-    "1 - Raw Notes/Books/Zero to One/Don't leave this world without making a dent.md",
-    "1 - Raw Notes/Books/Zero to One/Dominate a small market first before scaling.md",
-    "1 - Raw Notes/Books/Zero to One/Distribution is important as the product itself.md",
-    "1 - Raw Notes/Books/Zero to One/Creating value means giving unique offers and people would feel stupid if they refuse.md",
-    "1 - Raw Notes/Books/Zero to One/Creating a smarter-than-human computer has the chance to reduce randomness in our lives but it's important to make them in alignment with us humans.md",
-    "1 - Raw Notes/Books/Zero to One/Computer is invented to help humans not as replacement.md",
-    "1 - Raw Notes/Books/Zero to One/By monopoly, we mean a company that's so good in what it does that no other company can compete.md",
-    "1 - Raw Notes/Internet",
-    "Untitled.canvas",
-    "1 - Raw Notes/Books/Screw Business As Usual",
-    "2 - Zettelkasten/C - Book Lists/4 - CONSIDER PHLEBAS",
-    "1 - Raw Notes/Books/Consider Phlebas",
-    "1 - Raw Notes/Books/Lying",
+    "2 - Zettelkasten/B - Tags/MINDSET.md",
+    "Don't do it for money.md",
+    "Don't be afraid to challenge authority and question everything.md",
+    "Call me crazy, i don't care.md",
+    "Be passionate in what you do.md",
+    "Always strive for excellence.md",
+    "Always ask how to keep moving forward.md",
+    "Real engineers don't give up when faced with difficult problems.md",
+    "Always move forward.md",
+    "Keep doing things.md",
+    "Business should care about the betterment of the world.md",
+    "Business exists to help humanity and to preserve civilization.md",
+    "Always think long term.md",
+    "Think long term.md",
+    "Never accept the acceptable.md",
+    "If you want eliminate poverty create more jobs for the people.md",
+    "2 - Zettelkasten/A - Templates/General Note.md",
+    "1 - Raw Notes/Books/5 - SCREW BUSINESS AS USUAL.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "1 - Raw Notes/Books/4 - CONSIDER PHLEBAS.md",
+    "Stay optimistic through the darkest times.md",
+    "Stand firm on your belief.md",
+    "Be honest and tell the truth. Be authentic.md",
+    "1 - Raw Notes/Books/3 - LYING.md",
+    "Separate your self from idea.md",
+    "1 - Raw Notes/Books/Becoming Steve Jobs",
+    "2 - Zettelkasten/C - Book Lists",
     "1 - Raw Notes/Books/Zero to One",
+    "1 - Raw Notes/Books/Screw Business As Usual",
+    "1 - Raw Notes/Books/Lying",
+    "1 - Raw Notes/Books/Consider Phlebas",
+    "Untitled.canvas",
+    "1 - Raw Notes/Internet",
+    "2 - Zettelkasten/C - Book Lists/4 - CONSIDER PHLEBAS",
     "obsidian-vault",
     "TagsRoutes/logs",
-    "TagsRoutes",
-    "2 - Zettelkasten/C - Book Lists",
     "1 - Raw Notes/Books/Becoming Steve Jobs/1.canvas"
   ]
 }

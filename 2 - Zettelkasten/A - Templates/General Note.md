@@ -1,8 +1,9 @@
 Date: {{Date}}
-Tags:
+Tags: [[]]
 
 
 # {{Title}}
+
 
 
 # References

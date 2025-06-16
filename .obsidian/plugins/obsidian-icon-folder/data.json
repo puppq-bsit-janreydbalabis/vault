@@ -6,11 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiNotebookText",
-      "LiDatabase",
-      "LiMessageCircleMore",
-      "🧑‍🏫",
-      "📘"
+      "LiAArrowDown",
+      "LiAlertTriangle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
