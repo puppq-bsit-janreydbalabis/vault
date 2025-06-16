@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 206.5
   },
   "right": {
     "id": "061688a764034036",
@@ -192,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -213,7 +213,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "5598ca1ee893d09e",
+  "active": "a414a253bb8636c4",
   "lastOpenFiles": [
     "1 - Raw Notes/Books/CONSIDER PHLEBAS.md",
     "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
