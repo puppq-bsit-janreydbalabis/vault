@@ -1,5 +1,5 @@
 Date: 2025-06-11
-Tags: [[1 - BECOMING STEVE JOBS]] [[MINDSET]] [[LIFE]] 
+Tags: [[BECOMING STEVE JOBS]] [[MINDSET]] [[LIFE]] 
 
 # We will lose sometimes, what matters is how we stand up and try again 
 

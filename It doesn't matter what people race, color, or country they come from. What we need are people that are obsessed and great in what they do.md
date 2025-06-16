@@ -1,5 +1,5 @@
 Date: 2025-06-12
-Tags: [[2 - ZERO TO ONE]] [[HIRING]] [[BUSINESS]] 
+Tags: [[ZERO TO ONE]] [[HIRING]] [[BUSINESS]] 
 
 # It doesn't matter what people race, color, or country they come from. What we need are people that are obsessed and great in what they do
 

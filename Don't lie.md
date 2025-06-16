@@ -1,5 +1,5 @@
 Date: 2025-06-13
-Tags: [[3 - LYING]] [[LIFE]]
+Tags: [[LYING]] [[LIFE]]
 
 # Don't lie
 

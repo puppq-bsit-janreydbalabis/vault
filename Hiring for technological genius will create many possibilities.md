@@ -1,5 +1,5 @@
 Date: 2025-06-09
-Tags: [[HIRING]] [[1 - BECOMING STEVE JOBS]]
+Tags: [[HIRING]] [[BECOMING STEVE JOBS]]
 
 # Hiring for technological genius will create many possibilities
 

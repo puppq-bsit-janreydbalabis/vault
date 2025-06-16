@@ -1,5 +1,5 @@
 Date: 2025-06-12
-Tags: [[2 - ZERO TO ONE]] [[BUSINESS]] 
+Tags: [[ZERO TO ONE]] [[BUSINESS]] 
 
 # Every member of your organization should be unique yet united working passionately on the company's vision
 

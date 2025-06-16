@@ -1,5 +1,5 @@
 Date: 2025-06-10
-Tags: [[1 - BECOMING STEVE JOBS]] [[STRATEGY]] [[MINDSET]]
+Tags: [[BECOMING STEVE JOBS]] [[STRATEGY]] [[MINDSET]]
 
 # Separate your self from idea
 

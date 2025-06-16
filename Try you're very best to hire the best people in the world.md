@@ -1,5 +1,5 @@
 Date: 2025-06-10
-Tags: [[1 - BECOMING STEVE JOBS]] [[HIRING]]
+Tags: [[BECOMING STEVE JOBS]] [[HIRING]]
 
 # Try you're very best to hire the best people in the world
 

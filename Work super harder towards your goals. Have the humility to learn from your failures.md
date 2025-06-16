@@ -1,5 +1,5 @@
 Date: 2025-06-11
-Tags:[[1 - BECOMING STEVE JOBS]] [[QUESTION]] [[MANAGEMENT PRINCIPLES]] 
+Tags:[[BECOMING STEVE JOBS]] [[QUESTION]] [[MANAGEMENT PRINCIPLES]] 
 
 # Work super harder towards your goals. Have the humility to learn from your failures
 

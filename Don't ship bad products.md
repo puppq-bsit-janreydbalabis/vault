@@ -1,5 +1,5 @@
 Date: 2025-06-09
-Tags: [[MANUFACTURING]] [[1 - BECOMING STEVE JOBS]]
+Tags: [[MANUFACTURING]] [[BECOMING STEVE JOBS]]
 
 # Don't ship bad products
 

@@ -1,5 +1,5 @@
 Date: 2025-06-13
-Tags: [[5 - SCREW BUSINESS AS USUAL]] [[STRATEGY]] 
+Tags: [[SCREW BUSINESS AS USUAL]] [[STRATEGY]] 
 
 
 # Do skip level and go directly to the people who experience the problem

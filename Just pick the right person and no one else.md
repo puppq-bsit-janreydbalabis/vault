@@ -1,5 +1,5 @@
 Date: 2025-06-11
-Tags:[[1 - BECOMING STEVE JOBS]] [[HIRING]] 
+Tags:[[BECOMING STEVE JOBS]] [[HIRING]] 
 
 # Just pick the right person and no one else
 

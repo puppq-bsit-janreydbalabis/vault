@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f1f62b1a80e0adef",
+        "id": "a4dbc810aaf6acb6",
         "type": "tabs",
         "children": [
           {
-            "id": "def38cd4e4e73913",
+            "id": "5598ca1ee893d09e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Don't be afraid to challenge authority and question everything.md",
+                "file": "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
+                  "collapseAll": true,
                   "extraContext": false,
-                  "sortOrder": "alphabetical",
+                  "sortOrder": "byCreatedTime",
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Don't be afraid to challenge authority and question everything"
+              "title": "SCREW BUSINESS AS USUAL"
             }
           }
         ],
@@ -51,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200
   },
   "right": {
     "id": "061688a764034036",
@@ -213,11 +213,17 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "def38cd4e4e73913",
+  "active": "5598ca1ee893d09e",
   "lastOpenFiles": [
+    "1 - Raw Notes/Books/CONSIDER PHLEBAS.md",
+    "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
+    "1 - Raw Notes/Books/LYING.md",
+    "1 - Raw Notes/Books/ZERO TO ONE.md",
+    "1 - Raw Notes/Books/BECOMING STEVE JOBS.md",
+    "Untitled 2.md",
+    "Don't be afraid to challenge authority and question everything.md",
     "Great work means loving what you do and being passionate about it.md",
     "Don't do it for money.md",
-    "Don't be afraid to challenge authority and question everything.md",
     "2 - Zettelkasten/B - Tags/MINDSET.md",
     "Call me crazy, i don't care.md",
     "Be passionate in what you do.md",
@@ -233,14 +239,8 @@
     "Never accept the acceptable.md",
     "If you want eliminate poverty create more jobs for the people.md",
     "2 - Zettelkasten/A - Templates/General Note.md",
-    "1 - Raw Notes/Books/5 - SCREW BUSINESS AS USUAL.md",
-    "Untitled 2.md",
     "Untitled 1.md",
-    "1 - Raw Notes/Books/4 - CONSIDER PHLEBAS.md",
     "Stay optimistic through the darkest times.md",
-    "Stand firm on your belief.md",
-    "Be honest and tell the truth. Be authentic.md",
-    "1 - Raw Notes/Books/3 - LYING.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs",
     "2 - Zettelkasten/C - Book Lists",
     "1 - Raw Notes/Books/Zero to One",

@@ -1,5 +1,5 @@
 Date: 2025-06-11
-Tags: [[1 - BECOMING STEVE JOBS]] [[TECHNOLOGY]] [[ FUTURE]] 
+Tags: [[BECOMING STEVE JOBS]] [[TECHNOLOGY]] [[ FUTURE]] 
 
 # Embrace new technology that will make your work efficient. Don't be a luddite
 

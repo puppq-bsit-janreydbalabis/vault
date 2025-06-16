@@ -1,5 +1,5 @@
 Date: 2025-06-11
-Tags: [[1 - BECOMING STEVE JOBS]] [[MANAGEMENT PRINCIPLES]] 
+Tags: [[BECOMING STEVE JOBS]] [[MANAGEMENT PRINCIPLES]] 
 
 # Fire immediately those people that aren't reliable
 

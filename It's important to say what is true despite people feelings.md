@@ -1,5 +1,5 @@
 Date: 2025-06-13
-Tags: [[3 - LYING]] [[TRUTH]]
+Tags: [[LYING]] [[TRUTH]]
 
 # It's important to say what is true despite people feelings
 

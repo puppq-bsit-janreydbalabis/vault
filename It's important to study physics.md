@@ -1,5 +1,5 @@
 Date: 2025-06-12
-Tags: [[2 - ZERO TO ONE]] [[PHYSICS]] [[BUSINESS]]
+Tags: [[ZERO TO ONE]] [[PHYSICS]] [[BUSINESS]]
 
 # It's important to study physics
 

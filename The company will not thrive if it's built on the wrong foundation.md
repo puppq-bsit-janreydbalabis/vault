@@ -1,5 +1,5 @@
 Date: 2025-06-12
-Tags: [[2 - ZERO TO ONE]] [[BUSINESS]]
+Tags: [[ZERO TO ONE]] [[BUSINESS]]
 
 # The company will not thrive if it's built on the wrong foundation
 

@@ -1,5 +1,5 @@
 Date: 2025-06-12
-Tags:[[2 - ZERO TO ONE]] [[MINDSET]]
+Tags:[[ZERO TO ONE]] [[MINDSET]]
  
 # Think from first principles not formula
 

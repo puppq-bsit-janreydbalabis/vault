@@ -1,5 +1,5 @@
 Date: 2025-06-11
-Tags: [[1 - BECOMING STEVE JOBS]] [[MANAGEMENT PRINCIPLES]] 
+Tags: [[BECOMING STEVE JOBS]] [[MANAGEMENT PRINCIPLES]] 
 
 # Make sure that every interaction with the customer is done with excellence
 

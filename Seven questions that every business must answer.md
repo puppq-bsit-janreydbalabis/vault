@@ -1,5 +1,5 @@
 Date: 2025-06-12
-Tags: [[2 - ZERO TO ONE]] [[QUESTION]]  [[BUSINESS]]
+Tags: [[ZERO TO ONE]] [[QUESTION]]  [[BUSINESS]]
 
 # Seven questions that every business must answer
 

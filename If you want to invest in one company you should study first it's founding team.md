@@ -1,5 +1,5 @@
 Date: 2025-06-12
-Tags: [[2 - ZERO TO ONE]] [[BUSINESS]] 
+Tags: [[ZERO TO ONE]] [[BUSINESS]] 
 
 # If you want to invest in one company you should study first it's founding team
 

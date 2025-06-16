@@ -1,5 +1,5 @@
 Date: 2025-06-12
-Tags: [[2 - ZERO TO ONE]] [[TECHNOLOGY]] [[QUESTION]] 
+Tags: [[ZERO TO ONE]] [[TECHNOLOGY]] [[QUESTION]] 
 
 # It's essential  to deeply think how computers will help humans to solve hard problems
 

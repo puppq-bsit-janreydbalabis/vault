@@ -1,5 +1,5 @@
 Date: 2025-06-13
-Tags: [[3 - LYING]] [[TRUTH]] 
+Tags: [[LYING]] [[TRUTH]] 
 
 # Being truthful doesn't mean we should over share some info about ourselves that we prefer to keep private
 

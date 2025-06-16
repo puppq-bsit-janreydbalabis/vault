@@ -1,5 +1,5 @@
 Date: 2025-06-09
-Tags: [[TECHNOLOGY]] [[1 - BECOMING STEVE JOBS]]
+Tags: [[TECHNOLOGY]] [[BECOMING STEVE JOBS]]
 
 # Computers were simply a combination of semiconductors, software, and data storage
 

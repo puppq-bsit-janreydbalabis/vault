@@ -1,5 +1,5 @@
 Date: 2025-06-16
-Tags: [[5 - SCREW BUSINESS AS USUAL]] [[BUSINESS]]
+Tags: [[SCREW BUSINESS AS USUAL]] [[BUSINESS]]
 
 
 # Business should care about the betterment of the world

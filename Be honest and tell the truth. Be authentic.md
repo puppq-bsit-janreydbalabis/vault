@@ -1,5 +1,5 @@
 Date: 2025-06-13
-Tags:[[3 - LYING]] [[TRUTH]]
+Tags:[[LYING]] [[TRUTH]]
 
 # Be honest and tell the truth. Be authentic
 

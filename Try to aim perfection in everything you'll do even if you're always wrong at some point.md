@@ -1,5 +1,5 @@
 Date: 2025-06-09
-Tags: [[1 - BECOMING STEVE JOBS]] [[STRATEGY]] [[MANAGEMENT PRINCIPLES]] [[MINDSET]]
+Tags: [[BECOMING STEVE JOBS]] [[STRATEGY]] [[MANAGEMENT PRINCIPLES]] [[MINDSET]]
 
 # Try to aim perfection in everything you'll do even if you're always wrong at some point
 

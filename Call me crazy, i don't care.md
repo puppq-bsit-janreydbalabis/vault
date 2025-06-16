@@ -1,5 +1,5 @@
 Date: 2025-06-10
-Tags: [[1 - BECOMING STEVE JOBS]] [[MINDSET]] 
+Tags: [[BECOMING STEVE JOBS]] [[MINDSET]] 
 
 # Call me crazy, i don't care
 

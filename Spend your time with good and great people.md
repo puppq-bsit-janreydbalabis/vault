@@ -1,5 +1,5 @@
 Date: 2025-06-12
-Tags: [[2 - ZERO TO ONE]]  [[LIFE]] [[TIME]] 
+Tags: [[ZERO TO ONE]]  [[LIFE]] [[TIME]] 
 
 # Spend your time with good and great people
 

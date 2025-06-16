@@ -1,5 +1,5 @@
 Date: 2025-06-12
-Tags:[[2 - ZERO TO ONE]] [[MANAGEMENT PRINCIPLES]] 
+Tags:[[ZERO TO ONE]] [[MANAGEMENT PRINCIPLES]] 
 
 # Focus on how to make your products or services as great as possible
 

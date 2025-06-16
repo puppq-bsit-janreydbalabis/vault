@@ -1,5 +1,5 @@
 Date: 2025-06-12
-Tags: [[2 - ZERO TO ONE]] [[STRATEGY]]
+Tags: [[ZERO TO ONE]] [[STRATEGY]]
 
 # Studying the end game is helpful
 

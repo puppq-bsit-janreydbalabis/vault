@@ -1,5 +1,5 @@
 Date: 2025-06-09
-Tags: [[1 - BECOMING STEVE JOBS]]
+Tags: [[BECOMING STEVE JOBS]]
 
 # Real artist ships
 
