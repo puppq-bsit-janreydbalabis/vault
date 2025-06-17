@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Raw Notes/Internet/Manufacturing is like a nucleus from which many jobs spring..md",
+                "file": "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
+                  "collapseAll": true,
                   "extraContext": false,
-                  "sortOrder": "alphabetical",
+                  "sortOrder": "byCreatedTime",
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Manufacturing is like a nucleus from which many jobs spring."
+              "title": "SCREW BUSINESS AS USUAL"
             }
           }
         ],
@@ -213,12 +213,14 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "a414a253bb8636c4",
+  "active": "5598ca1ee893d09e",
   "lastOpenFiles": [
+    "Always think long term.md",
+    "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
+    "1 - Raw Notes/Internet/Manufacturing is like a nucleus from which many jobs spring..md",
     "1 - Raw Notes/Conversations/Convo.md",
     "1 - Raw Notes/Internet/Internet.md",
     "1 - Raw Notes/Classes/Classs.md",
-    "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
     "1 - Raw Notes/Books/CONSIDER PHLEBAS.md",
     "1 - Raw Notes/Books/LYING.md",
     "1 - Raw Notes/Books/ZERO TO ONE.md",
@@ -237,10 +239,8 @@
     "Keep doing things.md",
     "Business should care about the betterment of the world.md",
     "Business exists to help humanity and to preserve civilization.md",
-    "Always think long term.md",
     "Think long term.md",
     "Never accept the acceptable.md",
-    "If you want eliminate poverty create more jobs for the people.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs",
     "2 - Zettelkasten/C - Book Lists",
     "1 - Raw Notes/Books/Zero to One",
