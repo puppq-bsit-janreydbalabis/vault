@@ -1,5 +1,6 @@
 Date: 2025-06-09
-Tags: [[BECOMING STEVE JOBS]] [[PERSISTENT]]  [[MINDSET]]
+Book: [[BECOMING STEVE JOBS]]
+Tags: [[PERSISTENT]]  [[MINDSET]]
 
 # Real engineers don't give up when faced with difficult problems
 

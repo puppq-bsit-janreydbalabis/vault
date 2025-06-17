@@ -1,5 +1,6 @@
 Date: 2025-06-13
-Tags: [[SCREW BUSINESS AS USUAL]] [[BUSINESS]]
+Book: [[SCREW BUSINESS AS USUAL]]
+Tags:  [[BUSINESS]]
 
 
 # It's not about the money, it's about working with talented people to do good things in this world

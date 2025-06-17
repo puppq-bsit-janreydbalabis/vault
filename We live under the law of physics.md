@@ -1,5 +1,6 @@
 Date: 2025-06-12
-Tags: [[ZERO TO ONE]] [[LIFE]] 
+Book: [[ZERO TO ONE]]
+Tags: [[LIFE]] 
 
 # We live under the law of physics
 

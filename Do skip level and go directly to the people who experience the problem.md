@@ -1,5 +1,6 @@
 Date: 2025-06-13
-Tags: [[SCREW BUSINESS AS USUAL]] [[STRATEGY]] 
+Book: [[SCREW BUSINESS AS USUAL]] 
+Tags:  [[STRATEGY]] 
 
 
 # Do skip level and go directly to the people who experience the problem

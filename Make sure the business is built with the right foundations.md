@@ -1,5 +1,6 @@
 Date: 2025-06-12
-Tags: [[ZERO TO ONE]] [[BUSINESS]] 
+Books: [[ZERO TO ONE]]
+Tags: [[BUSINESS]] 
 
 # Make sure the business is built with the right foundations
 

@@ -1,5 +1,6 @@
 Date: 2025-06-13
-Tags:[[LYING]] [[TRUTH]]
+Book: [[LYING]]
+Tags:[[TRUTH]]
 
 # Be honest and tell the truth. Be authentic
 

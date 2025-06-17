@@ -1,5 +1,6 @@
 Date: 2025-06-09
-Tags:  [[BECOMING STEVE JOBS]] [[STRATEGY]]
+Book: [[BECOMING STEVE JOBS]]
+Tags:   [[STRATEGY]]
 
 # Make your goal as compelling as possible
 

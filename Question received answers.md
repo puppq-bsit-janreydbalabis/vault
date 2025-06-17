@@ -1,5 +1,6 @@
 Date: 2025-06-12 
-Tags:[[ZERO TO ONE]]  [[QUESTION]]
+Book: [[ZERO TO ONE]]
+Tags:[[QUESTION]]
 
 # Question received answers
 

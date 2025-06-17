@@ -1,5 +1,6 @@
-Date: 2025-06-13
-Tags: [[SCREW BUSINESS AS USUAL]] [[MINDSET]] 
+Date: 2025-06-13|
+Book: [[SCREW BUSINESS AS USUAL]]
+Tags:  [[MINDSET]] 
 
 
 # Be passionate in what you do

@@ -1,5 +1,6 @@
 Date: 2025-06-12
-Tags:[[ZERO TO ONE]] [[BUSINESS]]
+Book: [[ZERO TO ONE]] 
+Tags: [[BUSINESS]]
 
 # For startups to survive every member should work quickly and efficiently 
 

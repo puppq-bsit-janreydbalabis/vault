@@ -1,5 +1,6 @@
 Date: 2025-06-16
-Tags: [[SCREW BUSINESS AS USUAL]] [[BUSINESS]]
+Book: [[SCREW BUSINESS AS USUAL]]
+Tags:  [[BUSINESS]]
 
 
 # Always think long term

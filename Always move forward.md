@@ -1,5 +1,6 @@
 Date: 2025-06-13
-Tags: [[CONSIDER PHLEBAS]] [[MINDSET]]  
+Book: [[CONSIDER PHLEBAS]]
+Tags:  [[MINDSET]]  
 
 
 # Always move forward

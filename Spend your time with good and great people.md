@@ -1,5 +1,6 @@
 Date: 2025-06-12
-Tags: [[ZERO TO ONE]]  [[LIFE]] [[TIME]] 
+Book:[[ZERO TO ONE]]
+Tags:  [[LIFE]] [[TIME]] 
 
 # Spend your time with good and great people
 

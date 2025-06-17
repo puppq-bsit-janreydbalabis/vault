@@ -1,5 +1,6 @@
 Date: 2025-06-12
-Tags:[[ZERO TO ONE]] [[BUSINESS]] [[DISTRIBUTION]] 
+Book: [[ZERO TO ONE]]
+Tags: [[BUSINESS]] [[DISTRIBUTION]] 
 
 # It's doesn't matter how good your product is if you don't have any way to distribute it — its flawed
 

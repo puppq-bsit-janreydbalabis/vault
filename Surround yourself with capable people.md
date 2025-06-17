@@ -1,5 +1,6 @@
 Date: 2025-06-11
-Tags: [[BECOMING STEVE JOBS]] [[HIRING]] [[MINDSET]]
+Book: [[BECOMING STEVE JOBS]]
+Tags: [[HIRING]] [[MINDSET]]
 
 # Surround yourself with capable people
 

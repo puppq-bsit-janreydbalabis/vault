@@ -1,5 +1,6 @@
 Date: 2025-06-11
-Tags: [[BECOMING STEVE JOBS]] [[MINDSET]] [[PERSISTENT]]
+Book: [[BECOMING STEVE JOBS]]
+Tags: [[MINDSET]] [[PERSISTENT]]
 
 
 # Keep doing things

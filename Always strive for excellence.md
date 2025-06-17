@@ -1,5 +1,6 @@
 Date: 2025-06-09
-Tags:  [[BECOMING STEVE JOBS]] [[STRATEGY]] [[MINDSET]] 
+Book: [[BECOMING STEVE JOBS]]
+Tags:   [[STRATEGY]] [[MINDSET]] 
 
 # Always strive for excellence
 

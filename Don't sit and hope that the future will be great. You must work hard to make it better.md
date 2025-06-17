@@ -1,5 +1,6 @@
 Date: 2025-06-12
-Tags: [[ZERO TO ONE]] [[FUTURE]] 
+Book: [[ZERO TO ONE]]
+Tags:  [[FUTURE]] 
 
 # Don't sit and hope that the future will be great. You must work hard to make it better
 
