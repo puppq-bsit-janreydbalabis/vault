@@ -27,6 +27,7 @@ Tetzeli
 Title
 Trust
 Technical
+Teachers
 Work
 We
 What
@@ -184,6 +185,7 @@ savin
 shareholder
 stewards
 suggest
+spring
 harder
 humility
 have
@@ -364,6 +366,9 @@ growth
 gift
 giving
 general
+generally
+generator
+governors
 Have
 Hare
 How
@@ -428,6 +433,7 @@ lies
 lying
 lasting
 leave
+lawyers
 from
 failures
 for
@@ -494,6 +500,7 @@ founders
 flawed
 fearless
 flashcards
+factory
 continually
 cause
 channel
@@ -663,6 +670,8 @@ accumulate
 accept
 acceptable
 act
+area
+accountants
 back
 bigger
 board
@@ -817,6 +826,9 @@ resources
 rolling
 reward
 recognize
+roughly
+restaurants
+region
 Can
 Chapter
 Creating
@@ -946,6 +958,7 @@ eliminate
 environmental
 exists
 exist
+electricians
 outward
 of
 one
@@ -1038,6 +1051,9 @@ matter
 mature
 marketer
 men
+massive
+manufacturing
+ministers
 what
 wisely
 why
@@ -1096,6 +1112,7 @@ Remembering
 Right
 Rick
 Reinventing
+Rogan
 Every
 Even
 Entrepreneurs
@@ -1106,6 +1123,7 @@ Everything
 Earth
 Embrace
 Everyone
+Experience
 pain
 problem
 people
@@ -1185,6 +1203,10 @@ plugin
 poverty
 preserve
 profit
+politicians
+plumbers
+prime
+presidents
 director
 doing
 down
@@ -1320,6 +1342,7 @@ niche
 narrative
 neatly
 nobler
+nucleus
 Branson
 But
 Banks
@@ -1388,6 +1411,7 @@ Menlo
 May
 Make
 Monopoly
+Manufacturing
 Preface
 Picasso
 Pixar
@@ -1401,6 +1425,7 @@ Great
 Google
 Jobs
 Just
+Joe
 No
 None
 Noyce
@@ -1420,6 +1445,7 @@ On
 Or
 One
 Over
+October
 Let
 Laurene
 Later

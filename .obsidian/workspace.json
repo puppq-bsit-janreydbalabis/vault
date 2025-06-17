@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Raw Notes/Internet/Internet.md",
+                "file": "1 - Raw Notes/Internet/Manufacturing is like a nucleus from which many jobs spring..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": true,
+                  "collapseAll": false,
                   "extraContext": false,
-                  "sortOrder": "byCreatedTime",
+                  "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Internet"
+              "title": "Manufacturing is like a nucleus from which many jobs spring."
             }
           }
         ],
