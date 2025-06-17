@@ -1,5 +1,6 @@
 Date: 2025-06-13
-Tags: [[LYING]] 
+Book: [[LYING]]
+Tags: 
 
 # Lies are harmful
 

@@ -1,5 +1,6 @@
 Date: 2025-06-12
-Tags: [[ZERO TO ONE]] [[BUSINESS]] [[HIRING]]
+Book:[[ZERO TO ONE]]
+Tags:  [[BUSINESS]] [[HIRING]]
 
 # First you need talented individuals that can work with other talented individuals. Second a compelling vision to make them aligned
 

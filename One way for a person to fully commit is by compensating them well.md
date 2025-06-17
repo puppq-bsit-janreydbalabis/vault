@@ -1,5 +1,6 @@
 Date: 2025-06-12
-Tags: [[ZERO TO ONE]] [[BUSINESS]] [[STRATEGY]]
+Book: [[ZERO TO ONE]] 
+Tags: [[BUSINESS]] [[STRATEGY]]
 
 # One way for a person to fully commit is by compensating them well
 

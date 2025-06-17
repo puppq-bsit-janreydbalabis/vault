@@ -1,4 +1,5 @@
 Date: 2025-06-13
+Book: [[LYING]]
 Tags: [[LYING]] [[TRUTH]]
 
 # It's important to say what is true despite people feelings

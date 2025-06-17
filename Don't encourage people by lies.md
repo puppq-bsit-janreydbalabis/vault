@@ -1,5 +1,6 @@
 Date: 2025-06-13
-Tags: [[LYING]] [[LIFE]] 
+Book: [[LYING]]
+Tags:  [[LIFE]] 
 
 # Don't encourage people by lies
 

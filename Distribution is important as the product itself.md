@@ -1,5 +1,6 @@
 Date: 2025-06-12
-Tags: [[ZERO TO ONE]] [[DISTRIBUTION]] 
+Book: [[ZERO TO ONE]]
+Tags: [[DISTRIBUTION]] 
 
 # Distribution is important as the product itself
 

@@ -1,5 +1,6 @@
 Date: 2025-06-11
-Tags: [[BECOMING STEVE JOBS]] [[HIRING]]
+Book: [[BECOMING STEVE JOBS]]
+Tags: [[HIRING]]
 
 # Hire those people that are better than you and not afraid to tell you're wrong
 

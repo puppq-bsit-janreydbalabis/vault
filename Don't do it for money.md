@@ -1,5 +1,6 @@
 Date: 2025-06-14
-Tags: [[SCREW BUSINESS AS USUAL]] [[MINDSET]]
+Book: [[SCREW BUSINESS AS USUAL]]
+Tags:  [[MINDSET]]
 
 
 # Don't do it for money

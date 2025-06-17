@@ -3,14 +3,10 @@
   "highlightr-plugin",
   "obsidian-git",
   "recent-files-obsidian",
-  "obsidian-completr",
   "url-into-selection",
   "obsidian-text-format",
   "tag-wrangler",
   "waypoint",
   "auto-moc",
-  "callout-manager",
-  "obsidian-spaced-repetition",
-  "dbfolder",
-  "obsidian-icon-folder"
+  "short-internal-links-to-headings"
 ]

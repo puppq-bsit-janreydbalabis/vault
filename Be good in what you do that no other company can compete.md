@@ -1,5 +1,6 @@
 Date: 2025-06-12
-Tags:[[ZERO TO ONE]] [[MANAGEMENT PRINCIPLES]] [[BUSINESS]] 
+Book: [[ZERO TO ONE]]
+Tags:[[MANAGEMENT PRINCIPLES]] [[BUSINESS]] 
 
 # Be good in what you do that no other company can compete
 

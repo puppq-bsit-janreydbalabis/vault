@@ -1,5 +1,6 @@
 Date: 2025-06-14
-Tags: [[SCREW BUSINESS AS USUAL]] [[STRATEGY]] [[BUSINESS]]
+Book: [[SCREW BUSINESS AS USUAL]]
+Tags:  [[STRATEGY]] [[BUSINESS]]
 
 
 # Be transparent

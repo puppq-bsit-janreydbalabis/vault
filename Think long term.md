@@ -1,5 +1,6 @@
 Date: 2025-06-12
-Tags:[[ZERO TO ONE]] [[BUSINESS]] [[QUESTION]] 
+Book: [[ZERO TO ONE]]
+Tags: [[BUSINESS]] [[QUESTION]] 
 
 # Think long term 
 

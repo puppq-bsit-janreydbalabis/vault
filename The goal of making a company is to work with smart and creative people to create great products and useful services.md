@@ -1,5 +1,6 @@
 Date: 2025-06-11
-Tags: [[BECOMING STEVE JOBS]] [[MANAGEMENT PRINCIPLES]] [[CREATING THINGS]]
+Book: [[BECOMING STEVE JOBS]]
+Tags: [[MANAGEMENT PRINCIPLES]] [[CREATING THINGS]]
 
 # The goal of making a company is to work with smart and creative people to create great products and useful services
 

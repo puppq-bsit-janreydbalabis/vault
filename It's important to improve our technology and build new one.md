@@ -1,5 +1,6 @@
 Date: 2025-06-12
-Tags:[[ZERO TO ONE]] [[TECHNOLOGY]] 
+Book: [[ZERO TO ONE]]
+Tags:[[TECHNOLOGY]] 
 
 # It's important to improve our technology and build new one
 

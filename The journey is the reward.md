@@ -1,5 +1,6 @@
 Date: 2025-06-09
-Tags: [[JOURNEY]] [[BECOMING STEVE JOBS]] [[LIFE]]
+Book: [[BECOMING STEVE JOBS]]
+Tags: [[JOURNEY]]  [[LIFE]]
 
 # The journey is the reward
 

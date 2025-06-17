@@ -1,5 +1,6 @@
 Date: 2025-06-13
-Tags:[[SCREW BUSINESS AS USUAL]] [[LIFE]]
+Book: [[SCREW BUSINESS AS USUAL]]
+Tags:[[LIFE]]
 
 
 # Just do good and have fun
