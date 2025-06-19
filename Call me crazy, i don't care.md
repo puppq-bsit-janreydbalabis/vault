@@ -1,6 +1,7 @@
 Date: 2025-06-10
 Book: [[BECOMING STEVE JOBS]]
 Tags: [[MINDSET]] 
+#
 
 # Call me crazy, i don't care
 

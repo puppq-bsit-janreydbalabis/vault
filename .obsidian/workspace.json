@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ae369e74538b03d5",
+        "id": "a8293e97e6c2c6c3",
         "type": "tabs",
         "children": [
           {
-            "id": "c3bf35c4ae87afc4",
+            "id": "bbb6916a81a49ead",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Zettelkasten/B - Tags/TECHNOLOGY.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "byCreatedTime",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TECHNOLOGY"
+              "title": "New tab"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,8 +156,19 @@
               "icon": "lucide-list",
               "title": "Outline of MANAGEMENT PRINCIPLES"
             }
+          },
+          {
+            "id": "8c7123a122ea2ba4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -189,37 +185,37 @@
       "obsidian-git:Open Git source control": false,
       "auto-moc:AutoMOC": false,
       "graph:Open graph view": false,
-      "vscode-editor:Create Code File": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c3bf35c4ae87afc4",
+  "active": "bbb6916a81a49ead",
   "lastOpenFiles": [
-    "Embrace new technology that will make your work efficient. Don't be a luddite.md",
-    "2 - Zettelkasten/B - Tags/TECHNOLOGY.md",
-    "Computers were simply a combination of semiconductors, software, and data storage.md",
-    "Computer is invented to help humans not as replacement.md",
-    "The journey is the reward.md",
-    "2 - Zettelkasten/B - Tags/JOURNEY.md",
-    "1 - Raw Notes/Books/ZERO TO ONE.md",
-    "1 - Raw Notes/Books/BECOMING STEVE JOBS.md",
-    "1 - Raw Notes/Books/LYING.md",
-    "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
-    "1 - Raw Notes/Books/CONSIDER PHLEBAS.md",
-    "There is no place in the company for those who weren't good at their job.md",
-    "Do good — and the rewards will come.md",
-    "It's important to say what is true despite people feelings.md",
-    "Be honest and tell the truth. Be authentic.md",
-    "2 - Zettelkasten/B - Tags/PHYSICS.md",
     "It's important to study physics.md",
+    "2 - Zettelkasten/B - Tags/PHYSICS.md",
+    "2 - Zettelkasten/B - Tags/TIME.md",
+    "Always strive for excellence.md",
+    "Creating a smarter-than-human computer has the chance to reduce randomness in our lives but it's important to make them in alignment with us humans.md",
+    "Try you're very best to hire the best people in the world.md",
+    "Always ask how to keep moving forward.md",
+    "Call me crazy, i don't care.md",
+    "Don't be afraid to challenge authority and question everything.md",
     "2 - Zettelkasten/B - Tags/MINDSET.md",
-    "If you see a bright idea — go with it. If you see a problem — deal with it.md",
-    "It's not about the money, it's about working with talented people to do good things in this world.md",
-    "Just do good and have fun.md",
+    "Always move forward.md",
+    "Work on hardcore mode.md",
+    "We will lose sometimes, what matters is how we stand up and try again.md",
+    "We must stay strong.md",
+    "Try to aim perfection in everything you'll do even if you're always wrong at some point.md",
+    "Trust your instinct.md",
+    "Think from first principles not formula.md",
+    "Surround yourself with capable people.md",
+    "Strong men believe in cause and effect.md",
+    "Stay optimistic through the darkest times.md",
+    "Stand firm on your belief.md",
+    "Separate your self from idea.md",
+    "Real engineers don't give up when faced with difficult problems.md",
     "Never accept the acceptable.md",
-    "Use humor as a tool.md",
-    "If you want eliminate poverty create more jobs for the people.md",
-    "Its our responsibility to make this world a better place.md",
-    "Just do good.md",
+    "Keep doing things.md",
+    "Be passionate in what you do.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs",
     "2 - Zettelkasten/C - Book Lists",
     "1 - Raw Notes/Books/Zero to One",

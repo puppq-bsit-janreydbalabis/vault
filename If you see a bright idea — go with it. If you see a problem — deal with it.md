@@ -1,4 +1,4 @@
-Date: 2025-06-14
+	Date: 2025-06-14
 Book: [[SCREW BUSINESS AS USUAL]]
 Tags:  [[MINDSET]] 
 
