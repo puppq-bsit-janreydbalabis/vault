@@ -1,6 +1,6 @@
 Date: 2025-06-11
 Book: [[BECOMING STEVE JOBS]]
-Tags: [[TECHNOLOGY]] [[ FUTURE]] 
+Tags: 
 
 # Embrace new technology that will make your work efficient. Don't be a luddite
 

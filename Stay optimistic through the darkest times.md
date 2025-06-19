@@ -1,6 +1,6 @@
 Date: 2025-06-13
 Book: [[CONSIDER PHLEBAS]]
-Tags:  [[MINDSET]] 
+Tags:  
 
 
 # Stay optimistic through the darkest times

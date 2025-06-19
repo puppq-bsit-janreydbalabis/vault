@@ -1,6 +1,6 @@
 Date: 2025-06-11
 Book: [[BECOMING STEVE JOBS]]
-Tags: [[MANAGEMENT PRINCIPLES]] 
+Tags:  
 
 # Make sure that every interaction with the customer is done with excellence
 

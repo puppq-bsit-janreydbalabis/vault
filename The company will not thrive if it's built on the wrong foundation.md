@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book: [[ZERO TO ONE]]
-Tags: [[BUSINESS]]
+Tags: 
 
 # The company will not thrive if it's built on the wrong foundation
 

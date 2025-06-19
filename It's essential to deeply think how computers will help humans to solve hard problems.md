@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book: [[ZERO TO ONE]]
-Tags: [[TECHNOLOGY]] [[QUESTION]] 
+Tags: 
 
 # It's essential  to deeply think how computers will help humans to solve hard problems
 

@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book: [[ZERO TO ONE]]
-Tags:[[BUSINESS]]
+Tags:
 
 # The goal of every company is to change the world for the better
 

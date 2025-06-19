@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book[[ZERO TO ONE]]
-Tags: [[BUSINESS]] 
+Tags: 
 
 # Creating value means giving unique offers and people would feel stupid if they refuse
 

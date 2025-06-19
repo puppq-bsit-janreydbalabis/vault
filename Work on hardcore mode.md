@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book: [[ZERO TO ONE]]
-Tags:[[MINDSET]] [[BUSINESS]] 
+Tags:
 
 # Work on hardcore mode
 

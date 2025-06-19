@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book: [[ZERO TO ONE]]
-Tags:  [[QUESTION]]  [[BUSINESS]]
+Tags: 
 
 # Seven questions that every business must answer
 

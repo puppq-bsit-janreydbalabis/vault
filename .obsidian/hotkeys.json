@@ -51,14 +51,6 @@
       "key": "H"
     }
   ],
-  "url-into-selection:paste-url-into-selection": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "V"
-    }
-  ],
   "waypoint:go_to_parent_waypoint": [
     {
       "modifiers": [
@@ -126,5 +118,14 @@
       ],
       "key": "Tab"
     }
-  ]
+  ],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search": []
 }
