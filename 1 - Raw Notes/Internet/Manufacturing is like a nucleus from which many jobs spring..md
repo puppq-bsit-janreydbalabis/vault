@@ -1,5 +1,5 @@
 Date: 2025-06-16
-Tags: [[MANUFACTURING]] 
+Tags: 
 
 # Manufacturing is like a nucleus from which many jobs spring.
 

@@ -1,6 +1,6 @@
 Date: 2025-06-17
 Book:[[]]
-Tags: [[]]
+Tags: 
 
 
 # {{Title}}
