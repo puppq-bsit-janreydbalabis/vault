@@ -8,13 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48a66b3176c7f338",
+            "id": "c3bf35c4ae87afc4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 - Zettelkasten/B - Tags/TECHNOLOGY.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "byCreatedTime",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TECHNOLOGY"
             }
           }
         ],
@@ -101,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Raw Notes/Books/ZERO TO ONE.md",
+                "file": "2 - Zettelkasten/B - Tags/TECHNOLOGY.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ZERO TO ONE"
+              "title": "Backlinks for TECHNOLOGY"
             }
           },
           {
@@ -120,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Zettelkasten/C - Book Lists/2 - ZERO TO ONE.md",
+                "file": "2 - Zettelkasten/B - Tags/MANAGEMENT PRINCIPLES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2 - ZERO TO ONE"
+              "title": "Outgoing links from MANAGEMENT PRINCIPLES"
             }
           },
           {
@@ -149,17 +163,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Raw Notes/Books/ZERO TO ONE.md",
+                "file": "2 - Zettelkasten/B - Tags/MANAGEMENT PRINCIPLES.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ZERO TO ONE"
+              "title": "Outline of MANAGEMENT PRINCIPLES"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,37 +188,38 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "auto-moc:AutoMOC": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "vscode-editor:Create Code File": false
     }
   },
-  "active": "48a66b3176c7f338",
+  "active": "c3bf35c4ae87afc4",
   "lastOpenFiles": [
-    "Don't complicate things.md",
+    "Embrace new technology that will make your work efficient. Don't be a luddite.md",
+    "2 - Zettelkasten/B - Tags/TECHNOLOGY.md",
+    "Computers were simply a combination of semiconductors, software, and data storage.md",
+    "Computer is invented to help humans not as replacement.md",
+    "The journey is the reward.md",
+    "2 - Zettelkasten/B - Tags/JOURNEY.md",
+    "1 - Raw Notes/Books/ZERO TO ONE.md",
+    "1 - Raw Notes/Books/BECOMING STEVE JOBS.md",
+    "1 - Raw Notes/Books/LYING.md",
     "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
-    "Embrace change if it's essential.md",
-    "It is important to do what you think is right.md",
-    "Just do good.md",
-    "Its our responsibility to make this world a better place.md",
-    "Always look for talented individuals to make the world better.md",
-    "Business should care about the betterment of the world.md",
-    "Business exists to help humanity and to preserve civilization.md",
-    "Always think long term.md",
-    "If you want eliminate poverty create more jobs for the people.md",
-    "Use humor as a tool.md",
-    "Never accept the acceptable.md",
-    "Just do good and have fun.md",
-    "It's not about the money, it's about working with talented people to do good things in this world.md",
-    "If you see a bright idea — go with it. If you see a problem — deal with it.md",
-    "Don't do it for money.md",
-    "Doing good is good for the business.md",
-    "Do skip level and go directly to the people who experience the problem.md",
-    "Do good — and the rewards will come.md",
-    "Be transparent.md",
-    "Be passionate in what you do.md",
     "1 - Raw Notes/Books/CONSIDER PHLEBAS.md",
-    "We must stay strong.md",
-    "Trust your instinct.md",
-    "Stay optimistic through the darkest times.md",
+    "There is no place in the company for those who weren't good at their job.md",
+    "Do good — and the rewards will come.md",
+    "It's important to say what is true despite people feelings.md",
+    "Be honest and tell the truth. Be authentic.md",
+    "2 - Zettelkasten/B - Tags/PHYSICS.md",
+    "It's important to study physics.md",
+    "2 - Zettelkasten/B - Tags/MINDSET.md",
+    "If you see a bright idea — go with it. If you see a problem — deal with it.md",
+    "It's not about the money, it's about working with talented people to do good things in this world.md",
+    "Just do good and have fun.md",
+    "Never accept the acceptable.md",
+    "Use humor as a tool.md",
+    "If you want eliminate poverty create more jobs for the people.md",
+    "Its our responsibility to make this world a better place.md",
+    "Just do good.md",
     "1 - Raw Notes/Books/Becoming Steve Jobs",
     "2 - Zettelkasten/C - Book Lists",
     "1 - Raw Notes/Books/Zero to One",

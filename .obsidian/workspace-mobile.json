@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
+                "file": "2 - Zettelkasten/B - Tags/MANAGEMENT PRINCIPLES.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SCREW BUSINESS AS USUAL"
+              "title": "MANAGEMENT PRINCIPLES"
             }
           }
         ]
@@ -46,7 +46,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byCreatedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -179,37 +179,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "db52dc2137659f99",
+  "active": "04968184fce45c5f",
   "lastOpenFiles": [
-    "Untitled",
+    "Always ask how to keep moving forward.md",
+    "2 - Zettelkasten/B - Tags/MANAGEMENT PRINCIPLES.md",
+    "2 - Zettelkasten/B - Tags/LIFE.md",
+    "2 - Zettelkasten/B - Tags/TIME.md",
+    "2 - Zettelkasten/B - Tags/AI.md",
+    "Creating a smarter-than-human computer has the chance to reduce randomness in our lives but it's important to make them in alignment with us humans.md",
+    "Spend your time with good and great people.md",
+    "Simplicity is the ultimate sophistication.md",
+    "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
+    "Do good — and the rewards will come.md",
+    "Untitled Kanban.md",
     "1 - Raw Notes/Books/ZERO TO ONE.md",
+    "It's important to study physics.md",
+    "2 - Zettelkasten/B - Tags/PHYSICS.md",
+    "2 - Zettelkasten/B - Tags/RESPONSIBILITY.md",
+    "Its our responsibility to make this world a better place.md",
+    "Untitled",
     "1 - Raw Notes/Books/LYING.md",
     "1 - Raw Notes/Books/BECOMING STEVE JOBS.md",
     "Work super harder towards your goals. Have the humility to learn from your failures.md",
-    "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
     "1 - Raw Notes/Internet/Manufacturing is like a nucleus from which many jobs spring..md",
     "Just do good.md",
-    "Its our responsibility to make this world a better place.md",
     "It is important to do what you think is right.md",
     "Embrace change if it's essential.md",
     "Don't complicate things.md",
     "Always look for talented individuals to make the world better.md",
-    "2 - Zettelkasten/B - Tags/RESPONSIBILITY.md",
     "2 - Zettelkasten/A - Templates/Book Note.md",
-    "1 - Raw Notes/Books/CONSIDER PHLEBAS.md",
-    "2 - Zettelkasten/B - Tags/MANUFACTURING.md",
-    "1 - Raw Notes/Books/Consider Phlebas/Trust your instinct.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Try you're very best to hire the best people in the world.md",
-    "2 - Zettelkasten/B - Tags/HIRING.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Just pick the right person and no one else.md",
-    "1 - Raw Notes/Books/Zero to One/It doesn't matter what people race, color, or country they come from. What we need are people that are obsessed and great in what they do.md",
-    "1 - Raw Notes/Books/Becoming Steve Jobs/Hire those people that are better than you and not afraid to tell you're wrong.md",
-    "1 - Raw Notes/Books/Zero to One/First you need talented individuals that can work with other talented individuals. Second a compelling vision to make them aligned.md",
-    "1 - Raw Notes/Books/Zero to One/Every single member of the company matters so it's important to choose wisely  — as they can cause you pain.md",
-    "2 - Zettelkasten/B - Tags/JOURNEY.md",
     "/1 - Raw Notes/Books/Zero to One",
     "/2 - Zettelkasten/C - Book Lists",
     "/1 - Raw Notes/Books/Lying",
@@ -218,7 +220,6 @@
     "/1 - Raw Notes/Books/Consider Phlebas",
     "1 - Raw Notes/Books/Consider Phlebas",
     "/1 - Raw Notes/Books",
-    "/1 - Raw Notes",
-    "/2 - Zettelkasten/A - Templates"
+    "/1 - Raw Notes"
   ]
 }
