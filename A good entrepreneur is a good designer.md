@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book: [[ZERO TO ONE]]
-Tags:
+Tags: #designer 
 
 # A good entrepreneur is a good designer
 

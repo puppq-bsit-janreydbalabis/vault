@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book [[ZERO TO ONE]]
-Tags: [[TECHNOLOGY]] [[AI]] 
+Tags: #computers #ai #technology
 
 # Creating a smarter-than-human computer has the chance to reduce randomness in our lives but it's important to make them in alignment with us humans
 

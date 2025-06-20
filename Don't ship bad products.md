@@ -1,6 +1,6 @@
 Date: 2025-06-09
 Book: [[BECOMING STEVE JOBS]]
-Tags:  
+Tags:  #steve_jobs #management_principles
 
 # Don't ship bad products
 

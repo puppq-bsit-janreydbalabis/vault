@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book: [[ZERO TO ONE]]
-Tags:  
+Tags:  #company 
 
 # Every member of your organization should be unique yet united working passionately on the company's vision
 

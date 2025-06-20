@@ -1,6 +1,6 @@
 Date: 2025-06-11
 Book: [[BECOMING STEVE JOBS]]
-Tags:
+Tags: #leadership #question
 
 
 >*Do you have the humility to continually grow, to learn from your failures and get back up? Are you utterly relentless for your cause, ferocious to your cause?

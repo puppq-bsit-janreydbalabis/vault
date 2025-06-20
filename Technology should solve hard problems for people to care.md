@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book:[[ZERO TO ONE]]
-Tags: 
+Tags: #technology 
 
 # Technology should solve hard problems for people to care
 

@@ -1,6 +1,6 @@
 Date: 2025-06-11
 Book: [[BECOMING STEVE JOBS]]
-Tags:
+Tags: #business_strategy #craftmanship
 
 # Attention to detail is important
 

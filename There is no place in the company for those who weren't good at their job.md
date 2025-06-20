@@ -1,6 +1,6 @@
 Date: 2025-06-10
 Book: [[BECOMING STEVE JOBS]]
-Tags: 
+Tags: #management_principles #company
 
 # There is no place in the company for those who weren't good at their job
 

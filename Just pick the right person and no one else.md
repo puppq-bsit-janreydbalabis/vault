@@ -1,6 +1,6 @@
 Date: 2025-06-11
 Book: [[BECOMING STEVE JOBS]]
-Tags: 
+Tags: #hiring
 
 # Just pick the right person and no one else
 

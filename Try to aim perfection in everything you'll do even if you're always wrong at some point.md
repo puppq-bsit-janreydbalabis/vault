@@ -1,6 +1,6 @@
 Date: 2025-06-09
 Book: [[BECOMING STEVE JOBS]]
-Tags: 
+Tags: #mindset
 
 # Try to aim perfection in everything you'll do even if you're always wrong at some point
 

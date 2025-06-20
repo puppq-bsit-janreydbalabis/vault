@@ -1,6 +1,6 @@
 Date: 2025-06-17
 Book:[[SCREW BUSINESS AS USUAL]]
-Tags: 
+Tags: #change #mindset 
 
 
 # Embrace change if it's essential

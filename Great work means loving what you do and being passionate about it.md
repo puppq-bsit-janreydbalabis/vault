@@ -1,7 +1,6 @@
 Date: 2025-06-11
 Book: [[BECOMING STEVE JOBS]]
-Tags: 
-
+Tags: #work #steve_jobs
 # Great work means loving what you do and being passionate about it
 
 STEVE COMMENCEMENT SPEEC

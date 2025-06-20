@@ -1,6 +1,6 @@
 Date: 2025-06-16
 Book: [[SCREW BUSINESS AS USUAL]]
-Tags: 
+Tags: #business 
 
 
 # Business exists to help humanity and to preserve civilization

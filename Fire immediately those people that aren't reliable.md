@@ -1,6 +1,6 @@
 Date: 2025-06-11
 Book: [[BECOMING STEVE JOBS]]
-Tags:  
+Tags:  #business_strategy #firing
 
 # Fire immediately those people that aren't reliable
 

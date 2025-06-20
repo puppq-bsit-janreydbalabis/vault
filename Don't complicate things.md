@@ -1,6 +1,6 @@
 Date: 2025-06-17
 Book:[[SCREW BUSINESS AS USUAL]]
-Tags: 
+Tags: #design #strategy 
 
 
 # Don't complicate things

@@ -1,6 +1,6 @@
 Date: 2025-06-09
 Book: [[BECOMING STEVE JOBS]]
-Tags: 
+Tags: #hiring 
 
 # Hiring for technological genius will create many possibilities
 

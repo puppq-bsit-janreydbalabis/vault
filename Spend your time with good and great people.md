@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book:[[ZERO TO ONE]]
-Tags: 
+Tags: #time #mindset 
 
 # Spend your time with good and great people
 

@@ -1,6 +1,6 @@
 Date: 2025-06-13
 Book: [[SCREW BUSINESS AS USUAL]]
-Tags: 
+Tags: #mindset 
 
 
 # It's not about the money, it's about working with talented people to do good things in this world

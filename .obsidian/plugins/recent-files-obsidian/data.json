@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "001 - Book Mocs",
       "path": "0 - MOC/001 - Book Mocs.md"
     },
@@ -21,6 +22,16 @@
       "path": "1 - Raw Notes/Internet/Manufacturing is like a nucleus from which many jobs spring..md"
     },
     {
+=======
+<<<<<<< HEAD
+      "basename": "MANAGEMENT PRINCIPLES",
+      "path": "2 - Zettelkasten/B - Tags/MANAGEMENT PRINCIPLES.md"
+    },
+    {
+      "basename": "Always ask how to keep moving forward",
+      "path": "Always ask how to keep moving forward.md"
+=======
+>>>>>>> a615e8eebfbe8747a5da9cd4bfada979d2b0ab13
       "basename": "CONSIDER PHLEBAS",
       "path": "1 - Raw Notes/Books/CONSIDER PHLEBAS.md"
     },
@@ -175,12 +186,61 @@
     {
       "basename": "An effective board is small",
       "path": "An effective board is small.md"
+>>>>>>> 338c1dedde8464aaa97589dd749ac3725fe9e5e3
     },
     {
       "basename": "Be good in what you do that no other company can compete",
       "path": "Be good in what you do that no other company can compete.md"
     },
     {
+<<<<<<< HEAD
+      "basename": "TIME",
+      "path": "2 - Zettelkasten/B - Tags/TIME.md"
+    },
+    {
+      "basename": "AI",
+      "path": "2 - Zettelkasten/B - Tags/AI.md"
+    },
+    {
+      "basename": "Creating a smarter-than-human computer has the chance to reduce randomness in our lives but it's important to make them in alignment with us humans",
+      "path": "Creating a smarter-than-human computer has the chance to reduce randomness in our lives but it's important to make them in alignment with us humans.md"
+    },
+    {
+      "basename": "Spend your time with good and great people",
+      "path": "Spend your time with good and great people.md"
+    },
+    {
+      "basename": "Simplicity is the ultimate sophistication",
+      "path": "Simplicity is the ultimate sophistication.md"
+    },
+    {
+      "basename": "SCREW BUSINESS AS USUAL",
+      "path": "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md"
+    },
+    {
+      "basename": "Do good — and the rewards will come",
+      "path": "Do good — and the rewards will come.md"
+    },
+    {
+      "basename": "ZERO TO ONE",
+      "path": "1 - Raw Notes/Books/ZERO TO ONE.md"
+    },
+    {
+      "basename": "It's important to study physics",
+      "path": "It's important to study physics.md"
+    },
+    {
+      "basename": "PHYSICS",
+      "path": "2 - Zettelkasten/B - Tags/PHYSICS.md"
+    },
+    {
+      "basename": "RESPONSIBILITY",
+      "path": "2 - Zettelkasten/B - Tags/RESPONSIBILITY.md"
+    },
+    {
+      "basename": "Its our responsibility to make this world a better place",
+      "path": "Its our responsibility to make this world a better place.md"
+=======
       "basename": "By monopoly, we mean a company that's so good in what it does that no other company can compete",
       "path": "By monopoly, we mean a company that's so good in what it does that no other company can compete.md"
     },
@@ -199,6 +259,22 @@
     {
       "basename": "Dominate a small market first before scaling",
       "path": "Dominate a small market first before scaling.md"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "basename": "Don't leave this world without making a dent",
+      "path": "Don't leave this world without making a dent.md"
+    },
+    {
+      "basename": "Don't put your eggs in one basket",
+      "path": "Don't put your eggs in one basket.md"
+    },
+    {
+      "basename": "Don't sit and hope that the future will be great. You must work hard to make it better",
+      "path": "Don't sit and hope that the future will be great. You must work hard to make it better.md"
+>>>>>>> 338c1dedde8464aaa97589dd749ac3725fe9e5e3
+>>>>>>> a615e8eebfbe8747a5da9cd4bfada979d2b0ab13
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,6 @@
 Date: 2025-06-09
 Book: [[BECOMING STEVE JOBS]]
-Tags: 
+Tags: #mindset
 
 # Real engineers don't give up when faced with difficult problems
 

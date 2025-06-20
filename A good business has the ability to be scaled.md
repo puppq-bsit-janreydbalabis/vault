@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book:[[ZERO TO ONE]]
-Tags:
+Tags: #business #startup
 
 # A good business has the ability to be scaled
 

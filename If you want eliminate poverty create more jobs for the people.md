@@ -1,6 +1,6 @@
 Date: 2025-06-16
 Book: [[SCREW BUSINESS AS USUAL]]
-Tags:  
+Tags:  #eliminate_poverty 
 
 
 # If you want eliminate poverty create more jobs for the people

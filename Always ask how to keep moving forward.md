@@ -1,6 +1,6 @@
 Date: 2025-06-11
 Book: [[BECOMING STEVE JOBS]]
-Tags: 
+Tags: #question #strategy #life
 
 # Always ask how to keep moving forward
 
