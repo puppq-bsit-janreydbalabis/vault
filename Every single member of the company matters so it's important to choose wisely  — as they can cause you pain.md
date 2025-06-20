@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book: [[ZERO TO ONE]]
-Tags: [[BUSINESS]] [[HIRING]]
+Tags: 
 
 # Every single member of the company matters so it's important to choose wisely  — as they can cause you pain
 

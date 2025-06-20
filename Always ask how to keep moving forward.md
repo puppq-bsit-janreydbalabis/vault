@@ -1,6 +1,6 @@
 Date: 2025-06-11
 Book: [[BECOMING STEVE JOBS]]
-Tags: [[MINDSET]] [[MANAGEMENT PRINCIPLES]] 
+Tags: 
 
 # Always ask how to keep moving forward
 

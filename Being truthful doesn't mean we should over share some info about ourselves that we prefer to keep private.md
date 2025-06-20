@@ -1,6 +1,6 @@
 Date: 2025-06-13
 Book: [[LYING]]
-Tags: [[TRUTH]] 
+Tags:
 
 # Being truthful doesn't mean we should over share some info about ourselves that we prefer to keep private
 

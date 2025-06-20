@@ -1,6 +1,6 @@
 Date: 2025-06-13
 Book: [[SCREW BUSINESS AS USUAL]]
-Tags: [[STRATEGY]] 
+Tags: 
 
 
 # Use humor as a tool

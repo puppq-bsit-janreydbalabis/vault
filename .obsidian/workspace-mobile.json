@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Zettelkasten/B - Tags/MANAGEMENT PRINCIPLES.md",
+                "file": "1 - Raw Notes/Books/CONSIDER PHLEBAS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": true,
                   "extraContext": false,
-                  "sortOrder": "byCreatedTime",
-                  "showSearch": true,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "MANAGEMENT PRINCIPLES"
+              "title": "CONSIDER PHLEBAS"
             }
           }
         ]
@@ -153,8 +153,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -172,19 +172,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "auto-moc:AutoMOC": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "04968184fce45c5f",
   "lastOpenFiles": [
+    "Always move forward.md",
+    "1 - Raw Notes/Books/CONSIDER PHLEBAS.md",
+    "0 - MOC/001 - Book Mocs.md",
+    "1 - Raw Notes/Books/ZERO TO ONE.md",
     "Always ask how to keep moving forward.md",
     "2 - Zettelkasten/B - Tags/MANAGEMENT PRINCIPLES.md",
     "2 - Zettelkasten/B - Tags/LIFE.md",
@@ -196,7 +197,6 @@
     "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
     "Do good — and the rewards will come.md",
     "Untitled Kanban.md",
-    "1 - Raw Notes/Books/ZERO TO ONE.md",
     "It's important to study physics.md",
     "2 - Zettelkasten/B - Tags/PHYSICS.md",
     "2 - Zettelkasten/B - Tags/RESPONSIBILITY.md",
@@ -209,9 +209,6 @@
     "Just do good.md",
     "It is important to do what you think is right.md",
     "Embrace change if it's essential.md",
-    "Don't complicate things.md",
-    "Always look for talented individuals to make the world better.md",
-    "2 - Zettelkasten/A - Templates/Book Note.md",
     "/1 - Raw Notes/Books/Zero to One",
     "/2 - Zettelkasten/C - Book Lists",
     "/1 - Raw Notes/Books/Lying",

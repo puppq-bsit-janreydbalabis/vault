@@ -1,6 +1,6 @@
 Date: 2025-06-11
 Book: [[BECOMING STEVE JOBS]]
-Tags:[[CREATING THINGS]] [[MANAGEMENT PRINCIPLES]] 
+Tags:
 
 # Attention to detail is important
 

@@ -1,6 +1,7 @@
 Date: 2025-06-09
 Book: [[BECOMING STEVE JOBS]]
-Tags:  [[STRATEGY]] [[MINDSET]]
+Tags:  
+
 
 # Don't be afraid to challenge authority and question everything
 

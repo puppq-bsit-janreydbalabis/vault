@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book: [[ZERO TO ONE]]
-Tags: [[LIFE]] 
+Tags: 
 
 # Don't leave this world without making a dent
 

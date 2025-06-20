@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book:[[ZERO TO ONE]]
-Tags: [[BUSINESS]] 
+Tags: 
 
 # By monopoly, we mean a company that's so good in what it does that no other company can compete
 

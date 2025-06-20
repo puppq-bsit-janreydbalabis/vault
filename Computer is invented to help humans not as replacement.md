@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book: [[ZERO TO ONE]] 
-Tags: [[TECHNOLOGY]] 
+Tags:
 
 # Computer is invented to help humans not as replacement
 

@@ -1,6 +1,6 @@
 Date: 2025-06-11
 Book: [[BECOMING STEVE JOBS]]
-Tags:  [[MINDSET]] [[LIFE]]
+Tags: 
 
 # Great work means loving what you do and being passionate about it
 

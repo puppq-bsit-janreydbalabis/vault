@@ -1,6 +1,6 @@
 Date: 2025-06-13
 Book: [[LYING]]
-Tags: [[COMMUNICATION]] [[TRUTH]] 
+Tags: 
 
 # To communicate honestly is to be truthful
 

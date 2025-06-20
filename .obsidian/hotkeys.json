@@ -51,14 +51,6 @@
       "key": "H"
     }
   ],
-  "url-into-selection:paste-url-into-selection": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "V"
-    }
-  ],
   "waypoint:go_to_parent_waypoint": [
     {
       "modifiers": [
@@ -102,5 +94,38 @@
       ],
       "key": "G"
     }
-  ]
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "workspace:goto-tab-1": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search": []
 }

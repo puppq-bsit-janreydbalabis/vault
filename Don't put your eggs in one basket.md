@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book:[[ZERO TO ONE]]
-Tags:  [[STRATEGY]]
+Tags: 
 
 # Don't put your eggs in one basket
 

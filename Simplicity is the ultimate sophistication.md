@@ -1,10 +1,6 @@
----
-aliases:
-  - simplicity
----
 Date: 2025-06-09
 Book: [[BECOMING STEVE JOBS]]
-Tags: [[DESIGN]] 
+Tags: 
 
 # Simplicity is the ultimate sophistication
 
