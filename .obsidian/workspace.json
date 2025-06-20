@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5dad3cc40ac5a59c",
+        "id": "8b8a389a91f67ac1",
         "type": "tabs",
         "children": [
           {
-            "id": "a07caa8c8892bf3d",
+            "id": "d08998f17c1ba4c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - MOC/001 - Book Mocs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "001 - Book Mocs"
-            }
-          },
-          {
-            "id": "e639e75062678e50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Always look for talented individuals to make the world better.md",
+                "file": "2 - Zettelkasten/A - Templates/Book Note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,491 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Always look for talented individuals to make the world better"
-            }
-          },
-          {
-            "id": "06efa30f25421df0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Always think long term.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Always think long term"
-            }
-          },
-          {
-            "id": "6f808ca5566b2476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Be passionate in what you do.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Be passionate in what you do"
-            }
-          },
-          {
-            "id": "63c5ecfa6fc541d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Be transparent.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Be transparent"
-            }
-          },
-          {
-            "id": "41184a5293953080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business exists to help humanity and to preserve civilization.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Business exists to help humanity and to preserve civilization"
-            }
-          },
-          {
-            "id": "4b73f1b35e122528",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business should care about the betterment of the world.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Business should care about the betterment of the world"
-            }
-          },
-          {
-            "id": "ed047aac4fdc35a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Do good — and the rewards will come.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Do good — and the rewards will come"
-            }
-          },
-          {
-            "id": "986e8825f3cde76a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Do skip level and go directly to the people who experience the problem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Do skip level and go directly to the people who experience the problem"
-            }
-          },
-          {
-            "id": "345b3bdc49898318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doing good is good for the business.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Doing good is good for the business"
-            }
-          },
-          {
-            "id": "beff84959e50e127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Don't complicate things.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Don't complicate things"
-            }
-          },
-          {
-            "id": "20c4d9b521c5508d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Don't do it for money.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Don't do it for money"
-            }
-          },
-          {
-            "id": "4e0ccd75119240ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embrace change if it's essential.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Embrace change if it's essential"
-            }
-          },
-          {
-            "id": "455d619b7d300883",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "If you see a bright idea — go with it. If you see a problem — deal with it.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "If you see a bright idea — go with it. If you see a problem — deal with it"
-            }
-          },
-          {
-            "id": "cbdbd68a22fafcb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "If you want eliminate poverty create more jobs for the people.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "If you want eliminate poverty create more jobs for the people"
-            }
-          },
-          {
-            "id": "77e2fd89bb490078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "It is important to do what you think is right.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "It is important to do what you think is right"
-            }
-          },
-          {
-            "id": "8f9e83c9244f4443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "It's not about the money, it's about working with talented people to do good things in this world.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "It's not about the money, it's about working with talented people to do good things in this world"
-            }
-          },
-          {
-            "id": "ea2f3cfcaeb59885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Its our responsibility to make this world a better place.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Its our responsibility to make this world a better place"
-            }
-          },
-          {
-            "id": "1b28d0f6e10bd226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Just do good.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Just do good"
-            }
-          },
-          {
-            "id": "8b86479f8b091a5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Just do good and have fun.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Just do good and have fun"
-            }
-          },
-          {
-            "id": "5d19569812107981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Never accept the acceptable.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Never accept the acceptable"
-            }
-          },
-          {
-            "id": "82095645710b44db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Use humor as a tool.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Use humor as a tool"
+              "title": "Book Note"
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -600,8 +95,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -714,40 +208,40 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "auto-moc:AutoMOC": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
+      "auto-moc:AutoMOC": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "63c5ecfa6fc541d2",
+  "active": "d08998f17c1ba4c9",
   "lastOpenFiles": [
-    "It is important to do what you think is right.md",
-    "0 - MOC/001 - Book Mocs.md",
-    "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
-    "1 - Raw Notes/Books/BECOMING STEVE JOBS.md",
-    "Always look for talented individuals to make the world better.md",
-    "Always think long term.md",
-    "Be passionate in what you do.md",
-    "Be transparent.md",
-    "Business exists to help humanity and to preserve civilization.md",
-    "Business should care about the betterment of the world.md",
-    "Do good — and the rewards will come.md",
-    "Just do good and have fun.md",
-    "Just do good.md",
-    "Do skip level and go directly to the people who experience the problem.md",
-    "Doing good is good for the business.md",
+    "2 - Zettelkasten/A - Templates/General Note.md",
+    "2 - Zettelkasten/A - Templates/Book Note.md",
     "Don't complicate things.md",
-    "Don't do it for money.md",
-    "Embrace change if it's essential.md",
-    "If you see a bright idea — go with it. If you see a problem — deal with it.md",
-    "If you want eliminate poverty create more jobs for the people.md",
-    "It's not about the money, it's about working with talented people to do good things in this world.md",
-    "Its our responsibility to make this world a better place.md",
+    "It is important to do what you think is right.md",
+    "Just do good and have fun.md",
     "Never accept the acceptable.md",
-    "Use humor as a tool.md",
-    "1 - Raw Notes/Books/ZERO TO ONE.md",
-    "Startup should start small.md",
+    "We must stay strong.md",
+    "Strong men believe in cause and effect.md",
+    "Spend your time with good and great people.md",
+    "Just do good.md",
+    "Be passionate in what you do.md",
+    "If you see a bright idea — go with it. If you see a problem — deal with it.md",
+    "Try to aim perfection in everything you'll do even if you're always wrong at some point.md",
+    "Keep doing things.md",
+    "Always move forward.md",
+    "It's okay to fail as long as your tried your best.md",
+    "Always strive for excellence.md",
+    "Don't leave this world without making a dent.md",
+    "Embrace change if it's essential.md",
+    "Don't be afraid to challenge authority and question everything.md",
+    "It's not about the money, it's about working with talented people to do good things in this world.md",
+    "Stay optimistic through the darkest times.md",
+    "Real engineers don't give up when faced with difficult problems.md",
+    "Stand firm on your belief.md",
+    "Don't do it for money.md",
+    "Be transparent.md",
     "0 - MOC",
     "1 - Raw Notes/Books/Becoming Steve Jobs",
     "2 - Zettelkasten/C - Book Lists",

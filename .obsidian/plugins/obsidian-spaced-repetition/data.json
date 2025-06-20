@@ -22,7 +22,8 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#review"
+      "#mindset",
+      ""
     ],
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md"
