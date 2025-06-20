@@ -536,6 +536,7 @@
             }
           }
         ],
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -595,12 +596,12 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -686,9 +687,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "975700e6ac1e582d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -702,13 +713,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "auto-moc:AutoMOC": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a07caa8c8892bf3d",
+  "active": "63c5ecfa6fc541d2",
   "lastOpenFiles": [
-    "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
+    "It is important to do what you think is right.md",
     "0 - MOC/001 - Book Mocs.md",
+    "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
     "1 - Raw Notes/Books/BECOMING STEVE JOBS.md",
     "Always look for talented individuals to make the world better.md",
     "Always think long term.md",
@@ -726,7 +742,6 @@
     "Embrace change if it's essential.md",
     "If you see a bright idea — go with it. If you see a problem — deal with it.md",
     "If you want eliminate poverty create more jobs for the people.md",
-    "It is important to do what you think is right.md",
     "It's not about the money, it's about working with talented people to do good things in this world.md",
     "Its our responsibility to make this world a better place.md",
     "Never accept the acceptable.md",

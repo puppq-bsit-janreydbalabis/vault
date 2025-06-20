@@ -319,6 +319,7 @@ tribe
 teams
 technological
 transparent
+transparency
 your
 you
 yourself
