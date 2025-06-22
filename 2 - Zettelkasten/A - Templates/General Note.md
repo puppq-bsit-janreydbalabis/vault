@@ -1,5 +1,5 @@
 Date: {{Date}}
-Tags: [[]]
+Tags: 
 
 
 # {{Title}}

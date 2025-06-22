@@ -28,6 +28,7 @@ Title
 Trust
 Technical
 Teachers
+Take
 Work
 We
 What
@@ -40,6 +41,7 @@ While
 Will
 White
 Writing
+Whether
 super
 something
 single
@@ -189,6 +191,11 @@ suggest
 spring
 skills
 spend
+succeed
+smashing
+success
+step
+seek
 harder
 humility
 have
@@ -241,6 +248,8 @@ her
 humanity
 higher
 hundreds
+humble
+hours
 towards
 the
 to
@@ -324,6 +333,9 @@ teams
 technological
 transparent
 transparency
+task
+takes
+terms
 your
 you
 yourself
@@ -374,6 +386,7 @@ general
 generally
 generator
 governors
+gold
 Have
 Hare
 How
@@ -439,6 +452,7 @@ lying
 lasting
 leave
 lawyers
+loop
 from
 failures
 for
@@ -510,6 +524,8 @@ frontier
 fact
 figuring
 funders
+feedback
+fight
 continually
 cause
 channel
@@ -610,6 +626,8 @@ challenging
 cheque
 complicate
 complicating
+criticism
+critique
 and
 are
 about
@@ -688,6 +706,9 @@ area
 accountants
 assets
 asset
+anyone
+aspire
+alternative
 back
 bigger
 board
@@ -753,6 +774,8 @@ billed
 bright
 beyond
 businesses
+basically
+break
 up
 utterly
 us
@@ -849,6 +872,11 @@ roughly
 restaurants
 region
 responsibility
+ratio
+reality
+risk
+risks
+regret
 Can
 Chapter
 Creating
@@ -866,6 +894,9 @@ Customers
 Contest
 Clear
 Conclusion
+CEO
+Combinator
+Constantly
 intensity
 intelligence
 ideas
@@ -917,6 +948,8 @@ interaction
 iTunes
 impact
 innovative
+internalizing
+internet
 energy
 every
 even
@@ -984,6 +1017,10 @@ electricians
 extraordinary
 envision
 end
+ego
+elon
+establish
+embrace
 outward
 of
 one
@@ -1021,6 +1058,7 @@ open
 often
 organizations
 odd
+occur
 more
 member
 matters
@@ -1084,6 +1122,9 @@ ministers
 management
 mobilizing
 millions
+major
+minimizing
+musk
 what
 wisely
 why
@@ -1136,6 +1177,7 @@ wasteland
 withdrew
 ways
 whole
+whether
 References
 Richard
 Real
@@ -1145,6 +1187,7 @@ Right
 Rick
 Reinventing
 Rogan
+RL
 Every
 Even
 Entrepreneurs
@@ -1241,6 +1284,8 @@ prime
 presidents
 persistent
 profits
+probability
+progress
 director
 doing
 down
@@ -1320,6 +1365,7 @@ delivers
 done
 decrease
 drive
+disaster
 jeopardize
 job
 just
@@ -1343,6 +1389,8 @@ Is
 Instead
 Its
 Igniting
+Internalize
+Interview
 kept
 knocked
 key
@@ -1381,6 +1429,7 @@ neatly
 nobler
 nucleus
 notes
+nobody
 Branson
 But
 Banks
@@ -1430,6 +1479,8 @@ Saving
 Surely
 Spend
 Since
+Smash
+Some
 very
 vengeance
 vault
@@ -1462,11 +1513,14 @@ Polaroid
 Picking
 Peter
 Party
+Possibility
+Probability
 Great
 Google
 Jobs
 Just
 Joe
+June
 No
 None
 Noyce

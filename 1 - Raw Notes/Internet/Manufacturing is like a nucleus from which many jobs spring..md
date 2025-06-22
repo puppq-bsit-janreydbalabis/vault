@@ -1,5 +1,5 @@
 Date: 2025-06-16
-Tags: 
+Tags: #manufacturing #elon_musk
 
 # Manufacturing is like a nucleus from which many jobs spring.
 

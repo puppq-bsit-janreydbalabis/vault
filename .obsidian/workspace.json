@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Zettelkasten/A - Templates/Book Note.md",
+                "file": "1 - Raw Notes/Internet/Constantly seek criticism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Book Note"
+              "title": "Constantly seek criticism"
             }
           }
         ],
@@ -178,8 +178,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -193,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -216,32 +216,32 @@
   },
   "active": "d08998f17c1ba4c9",
   "lastOpenFiles": [
-    "2 - Zettelkasten/A - Templates/General Note.md",
-    "2 - Zettelkasten/A - Templates/Book Note.md",
-    "Don't complicate things.md",
-    "It is important to do what you think is right.md",
-    "Just do good and have fun.md",
+    "1 - Raw Notes/Internet/Work longer hours.md",
+    "1 - Raw Notes/Internet/Constantly seek criticism.md",
+    "1 - Raw Notes/Internet/The future is going to be great.md",
+    "1 - Raw Notes/Internet/Choose to be extraordinary.md",
+    "1 - Raw Notes/Internet/It's okay to fight the rules sometimes.md",
+    "1 - Raw Notes/Internet/Take risks.md",
+    "1 - Raw Notes/Internet/Do it even if the odds are not in your favour.md",
+    "1 - Raw Notes/Internet/Align your team with a goal.md",
+    "1 - Raw Notes/Internet/Embrace change when it's essential.md",
+    "1 - Raw Notes/Internet/Possibility and Probability.md",
+    "1 - Raw Notes/Internet/It's okay to have your eggs in one basket.md",
+    "1 - Raw Notes/Internet/Don't fool yourself.md",
+    "1 - Raw Notes/Internet/Focus on signal over noise.md",
+    "1 - Raw Notes/Internet/Whether you're the CEO or the anyone else, you do the task, no matter how grand or humble..md",
+    "1 - Raw Notes/Internet/Try to be useful as possible.md",
+    "1 - Raw Notes/Internet/Manufacturing is like a nucleus from which many jobs spring..md",
     "Never accept the acceptable.md",
-    "We must stay strong.md",
-    "Strong men believe in cause and effect.md",
-    "Spend your time with good and great people.md",
-    "Just do good.md",
-    "Be passionate in what you do.md",
     "If you see a bright idea — go with it. If you see a problem — deal with it.md",
-    "Try to aim perfection in everything you'll do even if you're always wrong at some point.md",
-    "Keep doing things.md",
-    "Always move forward.md",
     "It's okay to fail as long as your tried your best.md",
-    "Always strive for excellence.md",
-    "Don't leave this world without making a dent.md",
-    "Embrace change if it's essential.md",
-    "Don't be afraid to challenge authority and question everything.md",
-    "It's not about the money, it's about working with talented people to do good things in this world.md",
-    "Stay optimistic through the darkest times.md",
-    "Real engineers don't give up when faced with difficult problems.md",
-    "Stand firm on your belief.md",
     "Don't do it for money.md",
-    "Be transparent.md",
+    "Keep doing things.md",
+    "It is important to do what you think is right.md",
+    "Real engineers don't give up when faced with difficult problems.md",
+    "Always strive for excellence.md",
+    "Spend your time with good and great people.md",
+    "We must stay strong.md",
     "0 - MOC",
     "1 - Raw Notes/Books/Becoming Steve Jobs",
     "2 - Zettelkasten/C - Book Lists",
