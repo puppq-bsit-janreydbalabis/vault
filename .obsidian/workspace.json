@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b44e6049a7d59e2e",
+        "id": "6443e3ee06105338",
         "type": "tabs",
         "children": [
           {
-            "id": "a5fa7f4dbda55a48",
+            "id": "58595a5e24496f0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Raw Notes/Internet/Play to win.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Play to win"
+              "title": "New tab"
             }
           }
         ],
@@ -64,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hardcore  ",
+                "query": "tag:#mindset  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -214,34 +200,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a5fa7f4dbda55a48",
+  "active": "58595a5e24496f0d",
   "lastOpenFiles": [
-    "1 - Raw Notes/Internet/Try to be useful as possible.md",
-    "1 - Raw Notes/Internet/Play to win.md",
-    "1 - Raw Notes/Internet/It's okay to fight the rules sometimes.md",
-    "1 - Raw Notes/Internet/Constantly seek criticism.md",
-    "1 - Raw Notes/Internet/Choose to be extraordinary.md",
-    "Always strive for excellence.md",
-    "Work super harder towards your goals. Have the humility to learn from your failures.md",
-    "1 - Raw Notes/Internet/Work longer hours.md",
-    "1 - Raw Notes/Internet/The future is going to be great.md",
-    "1 - Raw Notes/Internet/Take risks.md",
-    "1 - Raw Notes/Internet/Do it even if the odds are not in your favour.md",
-    "1 - Raw Notes/Internet/Align your team with a goal.md",
-    "1 - Raw Notes/Internet/Embrace change when it's essential.md",
-    "1 - Raw Notes/Internet/Possibility and Probability.md",
-    "1 - Raw Notes/Internet/It's okay to have your eggs in one basket.md",
-    "1 - Raw Notes/Internet/Don't fool yourself.md",
-    "1 - Raw Notes/Internet/Focus on signal over noise.md",
-    "1 - Raw Notes/Internet/Whether you're the CEO or the anyone else, you do the task, no matter how grand or humble..md",
-    "1 - Raw Notes/Internet/Manufacturing is like a nucleus from which many jobs spring..md",
-    "Never accept the acceptable.md",
-    "If you see a bright idea — go with it. If you see a problem — deal with it.md",
-    "It's okay to fail as long as your tried your best.md",
-    "Don't do it for money.md",
-    "Keep doing things.md",
-    "It is important to do what you think is right.md",
+    "Spend your time with excellent people.md",
+    "The aim was to start a movement of ideas and individuals committed to making the world better place.md",
+    "Go to the source of issues and talk directly from people who are impacted by it.md",
+    "Connect with your customer.md",
+    "We can change the world.md",
+    "Lead through first principles and always try to do the right things.md",
+    "Great people have a sense of humour.md",
+    "Look for talented courageous people.md",
+    "No can make progress alone.md",
+    "2 - Zettelkasten/A - Templates/Book Note.md",
+    "2 - Zettelkasten/A - Templates/General Note.md",
+    "Think relentlessly how to create your service and products more valuable.md",
+    "To make a difference and do good in the world.md",
+    "Sustainable energy is the future.md",
+    "Have the courage to work super harder towards your goals.md",
+    "0 - MOC/001 - Book Mocs.md",
+    "1 - Raw Notes/Books/SCREW BUSINESS AS USUAL.md",
     "Real engineers don't give up when faced with difficult problems.md",
+    "Spend your time with good and great people.md",
+    "Stand firm on your belief.md",
+    "Stay optimistic through the darkest times.md",
+    "Strong men believe in cause and effect.md",
+    "1 - Raw Notes/Internet/The future is going to be great.md",
+    "Try to aim perfection in everything you'll do even if you're always wrong at some point.md",
+    "1 - Raw Notes/Internet/Try to be useful as possible.md",
+    "We must stay strong.md",
     "0 - MOC",
     "1 - Raw Notes/Books/Becoming Steve Jobs",
     "2 - Zettelkasten/C - Book Lists",

@@ -77,15 +77,6 @@
     }
   ],
   "workspace:close-window": [],
-  "file-explorer:new-file-in-current-tab": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "N"
-    }
-  ],
   "graph:open-local": [
     {
       "modifiers": [
@@ -127,5 +118,22 @@
       "key": "F"
     }
   ],
-  "editor:open-search": []
+  "editor:open-search": [],
+  "file-explorer:new-file-in-current-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ]
 }
