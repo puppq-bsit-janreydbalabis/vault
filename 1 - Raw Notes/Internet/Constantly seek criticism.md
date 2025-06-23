@@ -4,7 +4,7 @@ Tags: #mindset #elon_musk
 
 # Constantly seek criticism
 
->*A well thought out critique of what you're going is as valuable as gold 
+>*A well thought out critique of what you're doing is as valuable as gold 
 
 # References
 - internet 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b8a389a91f67ac1",
+        "id": "b44e6049a7d59e2e",
         "type": "tabs",
         "children": [
           {
-            "id": "d08998f17c1ba4c9",
+            "id": "a5fa7f4dbda55a48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Raw Notes/Internet/Constantly seek criticism.md",
+                "file": "1 - Raw Notes/Internet/Play to win.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Constantly seek criticism"
+              "title": "Play to win"
             }
           }
         ],
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#hardcore  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -214,13 +214,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d08998f17c1ba4c9",
+  "active": "a5fa7f4dbda55a48",
   "lastOpenFiles": [
-    "1 - Raw Notes/Internet/Work longer hours.md",
-    "1 - Raw Notes/Internet/Constantly seek criticism.md",
-    "1 - Raw Notes/Internet/The future is going to be great.md",
-    "1 - Raw Notes/Internet/Choose to be extraordinary.md",
+    "1 - Raw Notes/Internet/Try to be useful as possible.md",
+    "1 - Raw Notes/Internet/Play to win.md",
     "1 - Raw Notes/Internet/It's okay to fight the rules sometimes.md",
+    "1 - Raw Notes/Internet/Constantly seek criticism.md",
+    "1 - Raw Notes/Internet/Choose to be extraordinary.md",
+    "Always strive for excellence.md",
+    "Work super harder towards your goals. Have the humility to learn from your failures.md",
+    "1 - Raw Notes/Internet/Work longer hours.md",
+    "1 - Raw Notes/Internet/The future is going to be great.md",
     "1 - Raw Notes/Internet/Take risks.md",
     "1 - Raw Notes/Internet/Do it even if the odds are not in your favour.md",
     "1 - Raw Notes/Internet/Align your team with a goal.md",
@@ -230,7 +234,6 @@
     "1 - Raw Notes/Internet/Don't fool yourself.md",
     "1 - Raw Notes/Internet/Focus on signal over noise.md",
     "1 - Raw Notes/Internet/Whether you're the CEO or the anyone else, you do the task, no matter how grand or humble..md",
-    "1 - Raw Notes/Internet/Try to be useful as possible.md",
     "1 - Raw Notes/Internet/Manufacturing is like a nucleus from which many jobs spring..md",
     "Never accept the acceptable.md",
     "If you see a bright idea — go with it. If you see a problem — deal with it.md",
@@ -239,9 +242,6 @@
     "Keep doing things.md",
     "It is important to do what you think is right.md",
     "Real engineers don't give up when faced with difficult problems.md",
-    "Always strive for excellence.md",
-    "Spend your time with good and great people.md",
-    "We must stay strong.md",
     "0 - MOC",
     "1 - Raw Notes/Books/Becoming Steve Jobs",
     "2 - Zettelkasten/C - Book Lists",
