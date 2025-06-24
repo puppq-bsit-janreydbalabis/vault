@@ -11,10 +11,24 @@
             "id": "58595a5e24496f0d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Raw Notes/Internet/Life can't just be about solving one miserable problem after another.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Life can't just be about solving one miserable problem after another"
             }
           }
         ],
@@ -202,6 +216,7 @@
   },
   "active": "58595a5e24496f0d",
   "lastOpenFiles": [
+    "1 - Raw Notes/Internet/Life can't just be about solving one miserable problem after another.md",
     "Spend your time with excellent people.md",
     "The aim was to start a movement of ideas and individuals committed to making the world better place.md",
     "Go to the source of issues and talk directly from people who are impacted by it.md",
@@ -227,7 +242,6 @@
     "1 - Raw Notes/Internet/The future is going to be great.md",
     "Try to aim perfection in everything you'll do even if you're always wrong at some point.md",
     "1 - Raw Notes/Internet/Try to be useful as possible.md",
-    "We must stay strong.md",
     "0 - MOC",
     "1 - Raw Notes/Books/Becoming Steve Jobs",
     "2 - Zettelkasten/C - Book Lists",
