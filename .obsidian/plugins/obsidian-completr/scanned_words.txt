@@ -29,6 +29,7 @@ Trust
 Technical
 Teachers
 Take
+True
 Work
 We
 What
@@ -42,6 +43,7 @@ Will
 White
 Writing
 Whether
+Whatever
 super
 something
 single
@@ -197,6 +199,14 @@ success
 step
 seek
 solution
+solving
+societies
+society
+speech
+satire
+satirical
+sarcastic
+scientific
 harder
 humility
 have
@@ -251,6 +261,8 @@ higher
 hundreds
 humble
 hours
+happening
+highest
 towards
 the
 to
@@ -337,6 +349,10 @@ transparency
 task
 takes
 terms
+terrible
+thoroughly
+triumphs
+triumph
 your
 you
 yourself
@@ -344,6 +360,7 @@ young
 years
 year
 yet
+yeah
 goals
 grow
 get
@@ -389,6 +406,9 @@ generator
 governors
 gold
 gonna
+glad
+gesture
+grows
 Have
 Hare
 How
@@ -455,6 +475,10 @@ lasting
 leave
 lawyers
 loop
+lots
+lunatic
+laughable
+light
 from
 failures
 for
@@ -530,6 +554,10 @@ feedback
 fight
 fool
 fixated
+free
+freshened
+falsehood
+familiar
 continually
 cause
 channel
@@ -632,6 +660,13 @@ complicate
 complicating
 criticism
 critique
+cannot
+civil
+criticize
+criticisms
+correctness
+contained
+convincing
 and
 are
 about
@@ -713,6 +748,7 @@ asset
 anyone
 aspire
 alternative
+attacks
 back
 bigger
 board
@@ -780,6 +816,7 @@ beyond
 businesses
 basically
 break
+brittle
 up
 utterly
 us
@@ -803,6 +840,7 @@ ultimate
 understood
 using
 use
+undoubtedly
 Are
 Author
 AI
@@ -819,6 +857,7 @@ Attention
 All
 An
 Anything
+Any
 relentless
 right
 re
@@ -881,6 +920,8 @@ reality
 risk
 risks
 regret
+religion
+rely
 Can
 Chapter
 Creating
@@ -955,6 +996,8 @@ impact
 innovative
 internalizing
 internet
+ideal
+ironic
 energy
 every
 even
@@ -1026,6 +1069,10 @@ ego
 elon
 establish
 embrace
+enemies
+essence
+encumbered
+endeavor
 outward
 of
 one
@@ -1065,6 +1112,7 @@ organizations
 odd
 occur
 ordinary
+opponents
 more
 member
 matters
@@ -1131,6 +1179,9 @@ millions
 major
 minimizing
 musk
+miserable
+mind
+mockery
 what
 wisely
 why
@@ -1184,6 +1235,10 @@ withdrew
 ways
 whole
 whether
+wake
+woke
+watching
+withstanding
 References
 Richard
 Real
@@ -1194,6 +1249,7 @@ Rick
 Reinventing
 Rogan
 RL
+Rely
 Every
 Even
 Entrepreneurs
@@ -1292,6 +1348,10 @@ persistent
 profits
 probability
 progress
+promulgate
+pursue
+pursuit
+political
 director
 doing
 down
@@ -1373,11 +1433,15 @@ decrease
 drive
 disaster
 delude
+destruction
+determined
+directed
 jeopardize
 job
 just
 journey
 jobs
+joking
 Foundations
 For
 Foolish
@@ -1385,6 +1449,7 @@ Focus
 First
 Founders
 Foreword
+From
 Keep
 Krishna
 Knowing
@@ -1406,6 +1471,9 @@ keep
 know
 karma
 kids
+kanban
+knowledge
+knowing
 Your
 You
 not
@@ -1437,6 +1505,7 @@ nobler
 nucleus
 notes
 nobody
+negative
 Branson
 But
 Banks
@@ -1488,6 +1557,8 @@ Spend
 Since
 Smash
 Some
+Saad
+Sloterdijk
 very
 vengeance
 vault
@@ -1502,6 +1573,9 @@ vilify
 view
 valuable
 vision
+virus
+viruses
+veridical
 Man
 My
 Macintosh
@@ -1525,6 +1599,7 @@ Probability
 Great
 Google
 Gaia
+Gad
 Jobs
 Just
 Joe
@@ -1535,6 +1610,7 @@ Noyce
 NeXT
 Now
 Never
+New
 quit
 quote
 quite
@@ -1558,3 +1634,4 @@ Lies
 Lying
 Question
 Use
+Unless
