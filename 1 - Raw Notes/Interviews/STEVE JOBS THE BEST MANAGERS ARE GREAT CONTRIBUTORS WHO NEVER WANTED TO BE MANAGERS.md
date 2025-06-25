@@ -4,7 +4,7 @@ Tags: #steve_jobs
 
 >*At Apple, we thought hiring professional managers would make us a big company. It didn’t work—most were bozos who could manage but couldn’t do anything else.
 >
- <mark style="background: #ADCCFFA6;">The best managers? Great individual contributors who never wanted the job but took it because they knew no one else could do it as well.</mark>
+ The best managers? Great individual contributors who never wanted the job but took it because they knew no one else could do it as well.
 
 # References
 -BusinessX on IG 

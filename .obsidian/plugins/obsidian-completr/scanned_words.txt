@@ -8,6 +8,7 @@ During
 Death
 Distribution
 Dominate
+Day
 Tags
 That
 This
@@ -31,6 +32,9 @@ Teachers
 Take
 True
 Twitter
+THE
+TO
+Tesla
 Work
 We
 What
@@ -45,6 +49,8 @@ White
 Writing
 Whether
 Whatever
+WHO
+WANTED
 super
 something
 single
@@ -220,6 +226,11 @@ surveys
 simulate
 seems
 stuff
+starts
+standpoint
+suppressed
+seem
+shit
 harder
 humility
 have
@@ -281,6 +292,8 @@ hearts
 hates
 hammer
 horse
+having
+honey
 towards
 the
 to
@@ -375,6 +388,8 @@ teaching
 teach
 turns
 talking
+ten
+took
 your
 you
 yourself
@@ -432,6 +447,8 @@ gonna
 glad
 gesture
 grows
+greatest
+goes
 Have
 Hare
 How
@@ -600,6 +617,7 @@ fast
 famously
 faster
 functionality
+flourish
 continually
 cause
 channel
@@ -724,6 +742,11 @@ case
 cost
 car
 capabilities
+common
+consensus
+contributors
+comfortable
+cool
 and
 are
 about
@@ -816,6 +839,9 @@ arrives
 alternatives
 automobile
 able
+articulate
+aren
+anywhere
 back
 bigger
 board
@@ -889,6 +915,7 @@ beings
 barriers
 based
 bandwidth
+bozos
 up
 utterly
 us
@@ -919,6 +946,7 @@ university
 unnecessary
 uses
 understand
+used
 Are
 Author
 AI
@@ -937,6 +965,8 @@ An
 Anything
 Any
 At
+ARE
+AT
 relentless
 right
 re
@@ -1008,6 +1038,8 @@ removing
 ruthlessly
 reduced
 rate
+recruiting
+responsibilities
 Can
 Chapter
 Creating
@@ -1031,6 +1063,9 @@ Constantly
 Choose
 Cato
 Cannes
+CONTRIBUTORS
+CAN
+COMPANIES
 intensity
 intelligence
 ideas
@@ -1092,6 +1127,8 @@ improve
 ideologue
 information
 improved
+insanely
+individual
 energy
 every
 even
@@ -1175,6 +1212,8 @@ education
 entropy
 enjoy
 electric
+environment
+engineer
 outward
 of
 one
@@ -1219,6 +1258,7 @@ opinion
 opposite
 obviously
 offering
+output
 more
 member
 matters
@@ -1294,6 +1334,11 @@ mankind
 meetings
 moves
 mentally
+managing
+managed
+managers
+manage
+maybe
 what
 wisely
 why
@@ -1382,6 +1427,8 @@ Experience
 Establish
 Elon
 Evil
+ENSURE
+ENGINEERS
 pain
 problem
 people
@@ -1479,6 +1526,10 @@ putting
 perfectly
 processes
 pursues
+policing
+professional
+paid
+produce
 director
 doing
 down
@@ -1569,6 +1620,9 @@ deleting
 decision
 democracy
 decide
+driven
+demanding
+degree
 jeopardize
 job
 just
@@ -1589,6 +1643,7 @@ Foreword
 From
 Fridman
 Ford
+FLOURISH
 Keep
 Krishna
 Knowing
@@ -1604,6 +1659,7 @@ Internalize
 Interview
 Institute
 Internet
+IG
 kept
 knocked
 key
@@ -1616,6 +1672,7 @@ kanban
 knowledge
 knowing
 keeps
+knew
 Your
 You
 not
@@ -1648,6 +1705,7 @@ nucleus
 notes
 nobody
 negative
+neatest
 Branson
 But
 Banks
@@ -1662,6 +1720,9 @@ By
 Being
 Business
 Book
+BEST
+BE
+BusinessX
 Sometimes
 Steve
 Strong
@@ -1702,6 +1763,8 @@ Some
 Saad
 Sloterdijk
 Starlink
+SpaceX
+September
 very
 vengeance
 vault
@@ -1729,6 +1792,8 @@ Make
 Monopoly
 Manufacturing
 Musk
+MANAGERS
+MY
 Preface
 Picasso
 Pixar
@@ -1751,10 +1816,12 @@ Gaia
 Gad
 Goodness
 Good
+GREAT
 Jobs
 Just
 Joe
 June
+JOBS
 No
 None
 Noyce
@@ -1762,6 +1829,7 @@ NeXT
 Now
 Never
 New
+NEVER
 quit
 quote
 quite
@@ -1776,6 +1844,7 @@ Or
 One
 Over
 October
+Once
 Let
 Laurene
 Later
@@ -1786,6 +1855,7 @@ Lying
 Lancaster
 Lex
 Lions
+Leadership
 Question
 Use
 Unless
