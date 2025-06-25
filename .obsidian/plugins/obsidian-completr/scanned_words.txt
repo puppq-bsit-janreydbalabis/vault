@@ -235,6 +235,7 @@ suppressed
 seem
 shit
 shipped
+system
 harder
 humility
 have
@@ -300,6 +301,7 @@ having
 honey
 hardest
 hardware
+half
 towards
 the
 to
@@ -626,6 +628,9 @@ famously
 faster
 functionality
 flourish
+fatal
+fragile
+focused
 continually
 cause
 channel
@@ -756,6 +761,8 @@ contributors
 comfortable
 cool
 curve
+customers
+competition
 and
 are
 about
@@ -852,6 +859,10 @@ articulate
 aren
 anywhere
 average
+avoiding
+apathy
+allocate
+address
 back
 bigger
 board
@@ -927,6 +938,7 @@ based
 bandwidth
 bozos
 boggles
+becoming
 up
 utterly
 us
@@ -1052,6 +1064,7 @@ reduced
 rate
 recruiting
 responsibilities
+refined
 Can
 Chapter
 Creating
@@ -1078,6 +1091,7 @@ Cannes
 CONTRIBUTORS
 CAN
 COMPANIES
+Create
 intensity
 intelligence
 ideas
@@ -1142,6 +1156,7 @@ improved
 insanely
 individual
 input
+innovator
 energy
 every
 even
@@ -1227,6 +1242,8 @@ enjoy
 electric
 environment
 engineer
+esteem
+entitlement
 outward
 of
 one
@@ -1273,6 +1290,7 @@ obviously
 offering
 output
 once
+objective
 more
 member
 matters
@@ -1353,6 +1371,8 @@ managed
 managers
 manage
 maybe
+maxim
+mistake
 what
 wisely
 why
@@ -1417,6 +1437,7 @@ warrior
 within
 website
 worth
+weakness
 References
 Richard
 Real
@@ -1546,6 +1567,9 @@ professional
 paid
 produce
 provide
+pathogens
+protect
+primary
 director
 doing
 down
@@ -1639,6 +1663,11 @@ decide
 driven
 demanding
 degree
+dilemmas
+doomed
+dangers
+destined
+defined
 jeopardize
 job
 just
@@ -1663,6 +1692,7 @@ FLOURISH
 Keep
 Krishna
 Knowing
+Keeping
 If
 It
 Iain
@@ -1741,6 +1771,8 @@ Book
 BEST
 BE
 BusinessX
+Blindly
+Building
 Sometimes
 Steve
 Strong
@@ -1783,6 +1815,7 @@ Sloterdijk
 Starlink
 SpaceX
 September
+Survival
 very
 vengeance
 vault
@@ -1812,6 +1845,7 @@ Manufacturing
 Musk
 MANAGERS
 MY
+Managers
 Preface
 Picasso
 Pixar
