@@ -3,5 +3,11 @@
   "promptDelete": false,
   "showLineNumber": true,
   "readableLineLength": false,
-  "tabSize": 2
+  "tabSize": 2,
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "showInlineTitle": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "smartIndentList": true
 }

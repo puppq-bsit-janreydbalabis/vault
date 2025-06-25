@@ -1,4 +1,8 @@
 {
   "cssTheme": "ITS Theme",
-  "baseFontSizeAction": false
+  "baseFontSizeAction": true,
+  "baseFontSize": 17,
+  "showViewHeader": true,
+  "showRibbon": false,
+  "nativeMenus": false
 }

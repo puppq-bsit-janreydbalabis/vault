@@ -1,8 +1,6 @@
 Date: {{Date}}
-Book: [[]]
+Book: 
 Tags: 
-
-
 # {{Title}}
 
 

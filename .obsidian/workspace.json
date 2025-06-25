@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New scientific truth triumphs because its opponents eventually die.md",
+                "file": "1 - Raw Notes/Interviews/STEVE JOBS THE BEST MANAGERS ARE GREAT CONTRIBUTORS WHO NEVER WANTED TO BE MANAGERS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "New scientific truth triumphs because its opponents eventually die"
+              "title": "STEVE JOBS THE BEST MANAGERS ARE GREAT CONTRIBUTORS WHO NEVER WANTED TO BE MANAGERS"
             }
           }
         ],
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#qoutes",
+                "query": "tag:#business  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 213.5
   },
   "right": {
     "id": "061688a764034036",
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Zettelkasten/B - Tags/MANAGEMENT PRINCIPLES.md",
+                "file": "1 - Raw Notes/Interviews/STEVE JOBS THE BEST MANAGERS ARE GREAT CONTRIBUTORS WHO NEVER WANTED TO BE MANAGERS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MANAGEMENT PRINCIPLES"
+              "title": "Outgoing links from STEVE JOBS THE BEST MANAGERS ARE GREAT CONTRIBUTORS WHO NEVER WANTED TO BE MANAGERS"
             }
           },
           {
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Zettelkasten/B - Tags/MANAGEMENT PRINCIPLES.md",
+                "file": "1 - Raw Notes/Interviews/STEVE JOBS THE BEST MANAGERS ARE GREAT CONTRIBUTORS WHO NEVER WANTED TO BE MANAGERS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MANAGEMENT PRINCIPLES"
+              "title": "Outline of STEVE JOBS THE BEST MANAGERS ARE GREAT CONTRIBUTORS WHO NEVER WANTED TO BE MANAGERS"
             }
           },
           {
@@ -193,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -203,45 +203,46 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
+      "obsidian-kanban:Create new board": true,
       "auto-moc:AutoMOC": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": true
     }
   },
   "active": "58595a5e24496f0d",
   "lastOpenFiles": [
-    "Untitled.md",
-    "New scientific truth triumphs because its opponents eventually die.md",
-    "If you want to participate in the battle of ideas, first you must have the intellectual  courage and second have the mastery of the topic.md",
-    "We reason to justify and convince.md",
-    "Science should be about the pursuit of truth.md",
-    "For people to flourish put them in the right environment and give them the best resources.md",
-    "Truth can stand ironic, satirical and sarcastic attack.md",
-    "Truth can stand mockery even satire.md",
-    "Don't be the person easy to offend.md",
-    "Everyone has the right to express their views.md",
-    "There's a place for emotions so intellect. There's a place for seriousness so humor.md",
-    "Science is based on evidence.md",
-    "The pursuit of truth might be costly, pursue it anyway.md",
-    "Rely on facts not on feelings.md",
-    "1 - Raw Notes/Books/THE PARASITIC MIND.md",
-    "Always pursue the truth.md",
-    "In a free society you can criticize all.md",
-    "We should strive hard to fight every mind virus for example woke mind virus.md",
-    "1 - Raw Notes/Books/BECOMING STEVE JOBS.md",
+    "1 - Raw Notes/Interviews/Steve Jobs on the most important job of a CEO.md",
+    "1 - Raw Notes/Interviews/STEVE JOBS THE BEST MANAGERS ARE GREAT CONTRIBUTORS WHO NEVER WANTED TO BE MANAGERS.md",
+    "1 - Raw Notes/Interviews/Every great idea starts with a vision that goes beyond profits..md",
+    "1 - Raw Notes/Interviews/We need to spend less money and get better results.md",
+    "1 - Raw Notes/Interviews/Instead of consumer surveys, I try to imagine what the end customer would enjoy.md",
+    "1 - Raw Notes/Interviews/Elon is a warrior fighting entropy in organizations..md",
+    "1 - Raw Notes/Interviews/Andrej Karpathy explains what makes Elon Musk unique.md",
     "0 - MOC/001 - Book Mocs.md",
-    "True knowledge means knowing what you know and don't know.md",
-    "Admit when you're wrong.md",
-    "Truth will always prevail.md",
-    "It's important to fight for freedom of speech.md",
-    "Learn to use your own voice.md",
-    "The hallmark of fair society is that everyone have same opportunity.md",
+    "It's okay to judge if one uses well articulated arguments.md",
+    "Human decision making is the process  of thinking and choosing with several competing information.md",
+    "1 - Raw Notes/Interviews/If something's really important, one should overcome the fear and just do it.md",
+    "1 - Raw Notes/Interviews/Maximize your usefulness.md",
+    "1 - Raw Notes/Interviews/What I care about is the reality of Goodness, not the Perception of it.md",
+    "1 - Raw Notes/Interviews/We shouldn't be afraid to delete too many rules and regulations.md",
+    "1 - Raw Notes/Interviews/People are too afraid to try things..md",
+    "1 - Raw Notes/Interviews/I always assume I'm wrong to some degree..md",
+    "1 - Raw Notes/Interviews/It actually matters whether somebody has a good heart.md",
+    "1 - Raw Notes/Interviews/I'd much rather put in someone who has strong engineering ability than so-called management ability..md",
+    "1 - Raw Notes/Interviews/Elon Musk on what it means to work super hard.md",
+    "1 - Raw Notes/Interviews/It's a real weakness to want to be liked, a real weakness.md",
+    "1 - Raw Notes/Interviews/The goal of any given technology being developed should be to help humanity, to bring joy and to help people..md",
+    "1 - Raw Notes/Interviews/Elon musk advice for young people.md",
+    "1 - Raw Notes/Interviews/The United States encourages success like no other country.md",
+    "1 - Raw Notes/Interviews/You really need to coax negative feedback.md",
+    "1 - Raw Notes/Interviews/I'm trying to understand the universe and what we are here for.md",
+    "1 - Raw Notes/Interviews/If you want the future to be good, you must make it so take action to make it good and it will be.md",
+    "1 - Raw Notes/Interviews",
     "0 - MOC",
     "1 - Raw Notes/Books/Becoming Steve Jobs",
     "2 - Zettelkasten/C - Book Lists",
@@ -252,7 +253,6 @@
     "Untitled.canvas",
     "1 - Raw Notes/Internet",
     "2 - Zettelkasten/C - Book Lists/4 - CONSIDER PHLEBAS",
-    "obsidian-vault",
     "1 - Raw Notes/Books/Becoming Steve Jobs/1.canvas"
   ]
 }
