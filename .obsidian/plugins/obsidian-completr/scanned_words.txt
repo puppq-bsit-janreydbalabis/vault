@@ -35,6 +35,9 @@ Twitter
 THE
 TO
 Tesla
+THINGS
+Then
+Trying
 Work
 We
 What
@@ -231,6 +234,7 @@ standpoint
 suppressed
 seem
 shit
+shipped
 harder
 humility
 have
@@ -294,6 +298,8 @@ hammer
 horse
 having
 honey
+hardest
+hardware
 towards
 the
 to
@@ -390,6 +396,7 @@ turns
 talking
 ten
 took
+total
 your
 you
 yourself
@@ -464,6 +471,7 @@ Humor
 Humans
 Human
 Henry
+HARDEST
 learn
 leadership
 lose
@@ -747,6 +755,7 @@ consensus
 contributors
 comfortable
 cool
+curve
 and
 are
 about
@@ -842,6 +851,7 @@ able
 articulate
 aren
 anywhere
+average
 back
 bigger
 board
@@ -916,6 +926,7 @@ barriers
 based
 bandwidth
 bozos
+boggles
 up
 utterly
 us
@@ -947,6 +958,7 @@ unnecessary
 uses
 understand
 used
+utility
 Are
 Author
 AI
@@ -1129,6 +1141,7 @@ information
 improved
 insanely
 individual
+input
 energy
 every
 even
@@ -1259,6 +1272,7 @@ opposite
 obviously
 offering
 output
+once
 more
 member
 matters
@@ -1402,6 +1416,7 @@ while
 warrior
 within
 website
+worth
 References
 Richard
 Real
@@ -1530,6 +1545,7 @@ policing
 professional
 paid
 produce
+provide
 director
 doing
 down
@@ -1660,6 +1676,7 @@ Interview
 Institute
 Internet
 IG
+IS
 kept
 knocked
 key
@@ -1706,6 +1723,7 @@ notes
 nobody
 negative
 neatest
+number
 Branson
 But
 Banks
@@ -1845,6 +1863,8 @@ One
 Over
 October
 Once
+ONE
+OF
 Let
 Laurene
 Later
@@ -1860,4 +1880,5 @@ Question
 Use
 Unless
 Universities
+USEFUL
 VivaTech

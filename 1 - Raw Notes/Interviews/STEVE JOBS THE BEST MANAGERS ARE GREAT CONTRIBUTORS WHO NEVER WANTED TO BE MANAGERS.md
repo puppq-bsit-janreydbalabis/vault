@@ -1,6 +1,6 @@
 Date: 2025-06-25
 Tags: #steve_jobs 
-# STEVE JOBS THE BEST MANAGERS ARE GREAT CONTRIBUTORS WHO NEVER WANTED TO BE MANAGERS
+#  Steve jobs the best managers are great contributors who never wanted to be managers
 
 >*At Apple, we thought hiring professional managers would make us a big company. It didn’t work—most were bozos who could manage but couldn’t do anything else.
 >
@@ -8,4 +8,5 @@ Tags: #steve_jobs
 
 # References
 -BusinessX on IG 
+ 
  
