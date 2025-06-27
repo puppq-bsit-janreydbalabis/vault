@@ -1,7 +1,6 @@
 Date: 2025-06-25
 Book: [[THE PARASITIC MIND]]
-Tags: #quotes
-
+Tags: #fleeting_notes 
 
 # We reason to justify and convince
 

@@ -1,5 +1,5 @@
 Date: 2025-06-25
-Tags: #steve_jobs #leadership 
+Tags: #steve_jobs #leadership #hiring 
 # Steve Jobs on the most important job of a CEO
 
 >*“The greatest people are self-managing. They don’t need to be managed. Once they know what to do, they’ll go figure out how to do it… What they need is a common vision, and that’s what leadership is. Leadership is having a vision, being able to articulate that so the people around you can understand it, and getting consensus on a common vision.”
