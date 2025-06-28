@@ -1,9 +1,9 @@
 Date: 2025-06-10
 Book: [[BECOMING STEVE JOBS]]
 Tags: #mindset 
-#
 
-# Call me crazy, i don't care
+
+# The people who are crazy enough to think they can change the world, are the ones who do
 
 > *Here's to the crazy one. The misfits. The rebels. The troublemakers. The round pegs in the square holes.
 > The ones who see things differently, They're not fond of rules. And they have no respect for the status quo.
