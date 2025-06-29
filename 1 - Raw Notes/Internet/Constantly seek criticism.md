@@ -1,5 +1,5 @@
 Date: 2025-06-22
-Tags: #mindset #elon_musk  
+Tags: #mindset #elon_musk  #criticism 
 
 
 # Constantly seek criticism

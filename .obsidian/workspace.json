@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da3ee96e26d8cea7",
+        "id": "c79a1c1edf6ec3fe",
         "type": "tabs",
         "children": [
           {
-            "id": "c0a3bf20eb866a28",
+            "id": "825425b8ee24a6f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Raw Notes/Books/WHAT'S OUR PROBLEM.md",
+                "file": "Its hard to drive progress individually.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": true,
+                  "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "WHAT'S OUR PROBLEM"
+              "title": "Its hard to drive progress individually"
             }
           }
         ],
@@ -59,13 +59,13 @@
             }
           },
           {
-            "id": "e7813eb599d916d2",
+            "id": "fa497454f8da3ce1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:#progress  ",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491.5
+    "width": 443.5
   },
   "right": {
     "id": "061688a764034036",
@@ -214,34 +214,34 @@
       "obsidian-spaced-repetition:Review flashcards": true
     }
   },
-  "active": "c0a3bf20eb866a28",
+  "active": "825425b8ee24a6f9",
   "lastOpenFiles": [
-    "1 - Raw Notes/Books/THE INNOVATORS DILEMMA.md",
-    "Any company that doesn't have a systematic way of targeting its development resources towards customer's needs, in fact, will fail..md",
-    "1 - Raw Notes/Books/WHAT'S OUR PROBLEM.md",
-    "Believe what you want to believe as long as you don't force your view to anyone.md",
-    "1 - Raw Notes/Interviews/We need to spend less money and get better results.md",
-    "There's a place for emotions so intellect. There's a place for seriousness so humor.md",
-    "Studying the end game is helpful.md",
-    "Stand firm on your belief. Be flexible on your approach.md",
-    "Separate idea from the people.md",
-    "Separate your self from idea.md",
-    "Learn the strategies of your enemies and try to turn these against them.md",
-    "It's okay to judge if one uses well articulated arguments.md",
-    "1 - Raw Notes/Internet/It's okay to have your eggs in one basket.md",
-    "If you can trigger or win people's feelings in social media then you're winning the game.md",
-    "Go to the source of issues and talk directly from people who are impacted by it.md",
-    "Don't let your emotions decide for you.md",
-    "Don't complicate things.md",
-    "Always think long term.md",
-    "Do good — and the rewards will come.md",
-    "Always ask how to keep moving forward.md",
-    "To make a difference and do good in the world.md",
-    "Stand firm on what you believe.md",
-    "1 - Raw Notes/Internet/Whether you're the CEO or the anyone else, you do the task, no matter how grand or humble..md",
-    "You can do whatever you want.md",
-    "We must stay strong.md",
-    "Stand firm on your belief.md",
+    "Untitled.md",
+    "Its hard to drive progress individually.md",
+    "No one can make progress alone.md",
+    "Good science is precise and unambiguous.md",
+    "1 - Raw Notes/Internet/Constantly seek criticism.md",
+    "The real test of any argument is how well it stands up to rigorous criticism.md",
+    "Science is use of common sense.md",
+    "Once a scientific theory is well established, however, it's not replaced, only refined.md",
+    "Science is a particular way of knowing about the world.md",
+    "Always try to prove your hypothesis wrong.md",
+    "Thinking without logic is like finding your way in the wilderness without a compass or map.md",
+    "We have to be open minded.md",
+    "If the argument is not using valid logic its a logical fallacy.md",
+    "It's good to aim high.md",
+    "1 - Raw Notes/Books/WHAT WE OWE TO THE FUTURE.md",
+    "1 - Raw Notes/Books/THE SKEPTIC'S GUIDE TO THE UNIVERSE.md",
+    "Every doubling of technological advancement takes roughly four times more research effort.md",
+    "If we invest heavily on R and D we can always improve our technology.md",
+    "Our economic growth today is driven by technological progress.md",
+    "Two way to increase economic output.md",
+    "Let everyone express their own ideas.md",
+    "The goal of machine is to accomplish the task better and cheaply.md",
+    "We need to ensure that ai should follow our will.md",
+    "We can grow the size of our economy by producing more ai workers.md",
+    "Prioritize those inputs that yield the best output.md",
+    "Care for others as how you care for yourself.md",
     "1 - Raw Notes/Interviews",
     "0 - MOC",
     "1 - Raw Notes/Books/Becoming Steve Jobs",
