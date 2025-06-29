@@ -14,6 +14,8 @@ Dinner
 Depending
 Doing
 Demarcation
+Dr
+DORS
 Tags
 That
 This
@@ -51,6 +53,7 @@ Training
 Train
 Trainings
 TV
+Three
 Work
 We
 What
@@ -286,6 +289,11 @@ scenario
 skew
 stands
 significant
+somewhere
+skepticism
+simple
+studying
+sweeps
 harder
 humility
 have
@@ -361,6 +369,8 @@ hypotheses
 hurt
 highly
 hears
+however
+harm
 towards
 the
 to
@@ -481,6 +491,8 @@ trough
 theories
 thermodynamics
 twisting
+translating
+tales
 your
 you
 yourself
@@ -646,6 +658,8 @@ layers
 lastly
 limits
 logical
+language
+law
 from
 failures
 for
@@ -763,6 +777,10 @@ fallacies
 fields
 fraction
 flaws
+fixing
+feared
+finite
+fairly
 continually
 cause
 channel
@@ -942,6 +960,17 @@ continuing
 coherent
 career
 crucially
+cautionary
+creates
+correct
+conditions
+chaotic
+complex
+complicated
+chaos
+calculable
+carrying
+calculations
 and
 are
 about
@@ -1074,6 +1103,10 @@ accelerate
 argument
 aiming
 advances
+aspect
+accuracy
+assumed
+appropriate
 back
 bigger
 board
@@ -1164,6 +1197,8 @@ bottlenecks
 bottleneck
 bootstrap
 bound
+broad
+businessman
 up
 utterly
 us
@@ -1211,6 +1246,7 @@ update
 universe
 upside
 unambiguous
+unpredictable
 Are
 Author
 AI
@@ -1239,6 +1275,7 @@ AGI
 Analyzing
 Among
 Arguments
+Asimov
 relentless
 right
 re
@@ -1339,6 +1376,7 @@ remove
 remote
 rise
 rigorous
+robot
 Can
 Chapter
 Creating
@@ -1371,6 +1409,9 @@ Christensen
 Choosing
 Cellan
 Changing
+Cara
+Curie
+Carroll
 intensity
 intelligence
 ideas
@@ -1456,6 +1497,8 @@ infinite
 interested
 indefinitely
 individually
+injure
+inaction
 energy
 every
 even
@@ -1569,6 +1612,10 @@ ensure
 exploration
 expected
 errors
+everyday
+estimate
+estimates
+except
 outward
 of
 one
@@ -1631,6 +1678,8 @@ observations
 options
 outcomes
 occurring
+obey
+orders
 more
 member
 matters
@@ -1729,6 +1778,7 @@ meeting
 machines
 mending
 movement
+mistakes
 what
 wisely
 why
@@ -1804,6 +1854,7 @@ winning
 weed
 willing
 workers
+wasted
 References
 Richard
 Real
@@ -1819,6 +1870,7 @@ Reason
 Rather
 Rory
 Republicans
+Robotics
 Every
 Even
 Entrepreneurs
@@ -1837,6 +1889,8 @@ ENSURE
 ENGINEERS
 Essentially
 Evolution
+Evan
+Energy
 pain
 problem
 people
@@ -1975,6 +2029,12 @@ police
 poor
 precise
 perspectives
+popularizing
+precision
+predict
+probabilities
+politician
+protection
 director
 doing
 down
@@ -2105,6 +2165,7 @@ justify
 justifying
 judgement
 jerky
+jargon
 Foundations
 For
 Foolish
@@ -2118,6 +2179,7 @@ Ford
 FLOURISH
 Forbidden
 Forced
+Fake
 Keep
 Krishna
 Knowing
@@ -2139,6 +2201,8 @@ IG
 IS
 Invest
 Idea
+Iconic
+Isaac
 kept
 knocked
 key
@@ -2194,6 +2258,8 @@ nothing
 non
 narrowing
 natural
+numbers
+news
 Branson
 But
 Banks
@@ -2215,6 +2281,7 @@ Blindly
 Building
 BBC
 Believe
+Bernstein
 Sometimes
 Steve
 Strong
@@ -2266,6 +2333,9 @@ Seismic
 Steadfast
 Scientific
 Shooting
+Santa
+Steven
+Sean
 very
 vengeance
 vault
@@ -2312,6 +2382,9 @@ Maximize
 Method
 MacAskill
 Mechanism
+Maria
+Marie
+Mathematician
 Preface
 Picasso
 Pixar
@@ -2355,6 +2428,7 @@ JOBS
 Jones
 January
 Jensen
+Jay
 No
 None
 Noyce
@@ -2369,6 +2443,8 @@ Number
 Normally
 NVIDIA
 Nordhaus
+Novella
+Nothing
 quit
 quote
 quite
@@ -2402,6 +2478,7 @@ Lex
 Lions
 Leadership
 Learn
+Laws
 Question
 Use
 Unless

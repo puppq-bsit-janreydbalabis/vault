@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "Three Laws of Robotics",
+      "path": "Three Laws of Robotics.md"
+    },
+    {
+      "basename": "PRELUDE TO FOUNDATIONS",
+      "path": "1 - Raw Notes/Books/PRELUDE TO FOUNDATIONS.md"
+    },
+    {
+      "basename": "If you want to be successful try to predict or estimate the future but make sure you have the correct starting point",
+      "path": "If you want to be successful try to predict or estimate the future but make sure you have the correct starting point.md"
+    },
+    {
+      "basename": "000 - Book Mocs",
+      "path": "0 - MOC/000 - Book Mocs.md"
+    },
+    {
+      "basename": "THE BIG PICTURE",
+      "path": "1 - Raw Notes/Books/THE BIG PICTURE.md"
+    },
+    {
+      "basename": "Focus on educating rather than winning the argument",
+      "path": "Focus on educating rather than winning the argument.md"
+    },
+    {
+      "basename": "Nothing in life is to be feared",
+      "path": "Nothing in life is to be feared.md"
+    },
+    {
+      "basename": "The best solution for all of us is to apply a high degree of critical thinking and skepticism to any issue",
+      "path": "The best solution for all of us is to apply a high degree of critical thinking and skepticism to any issue.md"
+    },
+    {
+      "basename": "Watch out when you are only hearing one side of the story",
+      "path": "Watch out when you are only hearing one side of the story.md"
+    },
+    {
+      "basename": "We can't  create energy from nothing",
+      "path": "We can't  create energy from nothing.md"
+    },
+    {
+      "basename": "THE SKEPTIC'S GUIDE TO THE UNIVERSE",
+      "path": "1 - Raw Notes/Books/THE SKEPTIC'S GUIDE TO THE UNIVERSE.md"
+    },
+    {
+      "basename": "Energy cannot simply come from nowhere. There has to be a source of the energy",
+      "path": "Energy cannot simply come from nowhere. There has to be a source of the energy.md"
+    },
+    {
+      "basename": "You can't produce something from nothing",
+      "path": "You can't produce something from nothing.md"
+    },
+    {
+      "basename": "Learn from your mistakes, or better yet, learn from other people's mistakes",
+      "path": "Learn from your mistakes, or better yet, learn from other people's mistakes.md"
+    },
+    {
+      "basename": "Don't get so focused on fixing the numbers that you miss the big picture",
+      "path": "Don't get so focused on fixing the numbers that you miss the big picture.md"
+    },
+    {
+      "basename": "Science requires courage to accept its findings",
+      "path": "Science requires courage to accept its findings.md"
+    },
+    {
+      "basename": "Science is about creating testable models to know the true nature of the universe",
+      "path": "Science is about creating testable models to know the true nature of the universe.md"
+    },
+    {
+      "basename": "Being wrong in science is useful because it helps us to to determine what is true",
+      "path": "Being wrong in science is useful because it helps us to to determine what is true.md"
+    },
+    {
+      "basename": "Modern science is complex and requires significant infrastructure and collaboration",
+      "path": "Modern science is complex and requires significant infrastructure and collaboration.md"
+    },
+    {
+      "basename": "The most challenging aspect of popularizing science is often translating technical jargon into everyday language while minimizing the loss of precision and accuracy",
+      "path": "The most challenging aspect of popularizing science is often translating technical jargon into everyday language while minimizing the loss of precision and accuracy.md"
+    },
+    {
       "basename": "Its hard to drive progress individually",
       "path": "Its hard to drive progress individually.md"
     },
@@ -51,10 +131,6 @@
     {
       "basename": "WHAT WE OWE TO THE FUTURE",
       "path": "1 - Raw Notes/Books/WHAT WE OWE TO THE FUTURE.md"
-    },
-    {
-      "basename": "THE SKEPTIC'S GUIDE TO THE UNIVERSE",
-      "path": "1 - Raw Notes/Books/THE SKEPTIC'S GUIDE TO THE UNIVERSE.md"
     },
     {
       "basename": "Every doubling of technological advancement takes roughly four times more research effort",
@@ -123,78 +199,6 @@
     {
       "basename": "Life is not dress rehearsal",
       "path": "Life is not dress rehearsal.md"
-    },
-    {
-      "basename": "Our system of ethics be should  be based on improving the well-being of conscious  creatures",
-      "path": "Our system of ethics be should  be based on improving the well-being of conscious  creatures.md"
-    },
-    {
-      "basename": "To stay alive we must keep moving",
-      "path": "To stay alive we must keep moving.md"
-    },
-    {
-      "basename": "Aways try to make predictions",
-      "path": "Aways try to make predictions.md"
-    },
-    {
-      "basename": "Life proceeds by converting  free energy into disordered energy",
-      "path": "Life proceeds by converting  free energy into disordered energy.md"
-    },
-    {
-      "basename": "The goal of science is to determine the truth",
-      "path": "The goal of science is to determine the truth.md"
-    },
-    {
-      "basename": "Stand firm on what you believe",
-      "path": "Stand firm on what you believe.md"
-    },
-    {
-      "basename": "The aim was to start a movement of ideas and individuals committed to making the world better place",
-      "path": "The aim was to start a movement of ideas and individuals committed to making the world better place.md"
-    },
-    {
-      "basename": "The future is going to be great",
-      "path": "1 - Raw Notes/Internet/The future is going to be great.md"
-    },
-    {
-      "basename": "To make a difference and do good in the world",
-      "path": "To make a difference and do good in the world.md"
-    },
-    {
-      "basename": "Try to aim perfection in everything you'll do even if you're always wrong at some point",
-      "path": "Try to aim perfection in everything you'll do even if you're always wrong at some point.md"
-    },
-    {
-      "basename": "Just do good",
-      "path": "Just do good.md"
-    },
-    {
-      "basename": "Scientific Method",
-      "path": "Scientific Method.md"
-    },
-    {
-      "basename": "Think independently",
-      "path": "Think independently.md"
-    },
-    {
-      "basename": "Bayes Theorem",
-      "path": "Bayes Theorem.md"
-    },
-    {
-      "basename": "Einstein emphasizing the importance of parsimony in scientific theories",
-      "path": "Einstein emphasizing the importance of parsimony in scientific theories.md"
-    },
-    {
-      "basename": "Curiosity is a virtue",
-      "path": "Curiosity is a virtue.md"
-    },
-    {
-      "basename": "If you want to simulate the universe you need a computer as big as the universe itself",
-      "path": "If you want to simulate the universe you need a computer as big as the universe itself.md"
-    },
-    {
-      "basename": "The machines are designed to help humans",
-      "path": "The machines are designed to help humans.md"
     }
   ],
   "omittedPaths": [],
