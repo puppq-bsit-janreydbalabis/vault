@@ -294,6 +294,7 @@ skepticism
 simple
 studying
 sweeps
+scope
 harder
 humility
 have
@@ -493,6 +494,7 @@ thermodynamics
 twisting
 translating
 tales
+tenets
 your
 you
 yourself
@@ -781,6 +783,7 @@ fixing
 feared
 finite
 fairly
+feels
 continually
 cause
 channel
@@ -971,6 +974,10 @@ chaos
 calculable
 carrying
 calculations
+conciousness
+consciousness
+compulsion
+consumers
 and
 are
 about
@@ -1199,6 +1206,7 @@ bootstrap
 bound
 broad
 businessman
+boss
 up
 utterly
 us
@@ -1499,6 +1507,7 @@ indefinitely
 individually
 injure
 inaction
+innovations
 energy
 every
 even
@@ -1616,6 +1625,7 @@ everyday
 estimate
 estimates
 except
+extend
 outward
 of
 one
@@ -1779,6 +1789,8 @@ machines
 mending
 movement
 mistakes
+middlemen
+muddying
 what
 wisely
 why
@@ -2035,6 +2047,7 @@ predict
 probabilities
 politician
 protection
+physics
 director
 doing
 down
@@ -2151,6 +2164,8 @@ deteriorate
 determine
 determining
 disordered
+drill
+drilling
 jeopardize
 job
 just
