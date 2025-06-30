@@ -54,6 +54,7 @@ Train
 Trainings
 TV
 Three
+Talk
 Work
 We
 What
@@ -295,6 +296,7 @@ simple
 studying
 sweeps
 scope
+specifications
 harder
 humility
 have
@@ -495,6 +497,8 @@ twisting
 translating
 tales
 tenets
+tactics
+tend
 your
 you
 yourself
@@ -978,6 +982,7 @@ conciousness
 consciousness
 compulsion
 consumers
+colleagues
 and
 are
 about
@@ -1207,6 +1212,8 @@ bound
 broad
 businessman
 boss
+books
+broadly
 up
 utterly
 us
@@ -1508,6 +1515,9 @@ individually
 injure
 inaction
 innovations
+insane
+intensely
+ingest
 energy
 every
 even
@@ -1791,6 +1801,7 @@ movement
 mistakes
 middlemen
 muddying
+meet
 what
 wisely
 why
@@ -1867,6 +1878,7 @@ weed
 willing
 workers
 wasted
+walks
 References
 Richard
 Real
@@ -2166,6 +2178,8 @@ determining
 disordered
 drill
 drilling
+deadline
+develop
 jeopardize
 job
 just
