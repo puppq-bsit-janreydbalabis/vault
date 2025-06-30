@@ -73,6 +73,8 @@ WHO
 WANTED
 Watching
 William
+Whenever
+Who
 super
 something
 single
@@ -297,6 +299,7 @@ studying
 sweeps
 scope
 specifications
+subject
 harder
 humility
 have
@@ -499,6 +502,8 @@ tales
 tenets
 tactics
 tend
+theses
+treated
 your
 you
 yourself
@@ -571,6 +576,7 @@ global
 gives
 generations
 gathering
+grill
 Have
 Hare
 How
@@ -666,6 +672,7 @@ limits
 logical
 language
 law
+legal
 from
 failures
 for
@@ -788,6 +795,7 @@ feared
 finite
 fairly
 feels
+followed
 continually
 cause
 channel
@@ -983,6 +991,8 @@ consciousness
 compulsion
 consumers
 colleagues
+components
+cited
 and
 are
 about
@@ -1119,6 +1129,8 @@ aspect
 accuracy
 assumed
 appropriate
+aerospace
+answering
 back
 bigger
 board
@@ -1392,6 +1404,11 @@ remote
 rise
 rigorous
 robot
+rocket
+requirements
+religiously
+requirement
+recommendations
 Can
 Chapter
 Creating
@@ -1518,6 +1535,8 @@ innovations
 insane
 intensely
 ingest
+insist
+immutable
 energy
 every
 even
@@ -1802,6 +1821,8 @@ mistakes
 middlemen
 muddying
 meet
+mandated
+military
 what
 wisely
 why
@@ -2180,6 +2201,8 @@ drill
 drilling
 deadline
 develop
+department
+dictated
 jeopardize
 job
 just
@@ -2289,6 +2312,7 @@ narrowing
 natural
 numbers
 news
+name
 Branson
 But
 Banks
@@ -2474,6 +2498,7 @@ NVIDIA
 Nordhaus
 Novella
 Nothing
+NASA
 quit
 quote
 quite
