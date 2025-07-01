@@ -16,6 +16,8 @@ Doing
 Demarcation
 Dr
 DORS
+DEMERZEL
+Design
 Tags
 That
 This
@@ -75,6 +77,8 @@ Watching
 William
 Whenever
 Who
+Walter
+Why
 super
 something
 single
@@ -300,6 +304,15 @@ sweeps
 scope
 specifications
 subject
+salvageable
+subsequent
+stove
+supply
+suppliers
+sensitivities
+soul
+successive
+spelled
 harder
 humility
 have
@@ -377,6 +390,7 @@ highly
 hears
 however
 harm
+hot
 towards
 the
 to
@@ -504,6 +518,8 @@ tactics
 tend
 theses
 treated
+thirty
+titled
 your
 you
 yourself
@@ -597,6 +613,7 @@ Hugo
 High
 Huang
 However
+Hardcore
 learn
 leadership
 lose
@@ -673,6 +690,11 @@ logical
 language
 law
 legal
+labor
+line
+led
+leads
+looks
 from
 failures
 for
@@ -796,6 +818,10 @@ finite
 fairly
 feels
 followed
+fuck
+factories
+favorite
+founded
 continually
 cause
 channel
@@ -993,6 +1019,12 @@ consumers
 colleagues
 components
 cited
+contemptuous
+clustered
+collar
+chain
+costs
+creed
 and
 are
 about
@@ -1131,6 +1163,9 @@ assumed
 appropriate
 aerospace
 answering
+assembly
+auto
+aesthetics
 back
 bigger
 board
@@ -1226,6 +1261,11 @@ businessman
 boss
 books
 broadly
+blow
+balance
+battery
+body
+builds
 up
 utterly
 us
@@ -1274,6 +1314,8 @@ universe
 upside
 unambiguous
 unpredictable
+urgency
+upended
 Are
 Author
 AI
@@ -1409,6 +1451,10 @@ requirements
 religiously
 requirement
 recommendations
+relentlessly
+release
+resistance
+ramped
 Can
 Chapter
 Creating
@@ -1537,6 +1583,13 @@ intensely
 ingest
 insist
 immutable
+immediately
+integration
+imprint
+industry
+integrated
+industrial
+industries
 energy
 every
 even
@@ -1655,6 +1708,10 @@ estimate
 estimates
 except
 extend
+enable
+ends
+expressing
+email
 outward
 of
 one
@@ -1719,6 +1776,8 @@ outcomes
 occurring
 obey
 orders
+operating
+outlet
 more
 member
 matters
@@ -1823,6 +1882,9 @@ muddying
 meet
 mandated
 military
+maniacal
+mass
+man
 what
 wisely
 why
@@ -1916,6 +1978,7 @@ Rather
 Rory
 Republicans
 Robotics
+Revolutionizing
 Every
 Even
 Entrepreneurs
@@ -1936,6 +1999,7 @@ Essentially
 Evolution
 Evan
 Energy
+ETO
 pain
 problem
 people
@@ -2081,6 +2145,12 @@ probabilities
 politician
 protection
 physics
+principle
+pull
+piecing
+play
+production
+paint
 director
 doing
 down
@@ -2203,6 +2273,9 @@ deadline
 develop
 department
 dictated
+drove
+defining
+describe
 jeopardize
 job
 just
@@ -2255,6 +2328,7 @@ Invest
 Idea
 Iconic
 Isaac
+Isaacson
 kept
 knocked
 key
@@ -2313,6 +2387,7 @@ natural
 numbers
 news
 name
+nurturing
 Branson
 But
 Banks
@@ -2415,6 +2490,8 @@ village
 vibrant
 valid
 validity
+vacations
+vertically
 Man
 My
 Macintosh
@@ -2438,6 +2515,8 @@ Mechanism
 Maria
 Marie
 Mathematician
+Mission
+Model
 Preface
 Picasso
 Pixar
@@ -2460,6 +2539,8 @@ PowerPoint
 Prologue
 Performing
 Pseudoscience
+PART
+Please
 Great
 Google
 Gaia
@@ -2509,6 +2590,8 @@ quickly
 quotes
 qualifications
 quantitative
+quality
+quintessential
 Of
 OK
 On
@@ -2542,6 +2625,10 @@ Understanding
 Urban
 USC
 Usually
+Ultra
 VivaTech
 VPs
+Vertical
 zealot
+Zip
+ZIp

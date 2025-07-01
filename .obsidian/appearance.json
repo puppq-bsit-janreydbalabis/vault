@@ -1,8 +1,9 @@
 {
-  "cssTheme": "ITS Theme",
+  "cssTheme": "GitHub Theme",
   "baseFontSizeAction": true,
   "baseFontSize": 17,
   "showViewHeader": true,
   "showRibbon": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian"
 }
