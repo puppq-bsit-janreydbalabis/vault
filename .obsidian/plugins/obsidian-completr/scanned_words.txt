@@ -313,6 +313,7 @@ sensitivities
 soul
 successive
 spelled
+slowdown
 harder
 humility
 have
@@ -614,6 +615,7 @@ High
 Huang
 However
 Hardcore
+His
 learn
 leadership
 lose
@@ -695,6 +697,9 @@ line
 led
 leads
 looks
+lines
+lights
+leaders
 from
 failures
 for
@@ -822,6 +827,7 @@ fuck
 factories
 favorite
 founded
+flashing
 continually
 cause
 channel
@@ -1025,6 +1031,11 @@ collar
 chain
 costs
 creed
+cubicles
+complaints
+caused
+corralled
+corporate
 and
 are
 about
@@ -1166,6 +1177,8 @@ answering
 assembly
 auto
 aesthetics
+automotive
+announced
 back
 bigger
 board
@@ -1316,6 +1329,7 @@ unambiguous
 unpredictable
 urgency
 upended
+underneath
 Are
 Author
 AI
@@ -1345,6 +1359,8 @@ Analyzing
 Among
 Arguments
 Asimov
+Avoid
+April
 relentless
 right
 re
@@ -1455,6 +1471,7 @@ relentlessly
 release
 resistance
 ramped
+redesigning
 Can
 Chapter
 Creating
@@ -1712,6 +1729,8 @@ enable
 ends
 expressing
 email
+edge
+elements
 outward
 of
 one
@@ -1962,6 +1981,7 @@ willing
 workers
 wasted
 walks
+walls
 References
 Richard
 Real
@@ -2151,6 +2171,7 @@ piecing
 play
 production
 paint
+pillow
 director
 doing
 down
@@ -2276,6 +2297,8 @@ dictated
 drove
 defining
 describe
+desk
+define
 jeopardize
 job
 just
@@ -2388,6 +2411,7 @@ numbers
 news
 name
 nurturing
+narrowly
 Branson
 But
 Banks
@@ -2541,6 +2565,8 @@ Performing
 Pseudoscience
 PART
 Please
+Put
+Powerwall
 Great
 Google
 Gaia
