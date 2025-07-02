@@ -18,6 +18,8 @@ Dr
 DORS
 DEMERZEL
 Design
+Double
+Designers
 Tags
 That
 This
@@ -79,6 +81,7 @@ Whenever
 Who
 Walter
 Why
+WESTERN
 super
 something
 single
@@ -314,6 +317,11 @@ soul
 successive
 spelled
 slowdown
+stubborn
+surprisingly
+setting
+stopping
+spirit
 harder
 humility
 have
@@ -521,6 +529,9 @@ theses
 treated
 thirty
 titled
+throw
+thereby
+trajectory
 your
 you
 yourself
@@ -594,6 +605,7 @@ gives
 generations
 gathering
 grill
+guided
 Have
 Hare
 How
@@ -700,6 +712,9 @@ looks
 lines
 lights
 leaders
+losing
+lasts
+limiting
 from
 failures
 for
@@ -828,6 +843,9 @@ factories
 favorite
 founded
 flashing
+fifty
+foundational
+ferociously
 continually
 cause
 channel
@@ -1036,6 +1054,12 @@ complaints
 caused
 corralled
 corporate
+complacency
+catastrophes
+changing
+collapse
+cautious
+carry
 and
 are
 about
@@ -1179,6 +1203,12 @@ auto
 aesthetics
 automotive
 announced
+automatically
+answers
+assures
+averting
+advancement
+animal
 back
 bigger
 board
@@ -1279,6 +1309,7 @@ balance
 battery
 body
 builds
+badger
 up
 utterly
 us
@@ -1330,6 +1361,9 @@ unpredictable
 urgency
 upended
 underneath
+unrecovered
+ultimately
+uncompromising
 Are
 Author
 AI
@@ -1472,6 +1506,12 @@ release
 resistance
 ramped
 redesigning
+return
+reckless
+regulating
+retreat
+restructured
+recipe
 Can
 Chapter
 Creating
@@ -1507,6 +1547,8 @@ Changing
 Cara
 Curie
 Carroll
+Curiosity
+Churchill
 intensity
 intelligence
 ideas
@@ -1607,6 +1649,9 @@ industry
 integrated
 industrial
 industries
+improves
+integrity
+immediate
 energy
 every
 even
@@ -1731,6 +1776,12 @@ expressing
 email
 edge
 elements
+event
+explained
+evolved
+emotion
+ensuring
+extinction
 outward
 of
 one
@@ -1797,6 +1848,8 @@ obey
 orders
 operating
 outlet
+oscillating
+optimize
 more
 member
 matters
@@ -1904,6 +1957,9 @@ military
 maniacal
 mass
 man
+mistaken
+manufactured
+motivated
 what
 wisely
 why
@@ -1999,6 +2055,7 @@ Rory
 Republicans
 Robotics
 Revolutionizing
+Reasons
 Every
 Even
 Entrepreneurs
@@ -2020,6 +2077,7 @@ Evolution
 Evan
 Energy
 ETO
+Empathy
 pain
 problem
 people
@@ -2172,6 +2230,13 @@ play
 production
 paint
 pillow
+peace
+possibility
+proactive
+pushing
+permanent
+prevent
+protecting
 director
 doing
 down
@@ -2299,6 +2364,13 @@ defining
 describe
 desk
 define
+deployed
+deeper
+dig
+direct
+defending
+dysfunction
+devised
 jeopardize
 job
 just
@@ -2328,6 +2400,7 @@ FLOURISH
 Forbidden
 Forced
 Fake
+Fighting
 Keep
 Krishna
 Knowing
@@ -2488,6 +2561,7 @@ Shooting
 Santa
 Steven
 Sean
+Separating
 very
 vengeance
 vault
@@ -2516,6 +2590,8 @@ valid
 validity
 vacations
 vertically
+virtue
+visionary
 Man
 My
 Macintosh
@@ -2567,6 +2643,8 @@ PART
 Please
 Put
 Powerwall
+Polytopia
+Play
 Great
 Google
 Gaia
@@ -2629,6 +2707,7 @@ Once
 ONE
 OF
 Occasionally
+Optimize
 Let
 Laurene
 Later
@@ -2642,6 +2721,7 @@ Lions
 Leadership
 Learn
 Laws
+Lesson
 Question
 Use
 Unless
@@ -2652,6 +2732,7 @@ Urban
 USC
 Usually
 Ultra
+Untitled
 VivaTech
 VPs
 Vertical
