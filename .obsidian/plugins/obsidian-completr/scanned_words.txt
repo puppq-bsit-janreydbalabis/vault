@@ -360,6 +360,7 @@ sustain
 served
 spew
 screw
+speed
 harder
 humility
 have
@@ -441,6 +442,8 @@ hot
 hands
 hide
 hidden
+harden
+hat
 towards
 the
 to
@@ -580,6 +583,7 @@ tracks
 territory
 troop
 twenty
+table
 your
 you
 yourself
@@ -590,6 +594,7 @@ yet
 yeah
 yes
 yard
+yardstick
 goals
 grow
 get
@@ -660,6 +665,7 @@ gap
 guarding
 growing
 guesses
+guilty
 Have
 Hare
 How
@@ -770,6 +776,7 @@ losing
 lasts
 limiting
 laws
+lifetimes
 from
 failures
 for
@@ -912,6 +919,7 @@ formations
 fewer
 flee
 falsehoods
+functioning
 continually
 cause
 channel
@@ -1148,6 +1156,9 @@ conspirator
 clutter
 complexity
 convoluted
+chips
+civilizations
+caring
 and
 are
 about
@@ -1315,6 +1326,8 @@ apeshit
 alter
 agency
 absence
+arteries
+accused
 back
 bigger
 board
@@ -1422,6 +1435,7 @@ below
 brain
 battles
 bystander
+benefit
 up
 utterly
 us
@@ -1482,6 +1496,9 @@ unfathomability
 unity
 unprepared
 unfavorable
+unseen
+unfairly
+unpunished
 Are
 Author
 AI
@@ -1525,6 +1542,7 @@ Assessment
 Appear
 Assessments
 Activate
+America
 relentless
 right
 re
@@ -1657,6 +1675,11 @@ ruses
 refine
 researchers
 recipient
+referees
+rail
+rockets
+rich
+rabbit
 Can
 Chapter
 Creating
@@ -1809,6 +1832,8 @@ insubstantiality
 inability
 insufficient
 inputs
+innocent
+inconsistent
 energy
 every
 even
@@ -1949,6 +1974,7 @@ educating
 exponentially
 eliminating
 err
+edgy
 outward
 of
 one
@@ -2145,6 +2171,7 @@ movements
 modus
 marching
 minimalism
+morally
 what
 wisely
 why
@@ -2446,6 +2473,9 @@ persistence
 prepared
 percent
 proportion
+perfect
+punished
+presumed
 director
 doing
 down
@@ -2594,6 +2624,11 @@ domains
 develops
 depth
 deep
+decline
+doers
+desire
+deed
+doubt
 jeopardize
 job
 just
@@ -2610,6 +2645,7 @@ judgement
 jerky
 jargon
 judged
+justice
 Foundations
 For
 Foolish
@@ -2628,6 +2664,7 @@ Fighting
 Fremont
 Formation
 Fullness
+Free
 Keep
 Krishna
 Knowing
