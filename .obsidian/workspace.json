@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Great work means loving what you do and being passionate about it.md",
+                "file": "1 - Raw Notes/Interviews/Elon musk advice for young people.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Great work means loving what you do and being passionate about it"
+              "title": "Elon musk advice for young people"
             }
           }
         ],
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#society  ",
+                "query": "tag:",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -215,10 +215,10 @@
       "obsidian-spaced-repetition:Review flashcards": true
     }
   },
-  "active": "d9a5a6cf096af944",
+  "active": "fa497454f8da3ce1",
   "lastOpenFiles": [
-    "No system is perfect.md",
     "Great work means loving what you do and being passionate about it.md",
+    "No system is perfect.md",
     "The goal of making a company is to work with smart and creative people to create great products and useful services.md",
     "1 - Raw Notes/Internet/Try to be useful as possible.md",
     "1 - Raw Notes/Internet/Whether you're the CEO or the anyone else, you do the task, no matter how grand or humble..md",

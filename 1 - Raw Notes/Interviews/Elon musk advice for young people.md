@@ -1,5 +1,5 @@
 Date: 2025-06-25
-Tags: #elon_musk #advice 
+Tags: #elon_musk 
 # Elon musk advice for young people
 
 >- *Try to be useful and have a positive net contribution to the society. 
