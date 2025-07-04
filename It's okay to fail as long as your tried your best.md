@@ -1,6 +1,6 @@
 Date: 2025-06-10
 Book: [[BECOMING STEVE JOBS]]
-Tags: #mindset #persistent 
+Tags: #mindset
 
 # It's okay to fail as long as your tried your best
 
