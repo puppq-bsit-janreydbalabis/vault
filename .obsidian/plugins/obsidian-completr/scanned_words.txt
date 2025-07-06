@@ -369,6 +369,7 @@ spark
 scenarios
 simultaneously
 survives
+sharpsters
 harder
 humility
 have
@@ -595,6 +596,7 @@ twenty
 table
 technologically
 traditions
+theme
 your
 you
 yourself
@@ -789,6 +791,7 @@ lasts
 limiting
 laws
 lifetimes
+left
 from
 failures
 for
@@ -933,6 +936,8 @@ flee
 falsehoods
 functioning
 falls
+foreseeable
+flickering
 continually
 cause
 channel
@@ -1175,6 +1180,11 @@ caring
 conceive
 compare
 capacity
+card
+cards
+calculating
+candle
+consideration
 and
 are
 about
@@ -1345,6 +1355,9 @@ absence
 arteries
 accused
 actions
+adventures
+amplifying
+angle
 back
 bigger
 board
@@ -1453,6 +1466,8 @@ brain
 battles
 bystander
 benefit
+burning
+boats
 up
 utterly
 us
@@ -1516,6 +1531,7 @@ unfavorable
 unseen
 unfairly
 unpunished
+unforeseeable
 Are
 Author
 AI
@@ -1561,6 +1577,7 @@ Assessments
 Activate
 America
 Aways
+Although
 relentless
 right
 re
@@ -1702,6 +1719,7 @@ received
 represent
 reliably
 responses
+restore
 Can
 Chapter
 Creating
@@ -1741,6 +1759,9 @@ Curiosity
 Churchill
 Comradery
 Crawling
+CLEON
+Causation
+Correlation
 intensity
 intelligence
 ideas
@@ -1859,6 +1880,7 @@ innocent
 inconsistent
 innovate
 institutions
+instance
 energy
 every
 even
@@ -2003,6 +2025,7 @@ edgy
 ended
 entirely
 embody
+either
 outward
 of
 one
@@ -2203,6 +2226,7 @@ morally
 merely
 mental
 marvelous
+memorizing
 what
 wisely
 why
@@ -2287,6 +2311,8 @@ wait
 whose
 walked
 wise
+wealth
+worse
 References
 Richard
 Real
@@ -2308,6 +2334,7 @@ Reasons
 Requirements
 Reduced
 Rules
+Risks
 Every
 Even
 Entrepreneurs
@@ -2334,6 +2361,7 @@ Each
 Emptiness
 Everybody
 Exorcism
+Eventually
 pain
 problem
 people
@@ -2511,6 +2539,11 @@ predictions
 pictures
 plan
 permitted
+player
+pulled
+proceeded
+prove
+perpetuate
 director
 doing
 down
@@ -2666,6 +2699,8 @@ deed
 doubt
 depends
 detect
+disasters
+delicate
 jeopardize
 job
 just
@@ -2730,6 +2765,7 @@ Isaacson
 Idiot
 Introduction
 IF
+Inversion
 kept
 knocked
 key
@@ -2791,6 +2827,7 @@ name
 nurturing
 narrowly
 numerous
+nerds
 Branson
 But
 Banks
@@ -2877,6 +2914,7 @@ Sun
 Sages
 Strategic
 Scientist
+Strategies
 very
 vengeance
 vault
@@ -3056,6 +3094,7 @@ Learn
 Laws
 Lesson
 Listening
+Levchin
 Question
 Use
 Unless
@@ -3067,6 +3106,7 @@ USC
 Usually
 Ultra
 Untitled
+Unsustainable
 VivaTech
 VPs
 Vertical
