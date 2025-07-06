@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To succeed, planning alone is insufficient. One must improvise as well.md",
+                "file": "It's okay to judge if one uses well articulated arguments.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "To succeed, planning alone is insufficient. One must improvise as well"
+              "title": "It's okay to judge if one uses well articulated arguments"
             }
           }
         ],
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "failure ",
+                "query": "tag:#strategy  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -215,8 +215,19 @@
       "obsidian-spaced-repetition:Review flashcards": true
     }
   },
-  "active": "fa497454f8da3ce1",
+  "active": "d9a5a6cf096af944",
   "lastOpenFiles": [
+    "Inversion.md",
+    "Go to the source of issues and talk directly from people who are impacted by it.md",
+    "Don't let your emotions decide for you.md",
+    "Don't get so focused on fixing the numbers that you miss the big picture.md",
+    "Do skip level and go directly to the people who experience the problem.md",
+    "Always think long term.md",
+    "If you want to be successful try to predict or estimate the future but make sure you have the correct starting point.md",
+    "Aways try to make predictions.md",
+    "1 - Raw Notes/Books/PRELUDE TO FOUNDATIONS.md",
+    "1 - Raw Notes/Books/FORWARD TO FOUNDATION.md",
+    "To succeed, planning alone is insufficient. One must improvise as well.md",
     "1 - Raw Notes/Books/FOUNDATIONS 1.md",
     "Look beyond the present mission to bigger and brighter things.md",
     "Recruit doers, not scholars.md",
@@ -232,17 +243,6 @@
     "Work super harder towards your goals. Have the humility to learn from your failures.md",
     "1 - Raw Notes/Internet/Whether you're the CEO or the anyone else, you do the task, no matter how grand or humble..md",
     "It's okay to fail as long as your tried your best.md",
-    "Great work means loving what you do and being passionate about it.md",
-    "Learn to think.md",
-    "There was no point in hiring somebody who wasn't good.md",
-    "Inversion.md",
-    "Simplicity can increase efficiency.md",
-    "Trial and error carries the precious commodity of information.md",
-    "Socratic Method.md",
-    "Falsification is the opposite of verification; you must try to show the theory is incorrect, and if you fail to do so, you actually strengthen it..md",
-    "Three parts to successfully operating outside a circle of competence.md",
-    "It's good to aim high.md",
-    "Three key practices needed in order to build and maintain a circle of competence.md",
     "1 - Raw Notes/Interviews",
     "0 - MOC",
     "1 - Raw Notes/Books/Becoming Steve Jobs",
