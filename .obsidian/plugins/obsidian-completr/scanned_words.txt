@@ -23,6 +23,7 @@ Designers
 Delete
 Defend
 Decide
+Deutsch
 Tags
 That
 This
@@ -361,6 +362,13 @@ served
 spew
 screw
 speed
+sucks
+sugarcoat
+superfluous
+spark
+scenarios
+simultaneously
+survives
 harder
 humility
 have
@@ -444,6 +452,7 @@ hide
 hidden
 harden
 hat
+happen
 towards
 the
 to
@@ -584,6 +593,8 @@ territory
 troop
 twenty
 table
+technologically
+traditions
 your
 you
 yourself
@@ -666,6 +677,7 @@ guarding
 growing
 guesses
 guilty
+granted
 Have
 Hare
 How
@@ -920,6 +932,7 @@ fewer
 flee
 falsehoods
 functioning
+falls
 continually
 cause
 channel
@@ -1159,6 +1172,9 @@ convoluted
 chips
 civilizations
 caring
+conceive
+compare
+capacity
 and
 are
 about
@@ -1328,6 +1344,7 @@ agency
 absence
 arteries
 accused
+actions
 back
 bigger
 board
@@ -1543,6 +1560,7 @@ Appear
 Assessments
 Activate
 America
+Aways
 relentless
 right
 re
@@ -1680,6 +1698,10 @@ rail
 rockets
 rich
 rabbit
+received
+represent
+reliably
+responses
 Can
 Chapter
 Creating
@@ -1718,6 +1740,7 @@ Carroll
 Curiosity
 Churchill
 Comradery
+Crawling
 intensity
 intelligence
 ideas
@@ -1834,6 +1857,8 @@ insufficient
 inputs
 innocent
 inconsistent
+innovate
+institutions
 energy
 every
 even
@@ -1975,6 +2000,9 @@ exponentially
 eliminating
 err
 edgy
+ended
+entirely
+embody
 outward
 of
 one
@@ -2172,6 +2200,9 @@ modus
 marching
 minimalism
 morally
+merely
+mental
+marvelous
 what
 wisely
 why
@@ -2476,6 +2507,10 @@ proportion
 perfect
 punished
 presumed
+predictions
+pictures
+plan
+permitted
 director
 doing
 down
@@ -2629,6 +2664,8 @@ doers
 desire
 deed
 doubt
+depends
+detect
 jeopardize
 job
 just
@@ -2665,6 +2702,7 @@ Fremont
 Formation
 Fullness
 Free
+Finally
 Keep
 Krishna
 Knowing
@@ -2691,6 +2729,7 @@ Isaac
 Isaacson
 Idiot
 Introduction
+IF
 kept
 knocked
 key
@@ -2871,6 +2910,7 @@ visionary
 victory
 vulnerable
 visual
+venue
 Man
 My
 Macintosh
@@ -2897,6 +2937,7 @@ Mathematician
 Mission
 Model
 Making
+Matter
 Preface
 Picasso
 Pixar
@@ -2927,6 +2968,7 @@ Polytopia
 Play
 Planning
 Participate
+Preserve
 Great
 Google
 Gaia
@@ -2997,6 +3039,8 @@ Optimize
 Otherwise
 Our
 Only
+Optimism
+Optimistic
 Let
 Laurene
 Later
