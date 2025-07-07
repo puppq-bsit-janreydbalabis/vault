@@ -1,7 +1,7 @@
 {
   "cssTheme": "GitHub Theme",
   "baseFontSizeAction": true,
-  "baseFontSize": 17,
+  "baseFontSize": 15,
   "showViewHeader": true,
   "showRibbon": false,
   "nativeMenus": false,
