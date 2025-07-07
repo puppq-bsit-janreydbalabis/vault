@@ -70,6 +70,7 @@ Two
 Thompson
 Through
 These
+Texas
 Work
 We
 What
@@ -406,6 +407,8 @@ scared
 shame
 selling
 shuffle
+stubby
+site
 harder
 humility
 have
@@ -495,6 +498,7 @@ helped
 hour
 holding
 hearing
+heard
 towards
 the
 to
@@ -1022,6 +1026,9 @@ forth
 firms
 feat
 fuels
+fabricating
+flights
+fly
 continually
 cause
 channel
@@ -1281,6 +1288,9 @@ competitors
 contrast
 chase
 cheap
+completed
+concrete
+committee
 and
 are
 about
@@ -1469,6 +1479,7 @@ accepted
 annual
 acquires
 arbitrage
+amusement
 back
 bigger
 board
@@ -1702,6 +1713,7 @@ Activate
 America
 Aways
 Although
+August
 relentless
 right
 re
@@ -1853,6 +1865,9 @@ reminded
 reflect
 review
 reveals
+retired
+reporting
+rides
 Can
 Chapter
 Creating
@@ -2026,6 +2041,7 @@ includes
 improvise
 intimidated
 iterate
+implemented
 energy
 every
 even
@@ -2174,6 +2190,7 @@ either
 excuse
 engines
 effort
+electronics
 outward
 of
 one
@@ -2390,6 +2407,8 @@ mad
 maximize
 merits
 minimal
+miniature
+mars
 what
 wisely
 why
@@ -2480,6 +2499,8 @@ wrote
 worshiping
 weak
 weight
+weekends
+wrongly
 References
 Richard
 Real
@@ -2502,6 +2523,8 @@ Requirements
 Reduced
 Rules
 Risks
+Rench
+Rightly
 Every
 Even
 Entrepreneurs
@@ -2734,6 +2757,9 @@ planning
 placate
 prosperity
 propelled
+prototype
+park
+prodding
 director
 doing
 down
@@ -2901,6 +2927,7 @@ discussion
 differed
 devote
 debating
+discussing
 jeopardize
 job
 just
@@ -2944,6 +2971,7 @@ Failure
 Falcon
 Follow
 Forget
+Florida
 Keep
 Krishna
 Knowing
@@ -3045,6 +3073,7 @@ nonlinear
 national
 nostalgia
 nails
+nicknamed
 Branson
 But
 Banks
@@ -3141,6 +3170,11 @@ Swamp
 Space
 Service
 Serve
+South
+Starship
+Starhopper
+SeaWorld
+Saturday
 very
 vengeance
 vault
@@ -3205,6 +3239,7 @@ Making
 Matter
 Metzger
 Mueller
+Muratore
 Preface
 Picasso
 Pixar
@@ -3262,6 +3297,7 @@ January
 Jensen
 Jay
 Juncosa
+July
 No
 None
 Noyce
