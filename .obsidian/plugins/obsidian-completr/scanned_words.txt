@@ -409,6 +409,9 @@ selling
 shuffle
 stubby
 site
+spheres
+savage
+security
 harder
 humility
 have
@@ -652,6 +655,8 @@ tiny
 tear
 transformation
 turning
+transistors
+trusting
 your
 you
 yourself
@@ -866,6 +871,7 @@ launchpad
 largely
 lest
 loose
+lessons
 from
 failures
 for
@@ -1291,6 +1297,13 @@ cheap
 completed
 concrete
 committee
+countries
+continents
+cultural
+citizen
+capitalism
+circuits
+collaboration
 and
 are
 about
@@ -1480,6 +1493,11 @@ annual
 acquires
 arbitrage
 amusement
+admittedly
+approximately
+awesome
+amplify
+artificial
 back
 bigger
 board
@@ -1601,6 +1619,7 @@ bantering
 boundaries
 brute
 brains
+beforehand
 up
 utterly
 us
@@ -1714,6 +1733,7 @@ America
 Aways
 Although
 August
+Artificial
 relentless
 right
 re
@@ -1868,6 +1888,7 @@ reveals
 retired
 reporting
 rides
+regularly
 Can
 Chapter
 Creating
@@ -2042,6 +2063,9 @@ improvise
 intimidated
 iterate
 implemented
+including
+international
+importance
 energy
 every
 even
@@ -2192,6 +2216,9 @@ engines
 effort
 electronics
 expose
+enterprise
+efficiency
+existed
 outward
 of
 one
@@ -2274,6 +2301,8 @@ orbit
 optimizing
 obtained
 obsession
+optimal
+observation
 more
 member
 matters
@@ -2527,6 +2556,7 @@ Rules
 Risks
 Rench
 Rightly
+Refers
 Every
 Even
 Entrepreneurs
@@ -2762,6 +2792,8 @@ propelled
 prototype
 park
 prodding
+participate
+pivotal
 director
 doing
 down
@@ -2930,6 +2962,9 @@ differed
 devote
 debating
 discussing
+dams
+denominator
+doubled
 jeopardize
 job
 just
@@ -2974,6 +3009,8 @@ Falcon
 Follow
 Forget
 Florida
+Failing
+Failures
 Keep
 Krishna
 Knowing
@@ -3005,6 +3042,8 @@ Idiot
 Introduction
 IF
 Inversion
+Intelligence
+International
 kept
 knocked
 key
@@ -3076,6 +3115,7 @@ national
 nostalgia
 nails
 nicknamed
+necessary
 Branson
 But
 Banks
@@ -3243,6 +3283,8 @@ Matter
 Metzger
 Mueller
 Muratore
+Minecraft
+Moore
 Preface
 Picasso
 Pixar
@@ -3302,6 +3344,7 @@ Jay
 Juncosa
 July
 James
+Johan
 No
 None
 Noyce
@@ -3320,6 +3363,7 @@ Novella
 Nothing
 NASA
 Nevada
+Norberg
 quit
 quote
 quite
@@ -3371,6 +3415,7 @@ Listening
 Levchin
 Lockheed
 Loose
+Law
 Question
 Use
 Unless
