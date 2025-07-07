@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to get things done.md",
+                "file": "Three Laws of Robotics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How to get things done"
+              "title": "Three Laws of Robotics"
             }
           }
         ],
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#work",
+                "query": "law of rob",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -214,9 +214,20 @@
       "obsidian-spaced-repetition:Review flashcards": true
     }
   },
-  "active": "d9a5a6cf096af944",
+  "active": "41145c76fe9d817b",
   "lastOpenFiles": [
+    "1 - Raw Notes/Books/OUR FINAL INVENTION.md",
+    "Untitled 1.md",
+    "Three Laws of Robotics.md",
     "Untitled.md",
+    "Small chance is better than none.md",
+    "1 - Raw Notes/Books/FOUNDATION AND EARTH.md",
+    "Never let your sense of morals keep you from doing what is right.md",
+    "1 - Raw Notes/Books/FOUNDATION EDGE.md",
+    "Once you know what the question actually is, you'll know what the answer means.md",
+    "1 - Raw Notes/Books/THE HITCHIKER'S GUIDE TO THE GALAXY.md",
+    "You must be willing to take risks, you must expose yourself to the possibility of massive failure—and you must believe in what you are doing so much that you do it anyway.md",
+    "1 - Raw Notes/Books/EXPLORE AND CREATE.md",
     "How to get things done.md",
     "If physics does not prevent something, then by definition it can be done.md",
     "In times of urgent problems, you still need to make time for the important long-term vision.md",
@@ -231,17 +242,6 @@
     "An educated man is not one whose memory is trained to carry a few dates in history—he is one who can accomplish things.md",
     "The highest use of capital is not to make more money, but to make money do more service for the betterment of life.md",
     "The primary object of a manufacturing to produce.md",
-    "Any man who can give the consumer the highest quality at the lowest price is bound to be a leader in business.md",
-    "Everything can always be done better than it is being done.md",
-    "Business is a collection of people who are brought together to do work and not to write letters to one another.md",
-    "Its necessary to get rid of a man as soon as he thinks himself an expert.md",
-    "Excess weight kills any self-propelled vehicle.md",
-    "Principles by Henry Ford.md",
-    "The foundations of society are the men and means to grow things, to make things, and to carry things.md",
-    "The natural thing to do is to work—to recognize that prosperity and happiness can be obtained only through honest effort.md",
-    "Musk was demanding manager.md",
-    "1 - Raw Notes/Internet/Work longer hours.md",
-    "Work hard for the future to be great.md",
     "1 - Raw Notes/Interviews",
     "0 - MOC",
     "1 - Raw Notes/Books/Becoming Steve Jobs",

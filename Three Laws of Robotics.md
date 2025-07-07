@@ -1,5 +1,5 @@
 Date: 2025-06-29
-Book: [[PRELUDE TO FOUNDATIONS]]
+Book: [[PRELUDE TO FOUNDATIONS]] [[OUR FINAL INVENTION]]
 Tags:  #robot
 # Three Laws of Robotics
 
@@ -11,3 +11,4 @@ Tags:  #robot
 
 # References
 - DORS 92
+- The busy child
