@@ -25,6 +25,7 @@ Defend
 Decide
 Deutsch
 December
+Draw
 Tags
 That
 This
@@ -71,6 +72,8 @@ Thompson
 Through
 These
 Texas
+Test
+Theory
 Work
 We
 What
@@ -412,6 +415,11 @@ site
 spheres
 savage
 security
+stood
+safe
+simplest
+supported
+synthesis
 harder
 humility
 have
@@ -502,6 +510,7 @@ hour
 holding
 hearing
 heard
+hypothesis
 towards
 the
 to
@@ -657,6 +666,9 @@ transformation
 turning
 transistors
 trusting
+tested
+theory
+terminology
 your
 you
 yourself
@@ -770,6 +782,7 @@ However
 Hardcore
 His
 Hit
+Hewitt
 learn
 leadership
 lose
@@ -1035,6 +1048,8 @@ fuels
 fabricating
 flights
 fly
+findings
+factual
 continually
 cause
 channel
@@ -1304,6 +1319,7 @@ citizen
 capitalism
 circuits
 collaboration
+contradicted
 and
 are
 about
@@ -1498,6 +1514,7 @@ approximately
 awesome
 amplify
 artificial
+aspects
 back
 bigger
 board
@@ -1620,6 +1637,8 @@ boundaries
 brute
 brains
 beforehand
+bodyguard
+beneficial
 up
 utterly
 us
@@ -1686,6 +1705,7 @@ unpunished
 unforeseeable
 urinals
 urged
+unexplained
 Are
 Author
 AI
@@ -1889,6 +1909,7 @@ retired
 reporting
 rides
 regularly
+resolve
 Can
 Chapter
 Creating
@@ -1933,6 +1954,8 @@ Causation
 Correlation
 Center
 Cokes
+Caution
+Closely
 intensity
 intelligence
 ideas
@@ -2066,6 +2089,7 @@ implemented
 including
 international
 importance
+ingredients
 energy
 every
 even
@@ -2219,6 +2243,10 @@ expose
 enterprise
 efficiency
 existed
+educated
+effects
+experimental
+encompasses
 outward
 of
 one
@@ -2303,6 +2331,8 @@ obtained
 obsession
 optimal
 observation
+outing
+organizes
 more
 member
 matters
@@ -2557,6 +2587,7 @@ Risks
 Rench
 Rightly
 Refers
+Recognize
 Every
 Even
 Entrepreneurs
@@ -2794,6 +2825,8 @@ park
 prodding
 participate
 pivotal
+probably
+predicted
 director
 doing
 down
@@ -3011,6 +3044,7 @@ Forget
 Florida
 Failing
 Failures
+Formulate
 Keep
 Krishna
 Knowing
@@ -3060,6 +3094,7 @@ knew
 kick
 keys
 kills
+known
 Your
 You
 YMCA
@@ -3253,6 +3288,7 @@ vulnerable
 visual
 venue
 vehicle
+verified
 Man
 My
 Macintosh
@@ -3319,6 +3355,9 @@ Preserve
 Phil
 Principles
 Profit
+Paul
+Predict
+Predictions
 Great
 Google
 Gaia
@@ -3332,6 +3371,7 @@ Go
 Generally
 GPUs
 GPU
+Given
 Jobs
 Just
 Joe
@@ -3397,6 +3437,7 @@ Only
 Optimism
 Optimistic
 Originally
+Observe
 Let
 Laurene
 Later
@@ -3416,7 +3457,9 @@ Levchin
 Lockheed
 Loose
 Law
+Lets
 Question
+Questions
 Use
 Unless
 Universities
@@ -3429,6 +3472,7 @@ Ultra
 Untitled
 Unsustainable
 Uncle
+Universe
 VivaTech
 VPs
 Vertical
