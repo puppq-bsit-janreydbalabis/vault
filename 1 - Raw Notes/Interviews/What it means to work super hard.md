@@ -1,5 +1,5 @@
 Date: 2025-06-25
-Tags: #elon_musk #company #mindset 
+Tags: #elon_musk #company 
 
 # What it means to work super hard
 

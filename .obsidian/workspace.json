@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c79a1c1edf6ec3fe",
+        "id": "e4855ddbf807aaa5",
         "type": "tabs",
         "children": [
           {
-            "id": "d9a5a6cf096af944",
+            "id": "470f3b3895844332",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Raw Notes/Books/CONCEPTUAL PHYSICS.md",
+                "file": "1 - Raw Notes/Interviews/You really need to coax negative feedback.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": true,
+                  "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CONCEPTUAL PHYSICS"
+              "title": "You really need to coax negative feedback"
             }
           }
         ],
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,22 +84,13 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "a51f48f4fb028637",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 499.5
   },
   "right": {
     "id": "061688a764034036",
@@ -209,49 +200,48 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": true,
       "auto-moc:AutoMOC": false,
       "obsidian-spaced-repetition:Review flashcards": true
     }
   },
-  "active": "d9a5a6cf096af944",
+  "active": "fa497454f8da3ce1",
   "lastOpenFiles": [
+    "You only get to release your first product once.md",
+    "1 - Raw Notes/Interviews/What it means to work super hard.md",
+    "Stand firm on what you believe.md",
+    "We have to be open minded.md",
+    "Strong men believe in cause and effect.md",
+    "You can do whatever you want.md",
+    "Spend your time with good and great people.md",
+    "1 - Raw Notes/Internet/Possibility and Probability.md",
+    "1 - Raw Notes/Internet/Don't fool yourself.md",
+    "Learn to use your own voice.md",
+    "Don't be afraid to speak up.md",
+    "1 - Raw Notes/Interviews/People are too afraid to try things..md",
+    "Never let your sense of morals keep you from doing what is right.md",
+    "1 - Raw Notes/Internet/It's okay to fight the rules sometimes.md",
+    "Just do good.md",
+    "It's okay to fail as long as your tried your best.md",
+    "Failing is  a way to start over in a smarter way, with new lessons having been learned.md",
+    "1 - Raw Notes/Interviews/Every great idea starts with a vision that goes beyond profits..md",
+    "Embrace uncertainty.md",
+    "Don't do it for money.md",
+    "Don't fight by half measure, go all in.md",
+    "0 - MOC/000 - Book Mocs.md",
+    "Care for others as how you care for yourself.md",
+    "1 - Raw Notes/Books/CONCEPTUAL PHYSICS.md",
     "3 - Assets/Images/Pasted image 20250708144534.png",
     "1 - Raw Notes/Books/HUMAN COMPATIBLE.md",
     "3 - Assets/Images/Pasted image 20250708144436.png",
     "1 - Raw Notes/Books/LOOK TO WINDWARD.md",
     "3 - Assets/Images/Pasted image 20250708144418.png",
     "3 - Assets/Images/Pasted image 20250708144411.png",
-    "1 - Raw Notes/Books/INVERSIONS.md",
     "3 - Assets/Images/Pasted image 20250708144348.png",
-    "1 - Raw Notes/Books/USE OF WEAPONS.md",
     "3 - Assets/Images/Pasted image 20250708144324.png",
-    "1 - Raw Notes/Books/LIFE 3.0.md",
     "3 - Assets/Images/Pasted image 20250708144309.png",
-    "1 - Raw Notes/Books/THE FELLOWSHIP OF THE RING.md",
     "3 - Assets/Images/Pasted image 20250708144253.png",
-    "1 - Raw Notes/Books/SUPERINTELLIGENCE.md",
     "3 - Assets/Images/Pasted image 20250708144205.png",
-    "1 - Raw Notes/Books/THE PLAYER OF THE GAMES.md",
     "3 - Assets/Images/Pasted image 20250708144145.png",
-    "1 - Raw Notes/Books/THE CAPITALIST MANIFESTO.md",
-    "3 - Assets/Images/Pasted image 20250708144126.png",
-    "1 - Raw Notes/Books/OUR FINAL INVENTION.md",
-    "1 - Raw Notes/Books/FOUNDATION AND EARTH.md",
-    "1 - Raw Notes/Books/FOUNDATION EDGE.md",
-    "1 - Raw Notes/Books/THE HITCHIKER'S GUIDE TO THE GALAXY.md",
-    "1 - Raw Notes/Books/EXPLORE AND CREATE.md",
-    "1 - Raw Notes/Books/RE-ENTRY.md",
-    "1 - Raw Notes/Books/ONLY THE PARANOID SURVIVE.md",
-    "1 - Raw Notes/Books/MY LIFE AND WORK.md",
-    "1 - Raw Notes/Books/LIFTOFF.md",
-    "1 - Raw Notes/Books/THE GREAT MENTAL MODELS.md",
-    "1 - Raw Notes/Books/FOUNDATION AND EMPIRE.md",
-    "1 - Raw Notes/Books/THE BEGINNING OF THE INFINITY.md",
-    "1 - Raw Notes/Books/STEVE JOBS.md",
-    "1 - Raw Notes/Books/ELON MUSK.md",
-    "1 - Raw Notes/Books/PRELUDE TO FOUNDATIONS.md",
-    "1 - Raw Notes/Books/FOUNDATIONS 1.md",
     "3 - Assets/Images",
     "3 - Assets",
     "1 - Raw Notes/Interviews",
