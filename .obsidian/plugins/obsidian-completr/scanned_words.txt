@@ -26,6 +26,8 @@ Decide
 Deutsch
 December
 Draw
+Denialism
+Douglas
 Tags
 That
 This
@@ -74,6 +76,9 @@ These
 Texas
 Test
 Theory
+Thus
+Tolkien
+Tegmark
 Work
 We
 What
@@ -103,6 +108,7 @@ Wherever
 Whereas
 Watch
 Wouldn
+WE
 super
 something
 single
@@ -420,6 +426,14 @@ safe
 simplest
 supported
 synthesis
+surrounding
+shoves
+slight
+surface
+sees
+seat
+sits
+star
 harder
 humility
 have
@@ -669,6 +683,8 @@ trusting
 tested
 theory
 terminology
+touched
+transformed
 your
 you
 yourself
@@ -885,6 +901,7 @@ largely
 lest
 loose
 lessons
+liberally
 from
 failures
 for
@@ -1050,6 +1067,7 @@ flights
 fly
 findings
 factual
+farthest
 continually
 cause
 channel
@@ -1320,6 +1338,9 @@ capitalism
 circuits
 collaboration
 contradicted
+charges
+contact
+collecting
 and
 are
 about
@@ -1515,6 +1536,16 @@ awesome
 amplify
 artificial
 aspects
+accepts
+atom
+acted
+acceleration
+acting
+action
+asks
+accurate
+atoms
+attract
 back
 bigger
 board
@@ -1639,6 +1670,9 @@ brains
 beforehand
 bodyguard
 beneficial
+benefits
+beneficent
+beliefs
 up
 utterly
 us
@@ -1706,6 +1740,9 @@ unforeseeable
 urinals
 urged
 unexplained
+unbalanced
+upset
+unlike
 Are
 Author
 AI
@@ -1754,6 +1791,10 @@ Aways
 Although
 August
 Artificial
+Atoms
+Air
+Andrew
+Adams
 relentless
 right
 re
@@ -1910,6 +1951,12 @@ reporting
 rides
 regularly
 resolve
+refinement
+receives
+reaction
+rigidly
+resist
+repel
 Can
 Chapter
 Creating
@@ -2090,6 +2137,13 @@ including
 international
 importance
 ingredients
+ion
+interactions
+inertia
+inversely
+ideology
+investigation
+indirect
 energy
 every
 even
@@ -2247,6 +2301,8 @@ educated
 effects
 experimental
 encompasses
+electrical
+exert
 outward
 of
 one
@@ -2333,6 +2389,9 @@ optimal
 observation
 outing
 organizes
+object
+opened
+objects
 more
 member
 matters
@@ -2470,6 +2529,9 @@ minimal
 miniature
 mars
 morals
+motion
+merciless
+momentum
 what
 wisely
 why
@@ -2562,6 +2624,7 @@ weak
 weight
 weekends
 wrongly
+welcomes
 References
 Richard
 Real
@@ -2588,6 +2651,7 @@ Rench
 Rightly
 Refers
 Recognize
+Russell
 Every
 Even
 Entrepreneurs
@@ -2619,6 +2683,8 @@ Eric
 El
 Early
 Excess
+Experiments
+Equilibrium
 pain
 problem
 people
@@ -2827,6 +2893,13 @@ participate
 pivotal
 probably
 predicted
+pairs
+proportional
+partisan
+patroness
+philosopher
+preferred
+property
 director
 doing
 down
@@ -2998,6 +3071,7 @@ discussing
 dams
 denominator
 doubled
+direction
 jeopardize
 job
 just
@@ -3045,6 +3119,8 @@ Florida
 Failing
 Failures
 Formulate
+Forces
+Foster
 Keep
 Krishna
 Knowing
@@ -3078,6 +3154,7 @@ IF
 Inversion
 Intelligence
 International
+Ion
 kept
 knocked
 key
@@ -3095,6 +3172,7 @@ kick
 keys
 kills
 known
+kinds
 Your
 You
 YMCA
@@ -3151,6 +3229,8 @@ nostalgia
 nails
 nicknamed
 necessary
+ness
+nudges
 Branson
 But
 Banks
@@ -3179,6 +3259,7 @@ Boeing
 Books
 Build
 Barrat
+Bostrom
 Sometimes
 Steve
 Strong
@@ -3253,6 +3334,9 @@ Starship
 Starhopper
 SeaWorld
 Saturday
+Social
+Shane
+Stuart
 very
 vengeance
 vault
@@ -3321,6 +3405,9 @@ Mueller
 Muratore
 Minecraft
 Moore
+Motion
+Momentum
+Max
 Preface
 Picasso
 Pixar
@@ -3358,6 +3445,7 @@ Profit
 Paul
 Predict
 Predictions
+Parish
 Great
 Google
 Gaia
@@ -3372,6 +3460,8 @@ Generally
 GPUs
 GPU
 Given
+Grove
+Garriott
 Jobs
 Just
 Joe
@@ -3385,6 +3475,7 @@ Juncosa
 July
 James
 Johan
+Justice
 No
 None
 Noyce
@@ -3404,6 +3495,8 @@ Nothing
 NASA
 Nevada
 Norberg
+Newton
+Nick
 quit
 quote
 quite
@@ -3458,6 +3551,9 @@ Lockheed
 Loose
 Law
 Lets
+Liberal
+Like
+Linear
 Question
 Questions
 Use

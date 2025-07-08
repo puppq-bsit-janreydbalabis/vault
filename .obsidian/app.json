@@ -9,5 +9,6 @@
   "showInlineTitle": false,
   "foldHeading": true,
   "foldIndent": true,
-  "smartIndentList": true
+  "smartIndentList": true,
+  "attachmentFolderPath": "3 - Assets/Images"
 }
