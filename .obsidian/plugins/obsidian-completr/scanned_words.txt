@@ -1368,6 +1368,8 @@ compass
 circles
 communication
 communicating
+civilizational
+compassionate
 and
 are
 about
@@ -1580,6 +1582,7 @@ added
 affect
 allows
 accomplish
+attainment
 back
 bigger
 board
@@ -1779,6 +1782,7 @@ unexplained
 unbalanced
 upset
 unlike
+unacceptable
 Are
 Author
 AI
@@ -1997,6 +2001,7 @@ repel
 rapidly
 revised
 relevant
+reduction
 Can
 Chapter
 Creating
@@ -2348,6 +2353,9 @@ encompasses
 electrical
 exert
 empowered
+existential
+endowment
+entertaining
 outward
 of
 one
@@ -2958,6 +2966,7 @@ prototyped
 possess
 posterity
 plate
+please
 director
 doing
 down
@@ -3150,6 +3159,7 @@ judged
 justice
 jump
 jetpack
+jubilant
 Foundations
 For
 Foolish
@@ -3322,6 +3332,7 @@ Books
 Build
 Barrat
 Bostrom
+Bodyguard
 Sometimes
 Steve
 Strong
