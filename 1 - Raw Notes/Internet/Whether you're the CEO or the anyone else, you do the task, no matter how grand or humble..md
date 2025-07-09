@@ -1,5 +1,5 @@
 Date: 2025-06-22
-Tags: #work #responsibility #elon_musk #mindset 
+Tags: #work_ethic#responsibility #elon_musk #mindset 
 
 
 # Whether you're the CEO or the anyone else, you do the task, no matter how grand or humble.

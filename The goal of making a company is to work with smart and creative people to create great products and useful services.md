@@ -1,6 +1,6 @@
 Date: 2025-06-11
 Book: [[BECOMING STEVE JOBS]]
-Tags: #work #business 
+Tags: #business 
 
 # The goal of making a company is to work with smart and creative people to create great products and useful services
 

@@ -1,5 +1,5 @@
 Date: 2025-06-22
-Tags: #mindset #work #elon_musk
+Tags: #mindset #work_ethic#elon_musk
 
 
 # Try to be useful as possible

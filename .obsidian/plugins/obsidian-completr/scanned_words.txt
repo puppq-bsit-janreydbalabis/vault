@@ -28,6 +28,7 @@ December
 Draw
 Denialism
 Douglas
+DIANGELO
 Tags
 That
 This
@@ -109,6 +110,7 @@ Whereas
 Watch
 Wouldn
 WE
+WEST
 super
 something
 single
@@ -434,6 +436,10 @@ sees
 seat
 sits
 star
+spaceflight
+sway
+sin
+sins
 harder
 humility
 have
@@ -525,6 +531,8 @@ holding
 hearing
 heard
 hypothesis
+hires
+humour
 towards
 the
 to
@@ -685,6 +693,9 @@ theory
 terminology
 touched
 transformed
+topic
+testicular
+threats
 your
 you
 yourself
@@ -775,6 +786,9 @@ government
 guy
 gangsters
 gather
+gave
+giants
+genies
 Have
 Hare
 How
@@ -1069,6 +1083,10 @@ findings
 factual
 farthest
 friend
+fleeting
+fortitude
+falsified
+finding
 continually
 cause
 channel
@@ -1344,6 +1362,12 @@ contact
 collecting
 coax
 coming
+cookie
+cutter
+compass
+circles
+communication
+communicating
 and
 are
 about
@@ -1550,6 +1574,12 @@ accurate
 atoms
 attract
 actively
+appreciate
+ancestors
+added
+affect
+allows
+accomplish
 back
 bigger
 board
@@ -1677,6 +1707,8 @@ beneficial
 benefits
 beneficent
 beliefs
+blown
+bunch
 up
 utterly
 us
@@ -1799,6 +1831,7 @@ Atoms
 Air
 Andrew
 Adams
+AND
 relentless
 right
 re
@@ -1961,6 +1994,9 @@ reaction
 rigidly
 resist
 repel
+rapidly
+revised
+relevant
 Can
 Chapter
 Creating
@@ -2008,6 +2044,9 @@ Cokes
 Caution
 Closely
 Care
+Cowardice
+Communication
+Culture
 intensity
 intelligence
 ideas
@@ -2308,6 +2347,7 @@ experimental
 encompasses
 electrical
 exert
+empowered
 outward
 of
 one
@@ -2538,6 +2578,7 @@ morals
 motion
 merciless
 momentum
+map
 what
 wisely
 why
@@ -2631,6 +2672,8 @@ weight
 weekends
 wrongly
 welcomes
+wishes
+wilderness
 References
 Richard
 Real
@@ -2659,6 +2702,7 @@ Refers
 Recognize
 Russell
 Rose
+Rockets
 Every
 Even
 Entrepreneurs
@@ -2908,6 +2952,12 @@ philosopher
 preferred
 property
 painful
+pivot
+pitch
+prototyped
+possess
+posterity
+plate
 director
 doing
 down
@@ -3080,6 +3130,7 @@ dams
 denominator
 doubled
 direction
+deadly
 jeopardize
 job
 just
@@ -3138,6 +3189,7 @@ Kennedy
 Kassouf
 Koenigsmann
 Kevin
+KENDI
 If
 It
 Iain
@@ -3164,6 +3216,7 @@ Inversion
 Intelligence
 International
 Ion
+Intellectual
 kept
 knocked
 key
@@ -3417,6 +3470,7 @@ Moore
 Motion
 Momentum
 Max
+Move
 Preface
 Picasso
 Pixar
@@ -3563,6 +3617,7 @@ Lets
 Liberal
 Like
 Linear
+Language
 Question
 Questions
 Use

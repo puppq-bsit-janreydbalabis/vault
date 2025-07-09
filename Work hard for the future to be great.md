@@ -1,6 +1,6 @@
 Date: 2025-06-12
 Book: [[ZERO TO ONE]]
-Tags:  #future #work
+Tags:  #future
 
 # Work hard for the future to be great
 

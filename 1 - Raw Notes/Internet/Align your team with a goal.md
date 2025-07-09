@@ -1,5 +1,5 @@
 Date: 2025-06-22
-Tags: #elon_musk #work 
+Tags: #elon_musk 
 
 
 # Align your team with a goal
