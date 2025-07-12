@@ -1583,6 +1583,7 @@ affect
 allows
 accomplish
 attainment
+assembled
 back
 bigger
 board
@@ -2356,6 +2357,7 @@ empowered
 existential
 endowment
 entertaining
+elementary
 outward
 of
 one
@@ -3160,6 +3162,7 @@ justice
 jump
 jetpack
 jubilant
+join
 Foundations
 For
 Foolish

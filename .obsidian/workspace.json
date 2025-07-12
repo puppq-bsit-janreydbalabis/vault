@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Raw Notes/Internet/Play to win.md",
+                "file": "1 - Raw Notes/Internet/Elon Musk on the critical things to get right when building a company.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Play to win"
+              "title": "Elon Musk on the critical things to get right when building a company"
             }
           }
         ],
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "play ",
+                "query": "tag:#company",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,8 +204,11 @@
       "obsidian-spaced-repetition:Review flashcards": true
     }
   },
-  "active": "470f3b3895844332",
+  "active": "fa497454f8da3ce1",
   "lastOpenFiles": [
+    "1 - Raw Notes/Interviews/To recruit the world's best talent, show them that their work matters.md",
+    "1 - Raw Notes/Internet/Elon Musk on the critical things to get right when building a company.md",
+    "1 - Raw Notes/Internet/Play to win.md",
     "You should always do what seemed like the right thing to do at the time.md",
     "We have to be open minded.md",
     "You must play, and play to win even if you know you will probably lose.md",
@@ -229,9 +232,6 @@
     "Intelligence is the ability to accomplish goals.md",
     "You could find out most things, if you knew the right questions to ask.md",
     "Work super harder towards your goals. Have the humility to learn from your failures.md",
-    "Seven questions that every business must answer.md",
-    "Once you know what the question actually is, you'll know what the answer means.md",
-    "It's essential to deeply think how computers will help humans to solve hard problems.md",
     "3 - Assets/Images/Pasted image 20250708144534.png",
     "3 - Assets/Images/Pasted image 20250708144436.png",
     "3 - Assets/Images/Pasted image 20250708144418.png",
