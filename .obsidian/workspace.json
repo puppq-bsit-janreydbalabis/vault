@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e4855ddbf807aaa5",
+        "id": "312c9babe6a18a80",
         "type": "tabs",
         "children": [
           {
-            "id": "470f3b3895844332",
+            "id": "753255028257f8a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Raw Notes/Internet/Elon Musk on the critical things to get right when building a company.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Elon Musk on the critical things to get right when building a company"
+              "title": "New tab"
             }
           }
         ],
@@ -85,8 +71,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,6 +167,26 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "f6ddeecadeccd5de",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "87103022cdb37c29",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-sidebar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Full Calendar"
+            }
           }
         ],
         "currentTab": 4
@@ -201,13 +206,28 @@
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
       "auto-moc:AutoMOC": false,
-      "obsidian-spaced-repetition:Review flashcards": true
+      "obsidian-spaced-repetition:Review flashcards": true,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fa497454f8da3ce1",
+  "active": "753255028257f8a2",
   "lastOpenFiles": [
-    "1 - Raw Notes/Interviews/To recruit the world's best talent, show them that their work matters.md",
+    "0 - MOC/000 - Book Mocs.md",
+    "4 - Tasks/2025-07-31 Create log in system.md",
+    "4 - Tasks/2025-06-29 Make  a log in sytem.md",
+    "Untitled.md",
+    "Untitled Kanban.md",
+    "Untitled 1.md",
+    "tasks.md",
+    "3 - Assets/Images/Pasted image 20250708144411.png",
+    "3 - Assets/Images/Pasted image 20250708144436.png",
+    "3 - Assets/Images/Pasted image 20250708144534.png",
+    "4 - Tasks",
+    "3 - Assets/2025-07-31 create new notes.md",
+    "Laws of Thermodynamics.md",
     "1 - Raw Notes/Internet/Elon Musk on the critical things to get right when building a company.md",
+    "1 - Raw Notes/Interviews/To recruit the world's best talent, show them that their work matters.md",
     "1 - Raw Notes/Internet/Play to win.md",
     "You should always do what seemed like the right thing to do at the time.md",
     "We have to be open minded.md",
@@ -223,19 +243,7 @@
     "It's okay to fail as long as your tried your best.md",
     "1 - Raw Notes/Internet/It's okay to fight the rules sometimes.md",
     "Embrace uncertainty.md",
-    "It is important to do what you think is right.md",
-    "1 - Raw Notes/Internet/Don't fool yourself.md",
-    "Don't leave this world without making a dent.md",
-    "The essential task of our age.md",
-    "Believe what you want to believe as long as you don't force your view to anyone.md",
-    "Be passionate in what you do.md",
-    "Intelligence is the ability to accomplish goals.md",
-    "You could find out most things, if you knew the right questions to ask.md",
-    "Work super harder towards your goals. Have the humility to learn from your failures.md",
-    "3 - Assets/Images/Pasted image 20250708144534.png",
-    "3 - Assets/Images/Pasted image 20250708144436.png",
     "3 - Assets/Images/Pasted image 20250708144418.png",
-    "3 - Assets/Images/Pasted image 20250708144411.png",
     "3 - Assets/Images/Pasted image 20250708144348.png",
     "3 - Assets/Images/Pasted image 20250708144324.png",
     "3 - Assets/Images/Pasted image 20250708144309.png",
@@ -251,7 +259,6 @@
     "1 - Raw Notes/Books/Zero to One",
     "1 - Raw Notes/Books/Screw Business As Usual",
     "1 - Raw Notes/Books/Lying",
-    "1 - Raw Notes/Books/Consider Phlebas",
     "Untitled.canvas",
     "1 - Raw Notes/Books/Becoming Steve Jobs/1.canvas"
   ]
